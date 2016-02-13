@@ -20,6 +20,9 @@ $RECYCLE.BIN/
 # Flash
 *.swf
 
+# Python
+*.pyc
+
 # =========================
 # Operating System Files
 # =========================
