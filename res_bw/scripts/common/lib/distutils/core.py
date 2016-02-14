@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/core.py
 """distutils.core
 
@@ -180,4 +180,4 @@ def run_setup(script_name, script_args = None, stop_after = 'run'):
     return _setup_distribution
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\core.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:27 Støední Evropa (bìžný èas)

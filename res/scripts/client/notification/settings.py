@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/settings.py
 LIST_SCROLL_STEP_FACTOR = 10
 DEF_ICON_PATH = '../maps/icons/library/{0:>s}-1.png'
@@ -70,4 +70,4 @@ def makePathToIcon(iconName):
     return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/MedalPoppelAchievement.py
 from abstract import ClassProgressAchievement
 from dossiers2.ui.achievements import ACHIEVEMENT_BLOCK as _AB
@@ -18,4 +18,4 @@ class MedalPoppelAchievement(ClassProgressAchievement):
         return dossier.getRandomStats().getSpottedEnemiesCount() - dossier.getClanStats().getSpottedEnemiesCount() + dossier.getTeam7x7Stats().getSpottedEnemiesCount() + dossier.getFortBattlesStats().getSpottedEnemiesCount() + dossier.getFortSortiesStats().getSpottedEnemiesCount() + dossier.getGlobalMapStats().getSpottedEnemiesCount()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\medalpoppelachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:40 Støední Evropa (bìžný èas)

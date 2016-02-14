@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/context/unit_ctx.py
 from constants import PREBATTLE_TYPE
 from account_helpers import gameplay_ctx
@@ -447,4 +447,4 @@ class ChangeFalloutQueueTypeCtx(_UnitRequestCtx):
         return _REQUEST_TYPE.CHANGE_FALLOUT_QUEUE_TYPE
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\context\unit_ctx.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:13 Støední Evropa (bìžný èas)

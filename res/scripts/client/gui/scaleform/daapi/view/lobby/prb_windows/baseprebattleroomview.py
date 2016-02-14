@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:44 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/BasePrebattleRoomView.py
 from CurrentVehicle import g_currentVehicle
 from adisp import process
@@ -217,4 +217,4 @@ class BasePrebattleRoomView(BasePrebattleRoomViewMeta, PrbListener):
             events_dispatcher.rqDeactivateChannel(self.__clientID)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\baseprebattleroomview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:44 Støední Evropa (bìžný èas)

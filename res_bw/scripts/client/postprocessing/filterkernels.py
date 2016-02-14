@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/PostProcessing/FilterKernels.py
 
 
@@ -198,4 +198,4 @@ def embossFilter(k = 1):
     return samples
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\postprocessing\filterkernels.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:00 Støední Evropa (bìžný èas)

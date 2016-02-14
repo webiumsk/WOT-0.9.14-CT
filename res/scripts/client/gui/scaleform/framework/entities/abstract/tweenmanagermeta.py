@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/entities/abstract/TweenManagerMeta.py
 from gui.Scaleform.framework.entities.BaseDAAPIModule import BaseDAAPIModule
 
@@ -18,4 +18,4 @@ class TweenManagerMeta(BaseDAAPIModule):
             return self.flashObject.as_setDataFromXml(data)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\entities\abstract\tweenmanagermeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:38 Støední Evropa (bìžný èas)

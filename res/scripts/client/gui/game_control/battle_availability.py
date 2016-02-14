@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/battle_availability.py
 import Event
 from debug_utils import LOG_DEBUG
@@ -272,4 +272,4 @@ class SortiesCurfewController(BattleAvailabilityController):
         return 'SortiesCurfewController (Sorties availability: At current hour: {0}, ' + 'At current periphery: {1}. Next update after: {2} sec. All periods: {3}'.format(str(self._battlesAvailable), str(self._currServerAvailable), str(currentPeriod), str(periods))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\battle_availability.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:57 Støední Evropa (bìžný èas)

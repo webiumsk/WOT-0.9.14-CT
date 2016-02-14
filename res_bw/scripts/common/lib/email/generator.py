@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/email/generator.py
 """Classes to generate plain text from a message object tree."""
 __all__ = ['Generator', 'DecodedGenerator']
@@ -285,4 +285,4 @@ def _make_boundary(text = None):
         return b
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\email\generator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:51 Støední Evropa (bìžný èas)

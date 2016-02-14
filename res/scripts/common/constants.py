@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/constants.py
 import math
 try:
@@ -1710,4 +1710,4 @@ class VISIBILITY:
 VEHICLE_ATTRS_TO_SYNC = frozenset(['circularVisionRadius'])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:53 Støední Evropa (bìžný èas)

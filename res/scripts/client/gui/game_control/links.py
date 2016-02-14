@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/links.py
 import re
 from gui import macroses
@@ -70,4 +70,4 @@ class URLMarcos(object):
         return '%s%s' % (self.__MACROS_PREFIX, str(macros))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\links.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)

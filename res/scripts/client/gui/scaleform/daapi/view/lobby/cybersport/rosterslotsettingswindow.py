@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/cyberSport/RosterSlotSettingsWindow.py
 from account_helpers.AccountSettings import AccountSettings
 from gui.Scaleform.daapi.view.lobby.cyberSport.VehicleSelectorBase import VehicleSelectorBase
@@ -140,4 +140,4 @@ class RosterSlotSettingsWindow(RosterSlotSettingsWindowMeta, VehicleSelectorBase
         return slotsSettings
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport\rosterslotsettingswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:19 Støední Evropa (bìžný èas)

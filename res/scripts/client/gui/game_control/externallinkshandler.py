@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/ExternalLinksHandler.py
 import BigWorld
 from adisp import async, process
@@ -135,4 +135,4 @@ class ExternalLinksHandler(Controller):
         self.__openParsedUrl('globalMapPromo')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\externallinkshandler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:59 Støední Evropa (bìžný èas)

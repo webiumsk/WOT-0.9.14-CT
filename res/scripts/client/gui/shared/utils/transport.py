@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/transport.py
 import zlib
 import cPickle
@@ -24,4 +24,4 @@ def z_loads(value):
     return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\transport.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:03 Støední Evropa (bìžný èas)

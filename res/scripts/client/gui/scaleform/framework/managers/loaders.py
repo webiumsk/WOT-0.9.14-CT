@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/managers/loaders.py
 from collections import namedtuple
 import Event
@@ -123,4 +123,4 @@ class SequenceIDLoader(EventSystemEntity):
         self.app.loadView(alias, 'deprecated_rw{0}'.format(self.__counter.next()), *args, **kwargs)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\managers\loaders.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:39 Støední Evropa (bìžný èas)

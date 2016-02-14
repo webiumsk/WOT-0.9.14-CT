@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/cp437.py
 """ Python Character Mapping Codec cp437 generated from 'VENDORS/MICSFT/PC/CP437.TXT' with gencodec.py.
 
@@ -426,4 +426,4 @@ encoding_map = {0: 0,
  9632: 254}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\cp437.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:02 Støední Evropa (bìžný èas)

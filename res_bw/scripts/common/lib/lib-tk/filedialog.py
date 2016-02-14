@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib-tk/FileDialog.py
 """File selection dialog classes.
 
@@ -251,4 +251,4 @@ if __name__ == '__main__':
     test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib-tk\filedialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:46 Støední Evropa (bìžný èas)

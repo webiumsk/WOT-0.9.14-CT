@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/quest_xml_source.py
 from copy import deepcopy
 from pprint import pformat
@@ -607,4 +607,4 @@ class Source(object):
             node.addChild(subNode)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\quest_xml_source.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:07 Støední Evropa (bìžný èas)

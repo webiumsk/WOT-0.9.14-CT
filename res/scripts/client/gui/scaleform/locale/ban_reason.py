@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/BAN_REASON.py
 
 
@@ -20,4 +20,4 @@ class BAN_REASON(object):
     LOGIN_PRIORITY_CHEAT = '#ban_reason:login_priority_cheat'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\ban_reason.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/header/account_popover.py
 from gui.Scaleform.locale.MINICLIENT import MINICLIENT
 from gui.shared.utils.functions import makeTooltip
@@ -54,4 +54,4 @@ class CrewButtonStatusPointcut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.header.AccountPopover', 'AccountPopover', '_crewDataButtonStatus', aspects=(CrewButtonStatusAspect,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\header\account_popover.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)

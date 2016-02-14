@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/storage/fallout_storage.py
 from UnitBase import INV_ID_CLEAR_VEHICLE
 from account_helpers import AccountSettings
@@ -139,4 +139,4 @@ class FalloutLocalStorage(LocalStorage):
         g_settingsCore.serverSettings.setSection(SETTINGS_SECTIONS.FALLOUT, self.__settings)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\storage\fallout_storage.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:27 Støední Evropa (bìžný èas)

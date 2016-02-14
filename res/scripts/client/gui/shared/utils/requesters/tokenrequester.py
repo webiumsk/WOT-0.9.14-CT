@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/requesters/TokenRequester.py
 import cPickle
 from functools import partial
@@ -102,4 +102,4 @@ class TokenRequester(object):
         self.__onTokenReceived(requestID, tokenType, cPickle.dumps({'error': 'TIMEOUT'}, -1))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\requesters\tokenrequester.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:08 Støední Evropa (bìžný èas)

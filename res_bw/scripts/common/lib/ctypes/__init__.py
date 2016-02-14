@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/ctypes/__init__.py
 """create and manipulate C data types in Python"""
 import os as _os, sys as _sys
@@ -568,4 +568,4 @@ del kind
 _reset_cache()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\ctypes\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:13 Støední Evropa (bìžný èas)

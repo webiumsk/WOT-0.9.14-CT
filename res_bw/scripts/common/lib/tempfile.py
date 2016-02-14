@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/tempfile.py
 """Temporary files.
 
@@ -584,4 +584,4 @@ class SpooledTemporaryFile:
             return iter(self._file.readlines(*args))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\tempfile.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:31 Støední Evropa (bìžný èas)

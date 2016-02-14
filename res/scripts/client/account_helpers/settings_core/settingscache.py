@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:07 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/settings_core/SettingsCache.py
 from Event import Event
 from adisp import async
@@ -73,4 +73,4 @@ class _SettingsCache(object):
 g_settingsCache = _SettingsCache()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\settings_core\settingscache.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:07 Støední Evropa (bìžný èas)

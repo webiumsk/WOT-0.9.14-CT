@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/dialogs/IconPriceDialog.py
 from gui.Scaleform.daapi.view.meta.IconPriceDialogMeta import IconPriceDialogMeta
 from gui.Scaleform.locale.DIALOGS import DIALOGS
@@ -15,4 +15,4 @@ class IconPriceDialog(IconPriceDialogMeta):
         self.as_setMessagePriceS(self._meta.getMessagePrice(), 'gold', self._meta.getAction())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\dialogs\iconpricedialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:49 Støední Evropa (bìžný èas)

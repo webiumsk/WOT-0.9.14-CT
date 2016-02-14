@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-irix5/panelparser.py
 from warnings import warnpy3k
 warnpy3k('the panelparser module has been removed in Python 3.0', stacklevel=2)
@@ -86,4 +86,4 @@ def parse_file(fp):
     return exprlist
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-irix5\panelparser.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:46 Støední Evropa (bìžný èas)

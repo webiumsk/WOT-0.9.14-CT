@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/battle/meta/FalloutScorePanelMeta.py
 from gui.Scaleform.daapi.view.battle.meta.BattleComponentMeta import BattleComponentMeta
 
@@ -20,4 +20,4 @@ class FalloutScorePanelMeta(BattleComponentMeta):
         self._flashObject.as_stopScoreHighlightAnim()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\battle\meta\falloutscorepanelmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:47 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/QuestsContentTabs.py
 from gui.Scaleform.daapi.view.meta.QuestsContentTabsMeta import QuestsContentTabsMeta
 from gui.Scaleform.genConsts.QUESTS_ALIASES import QUESTS_ALIASES
@@ -42,4 +42,4 @@ class QuestsContentTabs(QuestsContentTabsMeta):
          'id': tabId}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\questscontenttabs.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:58 Støední Evropa (bìžný èas)

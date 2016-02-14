@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/PostProcessing/Effects/Shimmer.py
 import BigWorld
 from PostProcessing.RenderTargets import *
@@ -89,4 +89,4 @@ def setShimmerStyle(h, style):
         m.vFixup = 0.0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\postprocessing\effects\shimmer.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:03 Støední Evropa (bìžný èas)

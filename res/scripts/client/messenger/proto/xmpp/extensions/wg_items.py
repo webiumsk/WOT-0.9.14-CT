@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/extensions/wg_items.py
 from debug_utils import LOG_CURRENT_EXCEPTION
 from shared_utils import findFirst
@@ -131,4 +131,4 @@ def makeWGInfoFromPresence(info):
     return WGExtsInfo(dbID, nickname, clientInfo, clanInfo, banInfo)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\extensions\wg_items.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:06 Støední Evropa (bìžný èas)

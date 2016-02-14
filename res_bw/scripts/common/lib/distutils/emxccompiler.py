@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/emxccompiler.py
 """distutils.emxccompiler
 
@@ -170,4 +170,4 @@ def get_versions():
     return (gcc_version, ld_version)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\emxccompiler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:29 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/msilib/sequence.py
 AdminExecuteSequence = [(u'InstallInitialize', None, 1500),
  (u'InstallFinalize', None, 6600),
@@ -117,4 +117,4 @@ tables = ['AdminExecuteSequence',
  'InstallUISequence']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\msilib\sequence.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:34 Støední Evropa (bìžný èas)

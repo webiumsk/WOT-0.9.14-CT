@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/clubs_settings.py
 import ResMgr
 from debug_utils import LOG_ERROR, LOG_DEBUG
@@ -32,4 +32,4 @@ def init():
         g_cache = ClubsSettings.default()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\clubs_settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:52 Støední Evropa (bìžný èas)

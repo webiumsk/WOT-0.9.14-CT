@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_map.py
 """Fixer that changes map(F, ...) into list(map(F, ...)) unless there
 exists a 'from future_builtins import map' statement in the top-level
@@ -56,4 +56,4 @@ class FixMap(fixer_base.ConditionalFix):
             return new
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_map.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)

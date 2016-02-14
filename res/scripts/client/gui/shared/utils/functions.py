@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/functions.py
 import random
 import re
@@ -323,4 +323,4 @@ def parsePostBattleUniqueSubUrl(uniqueSubUrl):
     return uniqueSubUrl.split('/')[1:]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\functions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:00 Støední Evropa (bìžný èas)

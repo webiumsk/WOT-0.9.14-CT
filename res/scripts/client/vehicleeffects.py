@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/VehicleEffects.py
 from collections import namedtuple
 from functools import partial
@@ -539,4 +539,4 @@ class RepaintParams(object):
         return (repaintReferenceColor, repaintReplaceColor, repaintGlossRangeScale)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vehicleeffects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:54 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/UserString.py
 """A user-defined wrapper around string objects
 
@@ -317,4 +317,4 @@ if __name__ == '__main__':
     __import__('test.test_' + called_as.lower())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\userstring.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:39 Støední Evropa (bìžný èas)

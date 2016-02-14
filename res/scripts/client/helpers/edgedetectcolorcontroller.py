@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/EdgeDetectColorController.py
 import BigWorld
 import ResMgr
@@ -54,4 +54,4 @@ class EdgeDetectColorController:
         BigWorld.wgSetEdgeDetectColors(colorsSet)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\edgedetectcolorcontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:15 Støední Evropa (bìžný èas)

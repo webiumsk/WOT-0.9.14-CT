@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/AimerAchievement.py
 from dossiers2.ui.achievements import ACHIEVEMENT_BLOCK as _AB
 from abstract import SeriesAchievement
@@ -13,4 +13,4 @@ class AimerAchievement(NoProgressBar, SeriesAchievement):
         return ((_AB.TOTAL, 'maxAimerSeries'), (_AB.TOTAL, 'maxAimerSeries'))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\aimerachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:37 Støední Evropa (bìžný èas)

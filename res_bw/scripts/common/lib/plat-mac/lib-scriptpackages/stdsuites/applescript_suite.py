@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:19 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/StdSuites/AppleScript_Suite.py
 """Suite AppleScript Suite: Standard terms for AppleScript
 Level 1, version 1
@@ -2023,4 +2023,4 @@ _enumdeclarations = {'boov': _Enum_boov,
  'misc': _Enum_misc}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\stdsuites\applescript_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:20 Støední Evropa (bìžný èas)

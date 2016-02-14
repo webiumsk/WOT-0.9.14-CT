@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/sqlite3/test/dbapi.py
 import unittest
 import sys
@@ -890,4 +890,4 @@ if __name__ == '__main__':
     test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\sqlite3\test\dbapi.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:29 Støední Evropa (bìžný èas)

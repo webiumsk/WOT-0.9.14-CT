@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clans/clan_controller.py
 from collections import defaultdict
 import BigWorld
@@ -590,4 +590,4 @@ class _ClanController(ClansListeners):
 g_clanCtrl = _ClanController()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clans\clan_controller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:42 Støední Evropa (bìžný èas)

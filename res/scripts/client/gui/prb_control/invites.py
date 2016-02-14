@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/invites.py
 from collections import namedtuple, defaultdict
 import BigWorld
@@ -686,4 +686,4 @@ class InvitesManager(UsersInfoHelper):
         return isInviteSenderIgnoredInBattle(userGetter(invite.creatorDBID), g_settings.userPrefs.invitesFromFriendsOnly, invite.isCreatedInBattle())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\invites.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:11 Støední Evropa (bìžný èas)

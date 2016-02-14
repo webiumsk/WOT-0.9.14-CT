@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/post_processing/post_effect_controllers.py
 import BigWorld
 import Math
@@ -79,4 +79,4 @@ class DofEffectManualDistanceCtrl(IEffectController):
         DepthOfField.zFar.set(zFar, 0.1, True)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\post_processing\post_effect_controllers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:14 Støední Evropa (bìžný èas)

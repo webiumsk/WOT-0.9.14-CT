@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/CodeWarrior/Required.py
 """Suite Required: Terms that every application should support
 Level 1, version 1
@@ -40,4 +40,4 @@ _compdeclarations = {}
 _enumdeclarations = {'Conv': _Enum_Conv}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\codewarrior\required.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:14 Støední Evropa (bìžný èas)

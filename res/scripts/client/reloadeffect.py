@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/ReloadEffect.py
 from helpers.CallbackDelayer import CallbackDelayer
 import SoundGroups
@@ -76,4 +76,4 @@ class SimpleReload(CallbackDelayer):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\reloadeffect.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:48 Støední Evropa (bìžný èas)

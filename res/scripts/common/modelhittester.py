@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/ModelHitTester.py
 from collections import namedtuple
 import math
@@ -105,4 +105,4 @@ def segmentMayHitVehicle(vehicleDescr, segmentStart, segmentEnd, vehicleCenter):
 SegmentCollisionResult = namedtuple('SegmentCollisionResult', ('dist', 'hitAngleCos', 'armor'))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\modelhittester.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:02 Støední Evropa (bìžný èas)

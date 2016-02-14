@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/custom/layouts.py
 from dossiers2.common.DossierBlockBuilders import *
 from account_layout import accountDossierLayout
@@ -10,4 +10,4 @@ VERSION_RECORD_FORMAT = 'H'
 BLOCK_SIZE_RECORD_FORMAT = 'H'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\custom\layouts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:16 Støední Evropa (bìžný èas)

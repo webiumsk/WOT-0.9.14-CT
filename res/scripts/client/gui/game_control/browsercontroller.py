@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/BrowserController.py
 import Event
 from WebBrowser import WebBrowser
@@ -131,4 +131,4 @@ class BrowserController(Controller):
         g_eventBus.handleEvent(LoadViewEvent(VIEW_ALIAS.BROWSER_WINDOW, getViewName(VIEW_ALIAS.BROWSER_WINDOW, browserID), ctx=ctx), EVENT_BUS_SCOPE.LOBBY)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\browsercontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:58 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/CompaniesWindow.py
 from adisp import process
 from gui.Scaleform.daapi.view.lobby.prb_windows import companies_dps
@@ -94,4 +94,4 @@ class CompaniesWindow(PrebattlesListWindow, CompaniesWindowMeta):
             self.as_setRefreshCoolDownS(event.coolDown)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\companieswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:45 Støední Evropa (bìžný èas)

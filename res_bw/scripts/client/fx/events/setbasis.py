@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Events/SetBasis.py
 from FX import s_sectionProcessors
 from ParticleSubSystem import *
@@ -37,4 +37,4 @@ class SetBasis(ParticleSubSystem):
 s_sectionProcessors['SetBasis'] = SetBasis
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\events\setbasis.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:57 Støední Evropa (bìžný èas)

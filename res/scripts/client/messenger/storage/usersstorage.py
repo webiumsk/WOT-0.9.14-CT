@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/storage/UsersStorage.py
 from collections import deque, defaultdict
 import types
@@ -396,4 +396,4 @@ class UsersStorage(RevCachedStorage):
         return 'USERS_STORAGE_REV'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\storage\usersstorage.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:09 Støední Evropa (bìžný èas)

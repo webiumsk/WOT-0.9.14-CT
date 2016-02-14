@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/subprocess.py
 r"""subprocess - Subprocesses with accessible I/O streams
 
@@ -1352,4 +1352,4 @@ if __name__ == '__main__':
         _demo_posix()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\subprocess.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:25 Støední Evropa (bìžný èas)

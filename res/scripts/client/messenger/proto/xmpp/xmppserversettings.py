@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/XmppServerSettings.py
 import types
 from debug_utils import LOG_ERROR
@@ -147,4 +147,4 @@ class XmppServerSettings(IProtoSettings):
             return len(self.userRoomsService) > 0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\xmppserversettings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)

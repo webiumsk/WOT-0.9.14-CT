@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/bonus_readers.py
 import time
 import items
@@ -441,4 +441,4 @@ def __readBonusSubSection(bonusReaders, bonusRange, section, isOneOf = False):
         return bonus
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\bonus_readers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:49 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-os2emx/IN.py
 PAGE_SIZE = 4096
 HZ = 100
@@ -109,4 +109,4 @@ IP_DEFAULT_MULTICAST_LOOP = 1
 IP_MAX_MEMBERSHIPS = 20
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-os2emx\in.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:25 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/MarkOnGunAchievement.py
 from helpers import i18n
 import BigWorld
@@ -71,4 +71,4 @@ class MarkOnGunAchievement(RegularAchievement):
         return 'MarkOnGunAchievement<value=%s; damageRating=%.2f>' % (str(self._value), float(self.__damageRating))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\markongunachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/__future__.py
 """Record of phased-in incompatible language changes.
 
@@ -99,4 +99,4 @@ print_function = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), CO_FUTUR
 unicode_literals = _Feature((2, 6, 0, 'alpha', 2), (3, 0, 0, 'alpha', 0), CO_FUTURE_UNICODE_LITERALS)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\__future__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:50 Støední Evropa (bìžný èas)

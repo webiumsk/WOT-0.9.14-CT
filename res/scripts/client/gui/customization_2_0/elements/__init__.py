@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/customization_2_0/elements/__init__.py
 from available import Camouflage as AvailableCamouflage
 from available import Emblem as AvailableEmblem
@@ -10,4 +10,4 @@ from qualifier import Qualifier, CamouflageQualifier
 __all__ = ('AvailableCamouflage', 'AvailableEmblem', 'AvailableInscription', 'InstalledCamouflage', 'InstalledEmblem', 'InstalledInscription', 'Qualifier', 'CamouflageQualifier')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\customization_2_0\elements\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:54 Støední Evropa (bìžný èas)

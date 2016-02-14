@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/chains/aspects.py
 import weakref
 from gui.Scaleform.daapi.view.dialogs import DIALOG_BUTTON_ID
@@ -30,4 +30,4 @@ class SimpleDialogClosePointcut(aop.Pointcut):
         super(SimpleDialogClosePointcut, self).__init__('gui.Scaleform.daapi.view.dialogs.SimpleDialog', 'SimpleDialog', '^_SimpleDialog__callHandler$')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\chains\aspects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:20 Støední Evropa (bìžný èas)

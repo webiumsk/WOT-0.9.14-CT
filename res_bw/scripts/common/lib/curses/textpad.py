@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/curses/textpad.py
 """Simple textbox editing widget with Emacs-like keybindings."""
 import curses
@@ -200,4 +200,4 @@ if __name__ == '__main__':
     print 'Contents of text box:', repr(str)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\curses\textpad.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:25 Støední Evropa (bìžný èas)

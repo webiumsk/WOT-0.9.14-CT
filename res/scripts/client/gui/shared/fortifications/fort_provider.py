@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/fortifications/fort_provider.py
 import weakref
 from FortifiedRegionBase import FORT_ERROR, FORT_ERROR_NAMES
@@ -248,4 +248,4 @@ class ClientFortProvider(object):
         self.resetState()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\fortifications\fort_provider.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:29 Støední Evropa (bìžný èas)

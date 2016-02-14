@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/PlayerBonusesPanel.py
 import BigWorld
 from gui import DebugMonitorView
@@ -49,4 +49,4 @@ class PlayerBonusesPanel(object):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\playerbonusespanel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:26 Støední Evropa (bìžný èas)

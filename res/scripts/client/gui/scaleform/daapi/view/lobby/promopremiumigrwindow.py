@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/PromoPremiumIgrWindow.py
 from account_helpers.AccountSettings import AccountSettings, IGR_PROMO
 from gui.Scaleform.daapi.view.meta.PromoPremiumIgrWindowMeta import PromoPremiumIgrWindowMeta
@@ -33,4 +33,4 @@ class PromoPremiumIgrWindow(PromoPremiumIgrWindowMeta):
         self.as_setApplyButtonLabelS(ms(MENU.PROMOPREMIUMIGRWINDOW_APPLYBUTTONLABEL))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\promopremiumigrwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:54 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/compiler/consts.py
 OP_ASSIGN = 'OP_ASSIGN'
 OP_DELETE = 'OP_DELETE'
@@ -22,4 +22,4 @@ CO_FUTURE_WITH_STATEMENT = 32768
 CO_FUTURE_PRINT_FUNCTION = 65536
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\compiler\consts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:03 Støední Evropa (bìžný èas)

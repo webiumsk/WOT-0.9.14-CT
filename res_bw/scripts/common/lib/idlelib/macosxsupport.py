@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/macosxSupport.py
 """
 A number of functions that enhance IDLE on Mac OSX.
@@ -199,4 +199,4 @@ def setupApp(root, flist):
         addOpenEventSupport(root, flist)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\macosxsupport.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:28 Støední Evropa (bìžný èas)

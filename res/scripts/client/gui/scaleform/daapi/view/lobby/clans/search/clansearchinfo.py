@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/search/ClanSearchInfo.py
 import weakref
 import BigWorld
@@ -154,4 +154,4 @@ class _ClanAdapter(object):
         return MAX_CLAN_MEMBERS_COUNT - self.__clanInfo.getMembersCount() > 0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\search\clansearchinfo.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:06 Støední Evropa (bìžný èas)

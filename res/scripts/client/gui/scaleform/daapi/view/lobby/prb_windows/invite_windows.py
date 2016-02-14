@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/invite_windows.py
 from PlayerEvents import g_playerEvents
 from adisp import process
@@ -122,4 +122,4 @@ class AutoInviteWindow(_InviteWindow):
             self.destroy()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\invite_windows.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:46 Støední Evropa (bìžný èas)

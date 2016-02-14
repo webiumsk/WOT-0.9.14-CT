@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/getopt.py
 """Parser for command line options.
 
@@ -191,4 +191,4 @@ if __name__ == '__main__':
     print getopt(sys.argv[1:], 'a:b', ['alpha=', 'beta'])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\getopt.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:35 Støední Evropa (bìžný èas)

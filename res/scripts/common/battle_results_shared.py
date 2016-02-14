@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/battle_results_shared.py
 import struct
 from itertools import izip
@@ -1083,4 +1083,4 @@ class VehicleInteractionDetails(object):
         return dict([ ((vehID, vehIdx), dict(_VehicleInteractionDetailsItem(self.__values, offset))) for (vehID, vehIdx), offset in self.__offsets.iteritems() ])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\battle_results_shared.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:48 Støední Evropa (bìžný èas)

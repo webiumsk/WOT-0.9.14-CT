@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/ARTEFACTS.py
 
 
@@ -176,4 +176,4 @@ class ARTEFACTS(object):
     BOMBER_DESCR = '#artefacts:bomber/descr'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\artefacts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)

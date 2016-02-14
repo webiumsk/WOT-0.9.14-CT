@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/prebattle_shared.py
 import nations
 from items import vehicles, ITEM_TYPES
@@ -257,4 +257,4 @@ def getClanWarsExtraEquipments(clansEquipments, joinedAccountsDBIDs, prebattleID
     return extraEquipments
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\prebattle_shared.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:05 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/requesters/DossierRequester.py
 import time
 from functools import partial
@@ -227,4 +227,4 @@ class DossierRequester(AbstractSyncDataRequester):
         self.__users = dict(filter(lambda item: item[1].isAvailable, self.__users.iteritems()))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\requesters\dossierrequester.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:05 Støední Evropa (bìžný èas)

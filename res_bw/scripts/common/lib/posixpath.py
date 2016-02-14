@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/posixpath.py
 """Common operations on Posix pathnames.
 
@@ -394,4 +394,4 @@ def relpath(path, start = curdir):
     return join(*rel_list)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\posixpath.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:04 Støední Evropa (bìžný èas)

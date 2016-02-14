@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/custom/battle_statistics_layouts.py
 from dossiers2.common.DossierBlockBuilders import *
 from dossiers2.custom.dependencies import VEH_TYPE_FRAGS_DEPENDENCIES
@@ -264,4 +264,4 @@ MAX_FALLOUT_BLOCK_LAYOUT = MAX_BLOCK_LAYOUT + ['maxWinPoints', 'maxCoins']
 MAX_FALLOUT_BLOCK_LAYOUT_WITH_AVATAR = MAX_FALLOUT_BLOCK_LAYOUT + ['maxFragsWithAvatar', 'maxDamageWithAvatar']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\custom\battle_statistics_layouts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:15 Støední Evropa (bìžný èas)

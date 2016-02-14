@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/genConsts/CONTEXT_MENU_HANDLER_TYPE.py
 
 
@@ -20,4 +20,4 @@ class CONTEXT_MENU_HANDLER_TYPE(object):
     CLUB_STAFF = 'clubStaff'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\genconsts\context_menu_handler_type.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:40 Støední Evropa (bìžný èas)

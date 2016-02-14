@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/unit_helpers/ExtrasHandler.py
 import cPickle
 from debug_utils import LOG_DEBUG_DEV
@@ -160,4 +160,4 @@ class SquadExtrasHandler(EmptyExtrasHandler):
         extras.update(update)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\unit_helpers\extrashandler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:39 Støední Evropa (bìžný èas)

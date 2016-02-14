@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/ChinaController.py
 from adisp import process
 from gui.Scaleform.locale.MENU import MENU
@@ -28,4 +28,4 @@ class ChinaController(Controller):
         return self._proxy.getController(gc_constants.CONTROLLER.BROWSER)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\chinacontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:58 Støední Evropa (bìžný èas)

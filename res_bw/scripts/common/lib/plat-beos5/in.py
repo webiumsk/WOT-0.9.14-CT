@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-beos5/IN.py
 B_BEOS_VERSION_4 = 1024
 B_BEOS_VERSION_4_5 = 1104
@@ -403,4 +403,4 @@ def _FDBITNO(fd):
     return fd % NFDBITS
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-beos5\in.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:41 Støední Evropa (bìžný èas)

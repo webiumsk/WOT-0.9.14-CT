@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/io.py
 """The io module provides the Python interfaces to stream handling. The
 builtin open function is defined in this module.
@@ -92,4 +92,4 @@ for klass in (StringIO, TextIOWrapper):
 del klass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\io.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:43 Støední Evropa (bìžný èas)

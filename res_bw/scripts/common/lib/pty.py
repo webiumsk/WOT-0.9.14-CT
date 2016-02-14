@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/pty.py
 """Pseudo terminal utilities."""
 from select import select
@@ -177,4 +177,4 @@ def spawn(argv, master_read = _read, stdin_read = _read):
     os.close(master_fd)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\pty.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:06 Støední Evropa (bìžný èas)

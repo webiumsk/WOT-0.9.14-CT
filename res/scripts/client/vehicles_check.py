@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/vehicles_check.py
 import BigWorld
 from items import vehicles
@@ -67,4 +67,4 @@ def _findNodeSec(sec, nodeName):
             return nodeSec
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vehicles_check.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:55 Støední Evropa (bìžný èas)

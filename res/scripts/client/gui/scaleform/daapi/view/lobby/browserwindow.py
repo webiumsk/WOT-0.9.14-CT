@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/BrowserWindow.py
 from gui import game_control
 from gui.game_control.gc_constants import BROWSER
@@ -117,4 +117,4 @@ class BrowserWindow(BrowserMeta):
             self.destroy()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\browserwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:51 Støední Evropa (bìžný èas)

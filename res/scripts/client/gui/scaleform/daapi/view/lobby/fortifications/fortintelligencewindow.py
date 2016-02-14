@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortIntelligenceWindow.py
 import BigWorld
 from gui.Scaleform.locale.TOOLTIPS import TOOLTIPS
@@ -177,4 +177,4 @@ class FortIntelligenceWindow(FortIntelligenceWindowMeta, FortViewHelper):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortintelligencewindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:28 Støední Evropa (bìžný èas)

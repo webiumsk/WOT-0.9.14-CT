@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib-tk/Tix.py
 from Tkinter import *
 from Tkinter import _flatten, _cnfmerge, _default_root
@@ -1871,4 +1871,4 @@ class ScrolledGrid(Grid):
         TixWidget.__init__(self, master, 'tixScrolledGrid', static, cnf, kw)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib-tk\tix.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:48 Støední Evropa (bìžný èas)

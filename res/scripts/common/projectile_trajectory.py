@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/projectile_trajectory.py
 import BigWorld
 import Math
@@ -44,4 +44,4 @@ def getShotAngles(vehTypeDescr, vehMatrix, curShotAngles, point, adjust = True):
     return BigWorld.wg_getShotAngles(turretOffs, gunOffs, vehMatrix, speed, gravity, curShotAngles[0], curShotAngles[1], point, adjust)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\projectile_trajectory.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:06 Støední Evropa (bìžný èas)

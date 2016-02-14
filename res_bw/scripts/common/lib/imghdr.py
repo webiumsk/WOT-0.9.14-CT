@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/imghdr.py
 """Recognize image file formats based on their first few bytes."""
 __all__ = ['what']
@@ -161,4 +161,4 @@ def testall(list, recursive, toplevel):
                 print '*** not found ***'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\imghdr.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:41 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/doc_loaders/EULAVersionLoader.py
 import ResMgr
 from helpers import VERSION_FILE_PATH
@@ -27,4 +27,4 @@ class EULAVersionLoader(object):
         self.__xmlVersion = int(xmlVersion)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\doc_loaders\eulaversionloader.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:55 Støední Evropa (bìžný èas)

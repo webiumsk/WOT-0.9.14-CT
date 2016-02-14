@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/techtree/data.py
 import operator
 from AccountCommands import LOCK_REASON
@@ -721,4 +721,4 @@ class NationTreeData(_ItemsData):
             LOG_ERROR('Current vehicle not found in nation tree', nodeCD)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\techtree\data.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:03 Støední Evropa (bìžný èas)

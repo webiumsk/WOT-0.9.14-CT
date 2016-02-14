@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Effects/OneShot.py
 import BigWorld
 from functools import partial
@@ -135,4 +135,4 @@ class OneShot(Effect):
         self.timer.extend(duration)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\effects\oneshot.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:54 Støední Evropa (bìžný èas)

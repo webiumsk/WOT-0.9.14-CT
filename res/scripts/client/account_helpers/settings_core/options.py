@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/settings_core/options.py
 import base64
 import cPickle
@@ -2178,4 +2178,4 @@ class GraphicsQualityNote(SettingAbstract):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\settings_core\options.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:06 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortPeriodDefenceWindow.py
 from FortifiedRegionBase import NOT_ACTIVATED
 from adisp import process
@@ -127,4 +127,4 @@ class FortPeriodDefenceWindow(FortPeriodDefenceWindowMeta, FortViewHelper):
         self.destroy()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortperioddefencewindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:30 Støední Evropa (bìžný èas)

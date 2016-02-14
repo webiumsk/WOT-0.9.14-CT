@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/RES_LOGIN.py
 
 
@@ -39,4 +39,4 @@ class RES_LOGIN(object):
     MAPS_LOGIN_BACK_8_WITHOUT_SPARKS = '../maps/login/back_8_without_sparks.png'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\res_login.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:57 Støední Evropa (bìžný èas)

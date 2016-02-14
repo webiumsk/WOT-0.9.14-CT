@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/CustomizationHelper.py
 import math
 import Math
@@ -334,4 +334,4 @@ def getUpdatedDescriptor(vehDescr):
     return vehicles.VehicleDescr(igrVehCompDescr)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\customizationhelper.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:09 Støední Evropa (bìžný èas)

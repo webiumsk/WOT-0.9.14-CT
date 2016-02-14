@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clubs/subscriptions.py
 import weakref
 from debug_utils import LOG_WARNING
@@ -167,4 +167,4 @@ class _Subscription(Notifiable, ClubsListeners):
             self._changeState(SUBSCRIPTION_STATE.NOT_SUBSCRIBED)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clubs\subscriptions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:51 Støední Evropa (bìžný èas)

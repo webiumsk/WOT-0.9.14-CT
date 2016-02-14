@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/quests/battle/context.py
 from account_helpers.AccountSettings import AccountSettings
 from account_helpers.settings_core.settings_constants import TUTORIAL
@@ -37,4 +37,4 @@ class FakeBonusesRequester(context.BonusesRequester):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\quests\battle\context.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:25 Støední Evropa (bìžný èas)

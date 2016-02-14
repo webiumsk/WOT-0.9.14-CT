@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/MENU.py
 from debug_utils import LOG_WARNING
 
@@ -2317,4 +2317,4 @@ class MENU(object):
         return outcome
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\menu.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:55 Støední Evropa (bìžný èas)

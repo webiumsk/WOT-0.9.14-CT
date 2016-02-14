@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/avatar_stats_controller.py
 import Event
 
@@ -23,4 +23,4 @@ class AvatarStatsController(object):
         self.onUpdated(stats)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\avatar_stats_controller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:28 Støední Evropa (bìžný èas)

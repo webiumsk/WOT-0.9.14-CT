@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/ToolTip.py
 from gui import makeHtmlString
 from gui.Scaleform.framework.entities.abstract.ToolTipMgrMeta import ToolTipMgrMeta
@@ -117,4 +117,4 @@ class ToolTip(ToolTipMgrMeta):
         return ['', '']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\tooltip.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:34 Støední Evropa (bìžný èas)

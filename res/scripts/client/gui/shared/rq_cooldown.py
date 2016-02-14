@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/rq_cooldown.py
 import BigWorld
 import math
@@ -134,4 +134,4 @@ class RequestCooldownManager(object):
         return max(0.0, math.ceil(cooldownTime - BigWorld.time()))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\rq_cooldown.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:25 Støední Evropa (bìžný èas)

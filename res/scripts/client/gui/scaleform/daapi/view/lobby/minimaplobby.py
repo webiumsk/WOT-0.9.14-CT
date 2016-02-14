@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/MinimapLobby.py
 import ArenaType
 from gui.Scaleform.daapi.view.meta.MinimapLobbyMeta import MinimapLobbyMeta
@@ -78,4 +78,4 @@ class MinimapLobby(MinimapLobbyMeta):
                 self.as_addPointS(pos[0] / mapWidth - viewpoint.x * 0.5, pos[2] / mapHeight - viewpoint.y * 0.5, 'control', 'empty', index if len(self.__cfg['controlPoints']) > 1 else 1)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\minimaplobby.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:52 Støední Evropa (bìžný èas)

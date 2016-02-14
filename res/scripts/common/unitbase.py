@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/UnitBase.py
 import struct
 import copy
@@ -1117,4 +1117,4 @@ class UnitBase(OpsUnpacker):
         return True
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\unitbase.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:09 Støední Evropa (bìžný èas)

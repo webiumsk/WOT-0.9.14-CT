@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/post_processing/__init__.py
 import BigWorld
 import Math
@@ -303,4 +303,4 @@ class _FuncObj:
         else:
             LOG_CODEPOINT_WARNING('weak object has been already destroyed.')
         return# decompiled 0 files: 0 okay, 1 failed, 0 verify failed
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:14 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/aetypes.py
 """aetypes - Python objects representing various AE types."""
 from warnings import warnpy3k
@@ -595,4 +595,4 @@ exec template % ('File', 'file')
 exec template % ('InsertionPoint', 'cins')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\aetypes.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:53 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/__init__.py
 import weakref
 from helpers.ro_property import ROPropertyMeta
@@ -124,4 +124,4 @@ class settings_getter(_proto_type_getter):
         return _SUPPORTED_PROTO_SETTINGS[self._type]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:48 Støední Evropa (bìžný èas)

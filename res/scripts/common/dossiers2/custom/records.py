@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/custom/records.py
 RECORDS = (('total', 'creationTime', 'p', 'I', 4000000001L),
  ('total', 'lastBattleTime', 'p', 'I', 4000000001L),
@@ -1615,4 +1615,4 @@ map(lambda rec: BIT_STORAGES.setdefault((rec[0], rec[3]), []).append(rec[1]), (r
 RECORD_MAX_VALUES = dict([ (rec[:2], rec[4]) for rec in RECORDS if rec[2] == 'p' ])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\custom\records.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:26 Støední Evropa (bìžný èas)

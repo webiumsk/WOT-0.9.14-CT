@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/Caps.py
 CAP_NONE = 0
 CAP_NEVER = 0
@@ -16,4 +16,4 @@ CAP_CAN_MELEE = 11
 CAP_CAN_SHONK = 12
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\caps.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:42 Støední Evropa (bìžný èas)

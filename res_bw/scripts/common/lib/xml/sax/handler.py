@@ -1,4 +1,4 @@
-# 2016.02.13 15:13:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/xml/sax/handler.py
 """
 This module contains the core classes of version 2.0 of SAX for Python.
@@ -262,4 +262,4 @@ all_properties = [property_lexical_handler,
  property_interning_dict]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\xml\sax\handler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:13:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:47 Støední Evropa (bìžný èas)

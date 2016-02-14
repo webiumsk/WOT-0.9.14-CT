@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/profile_statistics_vos.py
 import BigWorld
 from gui.Scaleform.daapi.view.lobby.profile.ProfileUtils import ProfileUtils as PUtils, FALLOUT_STATISTICS_LAYOUT, FORT_STATISTICS_LAYOUT, STATISTICS_LAYOUT
@@ -333,4 +333,4 @@ def getStatisticsVO(battlesType, targetData, accountDossier, isCurrentUser):
     return _VO_MAPPING[battlesType](targetData=targetData, accountDossier=accountDossier, isCurrentUser=isCurrentUser)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\profile_statistics_vos.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:52 Støední Evropa (bìžný èas)

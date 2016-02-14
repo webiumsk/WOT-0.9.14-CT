@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client_common/client_request_lib/data_sources/fetcher.py
 
 
@@ -48,4 +48,4 @@ def fetchURL(url, callback, headers = {}, timeout = 30, method = 'GET', postData
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client_common\client_request_lib\data_sources\fetcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:42 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/MultiCall.py
 """
 MultiCall - a class which inherits its methods from a Tkinter widget (Text, for
@@ -434,4 +434,4 @@ if __name__ == '__main__':
     root.mainloop()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\multicall.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:29 Støední Evropa (bìžný èas)

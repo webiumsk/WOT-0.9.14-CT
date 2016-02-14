@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clans/requests.py
 from functools import partial
 import types
@@ -305,4 +305,4 @@ class ClanRequestsController(RequestsController):
         self._requester._stopProcessing(ctx, reason, callback)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clans\requests.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:46 Støední Evropa (bìžný èas)

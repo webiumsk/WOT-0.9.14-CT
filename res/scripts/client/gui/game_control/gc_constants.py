@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/gc_constants.py
 from shared_utils import CONST_CONTAINER
 
@@ -43,4 +43,4 @@ class PROMO(CONST_CONTAINER):
         ACTION = 'promo_action'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\gc_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:59 Støední Evropa (bìžný èas)

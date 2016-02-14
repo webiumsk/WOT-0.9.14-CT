@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/wsgiref/validate.py
 """
 Middleware to check for obedience to the WSGI specification.
@@ -378,4 +378,4 @@ def check_iterator(iterator):
     assert_(not isinstance(iterator, str), 'You should not return a string as your application iterator, instead return a single-item list containing that string.')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\wsgiref\validate.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:40 Støední Evropa (bìžný èas)

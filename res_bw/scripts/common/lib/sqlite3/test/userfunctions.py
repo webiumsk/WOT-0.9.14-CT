@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/sqlite3/test/userfunctions.py
 import unittest
 import sqlite3 as sqlite
@@ -493,4 +493,4 @@ if __name__ == '__main__':
     test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\sqlite3\test\userfunctions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:31 Støední Evropa (bìžný èas)

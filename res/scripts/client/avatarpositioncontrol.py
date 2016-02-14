@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarPositionControl.py
 from AvatarInputHandler import mathUtils
 import BigWorld
@@ -146,4 +146,4 @@ class AvatarPositionControl(CallbackDelayer):
             replayCtrl.setPlayerVehicleID(0)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarpositioncontrol.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:33 Støední Evropa (bìžný èas)

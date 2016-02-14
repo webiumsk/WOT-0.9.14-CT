@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/CodeContext.py
 """CodeContext - Extension to display the block context above the edit window
 
@@ -157,4 +157,4 @@ class CodeContext:
         self.text.after(FONTUPDATEINTERVAL, self.font_timer_event)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\codecontext.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:20 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/physics_shared.py
 import BigWorld
 import Math
@@ -891,4 +891,4 @@ def decodeNormalisedRPM(code):
     return decodeRestrictedValueFromUint(code, 8, 0.0, MAX_NORMALISED_RPM)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\physics_shared.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:05 Støední Evropa (bìžný èas)

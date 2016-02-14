@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/doc_loaders/__init__.py
 from items import _xml
 
@@ -10,4 +10,4 @@ def readDict(xmlCtx, section, subsectionName, converter = lambda value: value.as
     return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\doc_loaders\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:56 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib-tk/test/widget_tests.py
 import unittest
 import sys
@@ -485,4 +485,4 @@ def setUpModule():
         print 'patchlevel =', tcl.call('info', 'patchlevel')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib-tk\test\widget_tests.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:57 Støední Evropa (bìžný èas)

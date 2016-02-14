@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/rally/__init__.py
 from gui.Scaleform.genConsts.CONTEXT_MENU_HANDLER_TYPE import CONTEXT_MENU_HANDLER_TYPE
 from gui.Scaleform.managers.context_menu import ContextMenuManager
@@ -57,4 +57,4 @@ class NavigationStack(object):
             return None
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\rally\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:56 Støední Evropa (bìžný èas)

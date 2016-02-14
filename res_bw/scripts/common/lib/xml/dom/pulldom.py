@@ -1,4 +1,4 @@
-# 2016.02.13 15:13:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/xml/dom/pulldom.py
 import xml.sax
 import xml.sax.handler
@@ -362,4 +362,4 @@ def parseString(string, parser = None):
     return DOMEventStream(buf, parser, bufsize)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\xml\dom\pulldom.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:13:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:44 Støední Evropa (bìžný èas)

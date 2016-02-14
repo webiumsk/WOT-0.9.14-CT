@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/formatters/users_messages.py
 from gui import GUI_SETTINGS, makeHtmlString
 from helpers import i18n
@@ -37,4 +37,4 @@ def makeFriendshipRequestText(user, error):
     return ''.join(result)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\formatters\users_messages.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:34 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/tty.py
 """Terminal utilities."""
 from termios import *
@@ -33,4 +33,4 @@ def setcbreak(fd, when = TCSAFLUSH):
     tcsetattr(fd, when, mode)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\tty.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:35 Støední Evropa (bìžný èas)

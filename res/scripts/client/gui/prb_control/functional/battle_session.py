@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/functional/battle_session.py
 from CurrentVehicle import g_currentVehicle
 from PlayerEvents import g_playerEvents
@@ -281,4 +281,4 @@ class BattleSessionFunctional(PrbFunctional):
         g_eventDispatcher.addSpecBattleToCarousel(self.getEntityType())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\functional\battle_session.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:16 Støední Evropa (bìžný èas)

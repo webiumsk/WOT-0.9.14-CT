@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/restrictions/interfaces.py
 
 
@@ -127,4 +127,4 @@ class ITeamLimit(object):
         return (True, '')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\restrictions\interfaces.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:25 Støední Evropa (bìžný èas)

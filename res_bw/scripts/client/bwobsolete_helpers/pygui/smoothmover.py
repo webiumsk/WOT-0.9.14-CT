@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/PyGUI/SmoothMover.py
 import BigWorld, GUI, Math, Keys
 from PyGUIBase import PyGUIBase
@@ -40,4 +40,4 @@ class SmoothMover(PyGUIBase):
         return self.scroll[0] < self.maxScroll[0] - 0.0001
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\pygui\smoothmover.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:50 Støední Evropa (bìžný èas)

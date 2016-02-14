@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/genConsts/EVENT_LOG_CONSTANTS.py
 
 
@@ -55,4 +55,4 @@ class EVENT_LOG_CONSTANTS(object):
      INDEX_CHANGE]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\genconsts\event_log_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:41 Støední Evropa (bìžný èas)

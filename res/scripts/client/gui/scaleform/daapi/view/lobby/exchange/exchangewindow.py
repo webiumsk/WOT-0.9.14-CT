@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:21 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/exchange/ExchangeWindow.py
 import BigWorld
 from PlayerEvents import g_playerEvents
@@ -57,4 +57,4 @@ class ExchangeWindow(ExchangeWindowMeta):
         super(ExchangeWindow, self)._dispose()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\exchange\exchangewindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:21 Støední Evropa (bìžný èas)

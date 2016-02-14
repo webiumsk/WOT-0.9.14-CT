@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw_chat2/VOIPChatProvider.py
 from debug_utils import LOG_WARNING, LOG_NOTE
 from messenger.proto.bw_chat2 import errors, provider
@@ -83,4 +83,4 @@ class VOIPChatProvider(provider.ResponseDictHandler, IVOIPChatProvider):
         self.__channelParams = _EMPTY_CHANNELS_PARAMS
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw_chat2\voipchatprovider.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:54 Støední Evropa (bìžný èas)

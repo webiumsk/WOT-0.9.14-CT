@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/icopen.py
 """icopen patch
 
@@ -62,4 +62,4 @@ def _open_with_typer(*args):
 __builtin__.open = _open_with_typer
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\icopen.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:01 Støední Evropa (bìžný èas)

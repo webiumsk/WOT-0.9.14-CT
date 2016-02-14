@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/ReferralReferrerIntroWindow.py
 from gui import makeHtmlString
 from gui.Scaleform.daapi.view.meta.ReferralReferrerIntroWindowMeta import ReferralReferrerIntroWindowMeta
@@ -43,4 +43,4 @@ class ReferralReferrerIntroWindow(ReferralReferrerIntroWindowMeta):
          'text': i18n.makeString(textId)})
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\referralreferrerintrowindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:55 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/gui_utils.py
 import GUI
 import Math
@@ -28,4 +28,4 @@ def buildTexMapping(texCoords, texSize, fullTexSize):
      (max[0] / fullTexSize[0], texCoords[1] / fullTexSize[1]))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\gui_utils.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:22 Støední Evropa (bìžný èas)

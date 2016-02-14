@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/items/prb_seqs.py
 import time
 from constants import PREBATTLE_CACHE_KEY, PREBATTLE_COMPANY_DIVISION_NAMES
@@ -108,4 +108,4 @@ class AutoInviteItem(object):
         return 'AutoInviteItem(prbID = {0:n}, peripheryID = {1:n}, type = {2:n} description = {3!r:s}, startTime = {4:n}, isValid = {5!r:s})'.format(self.prbID, self.prbType, self.peripheryID, self.description, self.startTime, self.isValid)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\items\prb_seqs.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:24 Støední Evropa (bìžný èas)

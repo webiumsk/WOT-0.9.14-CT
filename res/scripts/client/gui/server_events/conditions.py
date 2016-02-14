@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/conditions.py
 import weakref
 import operator
@@ -1595,4 +1595,4 @@ class HasClub(_Requirement):
         return 'HasClub'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\conditions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:16 Støední Evropa (bìžný èas)

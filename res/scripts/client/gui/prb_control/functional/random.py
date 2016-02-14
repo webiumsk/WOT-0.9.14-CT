@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/functional/random.py
 import BigWorld
 import ArenaType
@@ -85,4 +85,4 @@ class RandomQueueFunctional(prequeue.AccountQueueFunctional):
         g_eventDispatcher.loadHangar()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\functional\random.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:20 Støední Evropa (bìžný èas)

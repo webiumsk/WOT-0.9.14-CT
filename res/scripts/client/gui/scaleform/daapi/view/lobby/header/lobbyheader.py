@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/header/LobbyHeader.py
 import math
 import BigWorld
@@ -460,4 +460,4 @@ class LobbyHeader(LobbyHeaderMeta, ClanEmblemsHelper, GlobalListener):
             self.__updatePrebattleControls()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\header\lobbyheader.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:42 Støední Evropa (bìžný èas)

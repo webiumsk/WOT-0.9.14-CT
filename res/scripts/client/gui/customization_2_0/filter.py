@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/customization_2_0/filter.py
 from Event import Event
 from constants import IGR_TYPE
@@ -161,4 +161,4 @@ class Filter(object):
             return item.getIgrType() == IGR_TYPE.PREMIUM and (item.isInDossier or item.isInShop)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\customization_2_0\filter.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:53 Støední Evropa (bìžný èas)

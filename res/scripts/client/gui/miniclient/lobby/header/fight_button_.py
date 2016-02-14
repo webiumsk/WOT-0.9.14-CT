@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/header/fight_button_.py
 from helpers import aop
 from CurrentVehicle import g_currentVehicle
@@ -23,4 +23,4 @@ class DisableFightButtonPointcut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.header.LobbyHeader', 'LobbyHeader', 'as_disableFightButtonS', aspects=(_DisableFightButtonAspect(config),))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\header\fight_button_.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)

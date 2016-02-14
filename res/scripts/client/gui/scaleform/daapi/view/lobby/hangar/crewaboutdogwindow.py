@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/hangar/CrewAboutDogWindow.py
 from gui.Scaleform.daapi.view.meta.SimpleWindowMeta import SimpleWindowMeta
 from gui.Scaleform.locale.MENU import MENU
@@ -37,4 +37,4 @@ class CrewAboutDogWindow(SimpleWindowMeta):
           'tooltip': ''}]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\hangar\crewaboutdogwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:38 Støední Evropa (bìžný èas)

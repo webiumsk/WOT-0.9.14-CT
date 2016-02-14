@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/tarfile.py
 """Read from and write to tar format archives.
 """
@@ -2281,4 +2281,4 @@ bltn_open = open
 open = TarFile.open
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\tarfile.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:29 Støední Evropa (bìžný èas)

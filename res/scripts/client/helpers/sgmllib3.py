@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/sgmllib3.py
 """A parser for SGML, using the derived class as a static DTD."""
 import _markupbase
@@ -405,4 +405,4 @@ class SGMLParser(_markupbase.ParserBase):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\sgmllib3.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:24 Støední Evropa (bìžný èas)

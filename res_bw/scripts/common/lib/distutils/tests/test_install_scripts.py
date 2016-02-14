@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/tests/test_install_scripts.py
 """Tests for distutils.command.install_scripts."""
 import os
@@ -60,4 +60,4 @@ if __name__ == '__main__':
     run_unittest(test_suite())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\tests\test_install_scripts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:48 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/ProfileAwards.py
 from gui.Scaleform.daapi.view.meta.ProfileAwardsMeta import ProfileAwardsMeta
 from gui.Scaleform.locale.PROFILE import PROFILE
@@ -66,4 +66,4 @@ class ProfileAwards(ProfileAwardsMeta):
          'key': key}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\profileawards.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:49 Støední Evropa (bìžný èas)

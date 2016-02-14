@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/bsddb/__init__.py
 """Support for Berkeley DB 4.3 through 5.3 with a simple interface.
 
@@ -359,4 +359,4 @@ except ImportError:
     db.DB_THREAD = 0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\bsddb\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:53 Støední Evropa (bìžný èas)

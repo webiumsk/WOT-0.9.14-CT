@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/user_cm_handlers.py
 from gui.Scaleform.daapi.view.lobby.user_cm_handlers import USER
 from helpers import aop
@@ -43,4 +43,4 @@ class UserCmInviteClanUnavailablePointCut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.user_cm_handlers', 'BaseUserCMHandler', '_addInviteClanInfo', aspects=(UserCmInviteClanUnavailableAspect,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\user_cm_handlers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)

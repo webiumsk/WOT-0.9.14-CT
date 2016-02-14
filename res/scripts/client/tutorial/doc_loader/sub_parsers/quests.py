@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/doc_loader/sub_parsers/quests.py
 from tutorial.control.quests import triggers
 from tutorial.doc_loader import sub_parsers
@@ -154,4 +154,4 @@ def init():
     sub_parsers.setWindowsParsers({'awardWindow': sub_parsers.readQuestAwardWindowSection})
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\doc_loader\sub_parsers\quests.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:29 Støední Evropa (bìžný èas)

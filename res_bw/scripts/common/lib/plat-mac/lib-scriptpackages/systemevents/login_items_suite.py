@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/SystemEvents/Login_Items_Suite.py
 """Suite Login Items Suite: Terms and Events for controlling the Login Items application
 Level 1, version 1
@@ -68,4 +68,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\systemevents\login_items_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:22 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/battle/dispatcher.py
 from gui.Scaleform.windows import UIInterface
 from gui.battle_control import avatar_getter
@@ -50,4 +50,4 @@ class SfBattleDispatcher(GUIDispatcher, UIInterface):
         avatar_getter.leaveArena()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\battle\dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:31 Støední Evropa (bìžný èas)

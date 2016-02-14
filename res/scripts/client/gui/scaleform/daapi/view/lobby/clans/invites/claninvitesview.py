@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/invites/ClanInvitesView.py
 import BigWorld
 from gui.Scaleform.genConsts.CLANS_ALIASES import CLANS_ALIASES
@@ -151,4 +151,4 @@ class InviteDataProvider(ClanInvitesAbstractDataProvider):
             return text_styles.concatStylesToMultiLine(text_styles.standard(_ms(CLANS.CLANINVITESWINDOW_TOOLTIPS_INVITE_INVITESENT)), text_styles.main(date), text_styles.main(''), text_styles.standard(_ms(CLANS.CLANINVITESWINDOW_TOOLTIPS_INVITE_SENDER)), text_styles.stats(user))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\invites\claninvitesview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:00 Støední Evropa (bìžný èas)

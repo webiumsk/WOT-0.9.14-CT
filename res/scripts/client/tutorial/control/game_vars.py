@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/game_vars.py
 import types
 from CurrentVehicle import g_currentVehicle
@@ -344,4 +344,4 @@ def getAttribute(name, *args):
     return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\game_vars.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:17 Støední Evropa (bìžný èas)

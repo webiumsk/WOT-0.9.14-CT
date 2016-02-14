@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client_common/ClientUnitMgr.py
 import cPickle
 from ClientUnit import ClientUnit
@@ -360,4 +360,4 @@ class ClientUnitBrowser(object):
         self.__account.base.doCmdInt3(AccountCommands.REQUEST_ID_NO_RESPONSE, AccountCommands.CMD_DEQUEUE_UNIT_ASSEMBLER, unitMgrID, 0, 0)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client_common\clientunitmgr.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:40 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/profile/fort_data_receivers.py
 from ConnectionManager import connectionManager
 from adisp import process, async
@@ -240,4 +240,4 @@ class OwnClanDataReceiver(_BaseDataReceiver, FortTransportationViewHelper):
         return self._makeBuildingData(buildDescr, dir, pos, False, FORTIFICATION_ALIASES.WITHOUT_ANIMATION)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\profile\fort_data_receivers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:05 Støední Evropa (bìžný èas)

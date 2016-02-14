@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/requesters/QuestsProgressRequester.py
 from collections import namedtuple
 import BigWorld
@@ -88,4 +88,4 @@ class FalloutQuestsProgressRequester(_PotapovQuestsProgressRequester):
         super(FalloutQuestsProgressRequester, self).__init__('fallout')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\requesters\questsprogressrequester.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:06 Støední Evropa (bìžný èas)

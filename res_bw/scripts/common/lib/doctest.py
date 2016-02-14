@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/doctest.py
 """Module doctest -- a framework for running examples in docstrings.
 
@@ -2255,4 +2255,4 @@ if __name__ == '__main__':
     sys.exit(_test())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\doctest.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:30 Støední Evropa (bìžný èas)

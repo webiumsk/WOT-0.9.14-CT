@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/command/bdist_msi.py
 """
 Implements the bdist_msi command.
@@ -525,4 +525,4 @@ class bdist_msi(Command):
         return installer_name
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\command\bdist_msi.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:36 Støední Evropa (bìžný èas)

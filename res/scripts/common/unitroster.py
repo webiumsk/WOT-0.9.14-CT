@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/UnitRoster.py
 import struct
 import nations
@@ -547,4 +547,4 @@ Syntax error at or near `JUMP_ABSOLUTE' token at offset 178
         if not self.checkVehicleLevel(vehClassIdx, vehLevel):
             return False
         return True# decompiled 0 files: 0 okay, 1 failed, 0 verify failed
-# 2016.02.13 15:06:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:10 Støední Evropa (bìžný èas)

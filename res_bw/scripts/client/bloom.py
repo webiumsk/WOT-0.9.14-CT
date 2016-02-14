@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/Bloom.py
 """
 This Module implements some utility functions to help manipulate and 
@@ -104,4 +104,4 @@ def selectPreset(name, fadeSpeed = 1.0):
     loadStyle(ds, fadeSpeed)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bloom.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:40 Støední Evropa (bìžný èas)

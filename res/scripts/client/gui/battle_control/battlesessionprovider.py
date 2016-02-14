@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/BattleSessionProvider.py
 from collections import namedtuple
 import weakref
@@ -293,4 +293,4 @@ class BattleSessionProvider(object):
             leaveArena()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\battlesessionprovider.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:29 Støední Evropa (bìžný èas)

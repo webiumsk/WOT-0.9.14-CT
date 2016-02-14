@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/app_loader/settings.py
 
 
@@ -34,4 +34,4 @@ class APP_NAME_SPACE(object):
     SF_LOGITECH = 'scaleform/logiTech'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\app_loader\settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:27 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw/ChatActionsListener.py
 from ChatManager import chatManager
 from debug_utils import LOG_ERROR
@@ -33,4 +33,4 @@ class ChatActionsListener(object):
             return False
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw\chatactionslistener.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:49 Støední Evropa (bìžný èas)

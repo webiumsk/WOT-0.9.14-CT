@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw_chat2/battle_chat_cmd.py
 from debug_utils import LOG_ERROR
 from gui.Scaleform.locale.INGAME_GUI import INGAME_GUI as I18N_INGAME_GUI
@@ -198,4 +198,4 @@ class BattleCommandFactory(IBattleCommandFactory):
         return _ENEMY_TARGET_CMD_IDS
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw_chat2\battle_chat_cmd.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:52 Støední Evropa (bìžný èas)

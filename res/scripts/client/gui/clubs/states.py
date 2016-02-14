@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clubs/states.py
 from gui.shared.utils.decorators import ReprInjector
 from gui.clubs.settings import CLIENT_CLUB_STATE
@@ -136,4 +136,4 @@ class SentAppState(_AvailableClubState):
             super(SentAppState, self).update(clubsCtrl, profile)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clubs\states.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:51 Støední Evropa (bìžný èas)

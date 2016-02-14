@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/__init__.py
 from gui.app_loader.settings import APP_NAME_SPACE
 from gui.shared import EVENT_BUS_SCOPE
@@ -38,4 +38,4 @@ class ProfilePackageBusinessHandler(PackageBusinessHandler):
         super(ProfilePackageBusinessHandler, self).__init__(listeners, APP_NAME_SPACE.SF_LOBBY, EVENT_BUS_SCOPE.LOBBY)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:52 Støední Evropa (bìžný èas)

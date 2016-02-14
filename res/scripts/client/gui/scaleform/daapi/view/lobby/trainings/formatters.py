@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:07 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/trainings/formatters.py
 from gui.Scaleform.locale.MENU import MENU
 from gui.shared.utils.functions import getArenaSubTypeName
@@ -27,4 +27,4 @@ def getPlayerStateString(state):
     return i18n.makeString('#menu:training/info/states/state%d' % state)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\trainings\formatters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:07 Støední Evropa (bìžný èas)

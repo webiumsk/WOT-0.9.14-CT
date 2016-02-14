@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/extensions/ext_constants.py
 
 
@@ -45,4 +45,4 @@ class XML_TAG_NAME(object):
     WG_MESSAGE_ID = 'message-id'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\extensions\ext_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:05 Støední Evropa (bìžný èas)

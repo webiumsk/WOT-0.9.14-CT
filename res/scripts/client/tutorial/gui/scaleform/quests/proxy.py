@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/quests/proxy.py
 from tutorial.gui import GUI_EFFECT_NAME
 from tutorial.gui.Scaleform import effects_player
@@ -31,4 +31,4 @@ class SfQuestsProxy(SfLobbyProxy):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\quests\proxy.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:34 Støední Evropa (bìžný èas)

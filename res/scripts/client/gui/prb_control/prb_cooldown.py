@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/prb_cooldown.py
 from constants import JOIN_FAILURE, REQUEST_COOLDOWN
 from debug_utils import LOG_WARNING
@@ -50,4 +50,4 @@ class UnitCooldownManager(PrbCooldownManager):
         return 0.0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\prb_cooldown.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:11 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/FortifiedRegionBase.py
 import time
 import struct
@@ -2063,4 +2063,4 @@ class FortifiedRegionBase(OpsUnpacker):
         self.storeOp(FORT_OP.SET_INFLUENCE_POINTS, influencePoints)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\fortifiedregionbase.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:58 Støední Evropa (bìžný èas)

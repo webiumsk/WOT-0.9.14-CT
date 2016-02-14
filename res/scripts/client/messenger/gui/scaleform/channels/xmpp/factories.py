@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/channels/xmpp/factories.py
 from messenger.gui.Scaleform.channels.xmpp import lobby_controllers
 from messenger.gui.interfaces import IControllerFactory
@@ -32,4 +32,4 @@ class LobbyControllersFactory(IControllerFactory):
         return controller
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\channels\xmpp\factories.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:38 Støední Evropa (bìžný èas)

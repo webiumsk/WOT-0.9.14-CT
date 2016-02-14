@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/common/DossierBlockBuilders.py
 import struct
 from dossiers2.custom.records import RECORDS, RECORD_INDICES, BIT_STORAGES
@@ -91,4 +91,4 @@ class BinarySetDossierBlockBuilder(object):
         return valToPos
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\common\dossierblockbuilders.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:12 Støední Evropa (bìžný èas)

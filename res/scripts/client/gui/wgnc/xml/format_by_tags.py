@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/wgnc/xml/format_by_tags.py
 import BigWorld
 from debug_utils import LOG_CURRENT_EXCEPTION, LOG_WARNING
@@ -187,4 +187,4 @@ def formatText(text):
     return text
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\wgnc\xml\format_by_tags.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:13 Støední Evropa (bìžný èas)

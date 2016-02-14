@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/__init__.py
 import weakref
 import BigWorld
@@ -346,4 +346,4 @@ class Tutorial(object):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:16 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/settings_core/IntUserSettings.py
 import AccountCommands
 from functools import partial
@@ -127,4 +127,4 @@ class IntUserSettings(object):
             return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\settings_core\intusersettings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:03 Støední Evropa (bìžný èas)

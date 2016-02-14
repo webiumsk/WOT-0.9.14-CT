@@ -1,4 +1,4 @@
-# 2016.02.13 15:13:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/xml/sax/__init__.py
 """Simple API for XML (SAX) implementation for Python.
 
@@ -99,4 +99,4 @@ else:
 del sys
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\xml\sax\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:13:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:48 Støední Evropa (bìžný èas)

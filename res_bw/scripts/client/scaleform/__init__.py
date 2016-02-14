@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/Scaleform/__init__.py
 """Scaleform python module"""
 AVAILABLE = False
@@ -97,4 +97,4 @@ def createFlashText(fontName = 'Slate Mobile'):
     return g
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\scaleform\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:03 Støední Evropa (bìžný èas)

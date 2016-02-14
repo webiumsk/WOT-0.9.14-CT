@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization_2_0/shared.py
 from gui.Scaleform.daapi.view.dialogs import I18nConfirmDialogMeta, DIALOG_BUTTON_ID
 from gui.Scaleform.locale.CUSTOMIZATION import CUSTOMIZATION
@@ -51,4 +51,4 @@ def __formatTypeName(cType, count):
     return text_styles.standard(formatter.format(cType))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization_2_0\shared.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:13 Støední Evropa (bìžný èas)

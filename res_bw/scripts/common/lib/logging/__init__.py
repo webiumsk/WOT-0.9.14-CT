@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/logging/__init__.py
 """
 Logging package for Python. Based on PEP 282 and comments thereto in
@@ -1645,4 +1645,4 @@ def captureWarnings(capture):
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\logging\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:18 Støední Evropa (bìžný èas)

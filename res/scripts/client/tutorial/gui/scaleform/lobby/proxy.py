@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/lobby/proxy.py
 from debug_utils import LOG_CURRENT_EXCEPTION
 from gui import SystemMessages
@@ -258,4 +258,4 @@ class SfLobbyProxy(GUIProxy):
             LOG_ERROR('Type of event is not supported', triggerType)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\lobby\proxy.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:33 Støední Evropa (bìžný èas)

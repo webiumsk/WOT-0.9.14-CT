@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/CONTROLS.py
 
 
@@ -38,4 +38,4 @@ class CONTROLS(object):
     KEYBOARD_SEQUENCE_SHIFT_ENTER = '#controls:keyboard/sequence_shift_enter'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\controls.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)

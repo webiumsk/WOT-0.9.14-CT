@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clubs/requests.py
 import weakref
 from debug_utils import LOG_WARNING
@@ -325,4 +325,4 @@ class ClubRequestsController(RequestsController):
         self._requester._stopProcessing(ctx, reason, callback)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clubs\requests.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:50 Støední Evropa (bìžný èas)

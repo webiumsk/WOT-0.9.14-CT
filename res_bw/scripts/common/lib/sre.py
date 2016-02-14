@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/sre.py
 """This file is only retained for backwards compatibility.
 It will be removed in the future.  sre was moved to re in version 2.5.
@@ -10,4 +10,4 @@ from re import __all__
 from re import _compile
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\sre.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:20 Støední Evropa (bìžný èas)

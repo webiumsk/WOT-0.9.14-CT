@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarInputHandler/AimingSystems/ArcadeAimingSystem.py
 import BigWorld
 import Math
@@ -306,4 +306,4 @@ class ShotPointCalculatorPlanar(object):
         return viewDir.dot(dirFromSniperPos) < 0.0 or viewDir.dot(dirFromTurretPos) < 0.0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarinputhandler\aimingsystems\arcadeaimingsystem.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:17 Støední Evropa (bìžný èas)

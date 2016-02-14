@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/meta/ChannelComponentMeta.py
 from gui.Scaleform.framework.entities.BaseDAAPIComponent import BaseDAAPIComponent
 
@@ -28,4 +28,4 @@ class ChannelComponentMeta(BaseDAAPIComponent):
             return self.flashObject.as_addMessage(message)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\meta\channelcomponentmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:42 Støední Evropa (bìžný èas)

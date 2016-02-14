@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/data/contacts_cm_handlers.py
 from gui.shared import events, EVENT_BUS_SCOPE
 from gui.Scaleform.locale.MENU import MENU
@@ -106,4 +106,4 @@ class PlayerContactsCMHandler(BaseUserCMHandler):
         return options
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\data\contacts_cm_handlers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:39 Støední Evropa (bìžný èas)

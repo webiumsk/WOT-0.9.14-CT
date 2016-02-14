@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/SystemEvents/Standard_Suite.py
 """Suite Standard Suite: Common classes and commands for most applications.
 Level 1, version 1
@@ -549,4 +549,4 @@ _compdeclarations = {'<   ': _3c_,
 _enumdeclarations = {'savo': _Enum_savo}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\systemevents\standard_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:23 Støední Evropa (bìžný èas)

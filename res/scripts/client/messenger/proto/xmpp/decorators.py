@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/decorators.py
 from debug_utils import LOG_WARNING
 from messenger.ext import validateAccountName
@@ -108,4 +108,4 @@ class xmpp_query(local_query):
         return super(xmpp_query, self)._validate(*args)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\decorators.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:56 Støední Evropa (bìžný èas)

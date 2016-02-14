@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/Terminal/Terminal_Suite.py
 """Suite Terminal Suite: Terms and Events for controlling the Terminal application
 Level 1, version 1
@@ -272,4 +272,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\terminal\terminal_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:24 Støední Evropa (bìžný èas)

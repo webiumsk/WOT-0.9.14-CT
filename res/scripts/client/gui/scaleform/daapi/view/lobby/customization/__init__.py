@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/__init__.py
 from gui import GUI_SETTINGS
 from gui.Scaleform.locale.VEHICLE_CUSTOMIZATION import VEHICLE_CUSTOMIZATION
@@ -58,4 +58,4 @@ CAMOUFLAGES_NATIONS_TEXTS = [VEHICLE_CUSTOMIZATION.CAMOUFLAGE_NATION_USSR,
  VEHICLE_CUSTOMIZATION.CAMOUFLAGE_NATION_CZECH]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:12 Støední Evropa (bìžný èas)

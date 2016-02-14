@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw/bw_chat_string_utils.py
 from external_strings_utils import unicode_from_utf8
 from gui.Scaleform.locale.MESSENGER import MESSENGER
@@ -41,4 +41,4 @@ def validateUserRoomPwdPair(password, retype):
         return (password, None)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw\bw_chat_string_utils.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:48 Støední Evropa (bìžný èas)

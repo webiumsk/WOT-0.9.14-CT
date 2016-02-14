@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization_2_0/main_view.py
 from gui import DialogsInterface
 from constants import IGR_TYPE, EVENT_TYPE
@@ -301,4 +301,4 @@ class MainView(CustomizationMainViewMeta):
         events_dispatcher.showEventsWindow(eventID=questData.id, eventType=EVENT_TYPE.BATTLE_QUEST)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization_2_0\main_view.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:13 Støední Evropa (bìžný èas)

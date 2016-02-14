@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:23 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/ro_property.py
 
 
@@ -20,4 +20,4 @@ class ROPropertyMeta(type):
         return type.__new__(cls, className, bases, classDict)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\ro_property.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:23 Støední Evropa (bìžný èas)

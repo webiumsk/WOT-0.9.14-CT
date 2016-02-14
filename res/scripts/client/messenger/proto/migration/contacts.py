@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/migration/contacts.py
 from messenger.m_constants import CLIENT_ERROR_ID, CLIENT_ACTION_ID
 from messenger.proto.events import g_messengerEvents
@@ -245,4 +245,4 @@ class XMPPContactsManagerProxy(ContactsManagerProxy):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\migration\contacts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:55 Støední Evropa (bìžný èas)

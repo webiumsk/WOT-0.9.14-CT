@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/StdSuites/Required_Suite.py
 """Suite Required Suite: Every application supports open, print, run, and quit
 Level 1, version 1
@@ -21,4 +21,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\stdsuites\required_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:20 Støední Evropa (bìžný èas)

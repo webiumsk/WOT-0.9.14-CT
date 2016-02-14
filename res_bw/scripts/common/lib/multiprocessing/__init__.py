@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/multiprocessing/__init__.py
 __version__ = '0.70a1'
 __all__ = ['Process',
@@ -256,4 +256,4 @@ if sys.platform == 'win32':
     __all__ += ['set_executable']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\multiprocessing\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:40 Støední Evropa (bìžný èas)

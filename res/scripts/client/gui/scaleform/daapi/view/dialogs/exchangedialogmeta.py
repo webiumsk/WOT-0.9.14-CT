@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/dialogs/ExchangeDialogMeta.py
 import math
 import Event
@@ -347,4 +347,4 @@ class ExchangeXpMeta(_ExchangeDialogMeta):
         return ICON_TEXT_FRAMES.ELITE_XP
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\dialogs\exchangedialogmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:49 Støední Evropa (bìžný èas)

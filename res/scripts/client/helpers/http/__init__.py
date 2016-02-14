@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/http/__init__.py
 import urllib2
 from debug_utils import LOG_WARNING, LOG_ERROR
@@ -169,4 +169,4 @@ class _NotModifiedHandler(urllib2.BaseHandler):
         return addinfourl
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\http\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:26 Støední Evropa (bìžný èas)

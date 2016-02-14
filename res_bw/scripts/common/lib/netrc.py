@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/netrc.py
 """An object-oriented interface to .netrc files."""
 import os, stat, shlex
@@ -142,4 +142,4 @@ if __name__ == '__main__':
     print netrc()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\netrc.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:52 Støední Evropa (bìžný èas)

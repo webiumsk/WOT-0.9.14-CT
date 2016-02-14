@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/events_dispatcher.py
 import constants
 from gui.shared import g_eventBus, events, event_dispatcher as shared_events, EVENT_BUS_SCOPE
@@ -50,4 +50,4 @@ def showRegularAward(quest, isMainReward = True, isAddReward = False):
     shared_events.showAwardWindow(awards.RegularAward(quest, showEventsWindow, isMainReward, isAddReward))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\events_dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:17 Støední Evropa (bìžný èas)

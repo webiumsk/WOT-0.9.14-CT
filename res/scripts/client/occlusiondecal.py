@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/OcclusionDecal.py
 import BigWorld
 
@@ -116,4 +116,4 @@ class OcclusionDecal:
         return decal
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\occlusiondecal.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:46 Støední Evropa (bìžný èas)

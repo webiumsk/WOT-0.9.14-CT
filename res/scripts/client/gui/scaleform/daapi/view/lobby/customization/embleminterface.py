@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/EmblemInterface.py
 import BigWorld
 from abc import abstractmethod, ABCMeta
@@ -259,4 +259,4 @@ class EmblemRightInterface(EmblemInterface):
         return dp
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\embleminterface.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:11 Støední Evropa (bìžný èas)

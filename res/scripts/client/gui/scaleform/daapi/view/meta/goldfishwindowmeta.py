@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/meta/GoldFishWindowMeta.py
 from gui.Scaleform.daapi.view.meta.SimpleWindowMeta import SimpleWindowMeta
 
@@ -12,4 +12,4 @@ class GoldFishWindowMeta(SimpleWindowMeta):
             return self.flashObject.as_setWindowTexts(header, eventTitle, eventText, eventLink)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\meta\goldfishwindowmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:22 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/fort_utils/FortTransportationViewHelper.py
 from gui.Scaleform.genConsts.FORTIFICATION_ALIASES import FORTIFICATION_ALIASES
 from gui.shared.formatters import time_formatters
@@ -49,4 +49,4 @@ class FortTransportationViewHelper(FortViewHelper):
             return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fort_utils\forttransportationviewhelper.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:36 Støední Evropa (bìžný èas)

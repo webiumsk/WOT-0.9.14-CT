@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/meta/RecruitWindowMeta.py
 from gui.Scaleform.framework.entities.abstract.AbstractWindowView import AbstractWindowView
 
@@ -55,4 +55,4 @@ class RecruitWindowMeta(AbstractWindowView):
             return self.flashObject.as_setAllDropdowns(nationsData, vehicleClassData, vehicleTypeData, roleData)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\meta\recruitwindowmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:27 Støední Evropa (bìžný èas)

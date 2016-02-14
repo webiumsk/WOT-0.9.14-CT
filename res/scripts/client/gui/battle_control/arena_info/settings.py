@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/arena_info/settings.py
 from gui.shared.gui_items.Vehicle import VEHICLE_BATTLE_TYPES_ORDER_INDICES
 from helpers import i18n
@@ -64,4 +64,4 @@ def getOrderByVehicleClass(className = None):
 __all__ = ('CONTOUR_ICON_PATH', 'UNKNOWN_CONTOUR_ICON_PATH', 'UNKNOWN_VEHICLE_NAME', 'UNKNOWN_VEHICLE_CLASS_NAME', 'UNKNOWN_PLAYER_NAME', 'UNKNOWN_VEHICLE_LEVEL', 'UNKNOWN_VEHICLE_CLASS_ORDER', 'SQUAD_RANGE_TO_SHOW', 'VEHICLE_STATUS', 'PLAYER_STATUS', 'INVALIDATE_OP', 'makeContourIconPath', 'getOrderByVehicleClass')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\arena_info\settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:37 Støední Evropa (bìžný èas)

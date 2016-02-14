@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/shared_errors.py
 import BigWorld
 from gui.Scaleform.locale.MESSENGER import MESSENGER as I18N_MESSENGER
@@ -145,4 +145,4 @@ class ChatBanError(IChatError):
         return True
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\shared_errors.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:47 Støední Evropa (bìžný èas)

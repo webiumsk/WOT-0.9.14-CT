@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/XmppCooldownManager.py
 from gui.shared.rq_cooldown import RequestCooldownManager, REQUEST_SCOPE
 from messenger.proto.shared_errors import I18nActionID
@@ -16,4 +16,4 @@ class XmppCooldownManager(RequestCooldownManager):
         return self.__default
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\xmppcooldownmanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)

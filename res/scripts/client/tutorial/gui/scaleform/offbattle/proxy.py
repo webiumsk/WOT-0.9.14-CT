@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/offbattle/proxy.py
 from tutorial.gui import GUI_EFFECT_NAME
 from tutorial.gui.Scaleform import effects_player
@@ -17,4 +17,4 @@ class SfOffbattleProxy(SfLobbyProxy):
         return settings.OFFBATTLE_VIEW_SETTINGS
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\offbattle\proxy.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:34 Støední Evropa (bìžný èas)

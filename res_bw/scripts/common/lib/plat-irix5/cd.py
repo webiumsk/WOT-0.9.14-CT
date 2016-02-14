@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-irix5/CD.py
 from warnings import warnpy3k
 warnpy3k('the CD module has been removed in Python 3.0', stacklevel=2)
@@ -20,4 +20,4 @@ CONTROL = 7
 CDDA_DATASIZE = 2352
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-irix5\cd.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:43 Støední Evropa (bìžný èas)

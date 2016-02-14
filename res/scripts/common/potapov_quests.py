@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/potapov_quests.py
 import time
 import ResMgr
@@ -445,4 +445,4 @@ def _readTags(xmlCtx, section, subsectionName):
     return frozenset(res)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\potapov_quests.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:05 Støední Evropa (bìžný èas)

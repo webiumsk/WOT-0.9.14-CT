@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/live_crc_accountdata.py
 from live_crc import *
 accountPersistentCacheDataScheme = {INCLUDE: {'economics',
@@ -32,4 +32,4 @@ def accountDataGetDiffForPersistent(diff):
     return mydiff
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\live_crc_accountdata.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:01 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/ProfileTechnique.py
 import BigWorld
 from dossiers2.ui.achievements import ACHIEVEMENT_BLOCK
@@ -174,4 +174,4 @@ class ProfileTechnique(ProfileTechniqueMeta):
         return packedList
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\profiletechnique.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:50 Støední Evropa (bìžný èas)

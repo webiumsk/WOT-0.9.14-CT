@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/customization_2_0/data_aggregator.py
 import copy
 from collections import namedtuple
@@ -373,4 +373,4 @@ class DataAggregator(object):
         return False
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\customization_2_0\data_aggregator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:53 Støední Evropa (bìžný èas)

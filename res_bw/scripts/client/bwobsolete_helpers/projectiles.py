@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/projectiles.py
 """This module handles different projectiles."""
 import BigWorld
@@ -267,4 +267,4 @@ fxMap = {'cannon': (smokeTrail,
            1)}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\projectiles.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:43 Støední Evropa (bìžný èas)

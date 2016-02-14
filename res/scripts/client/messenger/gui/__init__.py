@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/__init__.py
 from messenger.m_constants import MESSENGER_SCOPE
 
@@ -9,4 +9,4 @@ def setGUIEntries(decorator):
     decorator.setEntry(MESSENGER_SCOPE.BATTLE, BattleEntry())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:35 Støední Evropa (bìžný èas)

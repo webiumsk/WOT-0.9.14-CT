@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/fortifications/fort_seqs.py
 import random
 import time
@@ -1432,4 +1432,4 @@ class DefenceItem(_BattleItemAbstract):
         return self.isResultsPresent() and self._attackResult > 0 or self._attackResult == FORT_ATTACK_RESULT.TECHNICAL_DRAW
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\fortifications\fort_seqs.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:30 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/custom/tankman_layout.py
 from dossiers2.common.DossierBlockBuilders import *
 _tmanTotalBlockLayout = ['battlesCount']
@@ -37,4 +37,4 @@ _tankmanAchievementsBlockBuilder = StaticSizeBlockBuilder('achievements', TMAN_A
 tmanDossierLayout = (_tmanTotalBlockBuilder, _tankmanAchievementsBlockBuilder)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\custom\tankman_layout.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:26 Støední Evropa (bìžný èas)

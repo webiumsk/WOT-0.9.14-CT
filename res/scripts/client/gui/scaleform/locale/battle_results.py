@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/BATTLE_RESULTS.py
 
 
@@ -337,4 +337,4 @@ class BATTLE_RESULTS(object):
         return outcome
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\battle_results.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)

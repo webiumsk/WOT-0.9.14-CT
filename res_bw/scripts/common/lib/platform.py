@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/platform.py
 """ This module tries to retrieve as much platform-identifying data as
     possible. It makes this information available via function APIs.
@@ -1241,4 +1241,4 @@ if __name__ == '__main__':
     sys.exit(0)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\platform.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:02 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/vehicle_extras.py
 import BigWorld
 import Math
@@ -223,4 +223,4 @@ class Fire(EntityExtra):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vehicle_extras.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:56 Støední Evropa (bìžný èas)

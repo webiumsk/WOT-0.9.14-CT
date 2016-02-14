@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/login/__init__.py
 from gui import GUI_SETTINGS
 from gui.app_loader.settings import APP_NAME_SPACE
@@ -51,4 +51,4 @@ class LoginPackageBusinessHandler(PackageBusinessHandler):
         self.loadViewWithGenName(VIEW_ALIAS.LOGIN_CREATE_AN_ACC, event.title, event.message, event.submit)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\login\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:10 Støední Evropa (bìžný èas)

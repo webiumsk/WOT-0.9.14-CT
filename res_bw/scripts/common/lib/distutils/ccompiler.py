@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/ccompiler.py
 """distutils.ccompiler
 
@@ -811,4 +811,4 @@ def gen_lib_options(compiler, library_dirs, runtime_library_dirs, libraries):
     return lib_opts
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\ccompiler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:26 Støední Evropa (bìžný èas)

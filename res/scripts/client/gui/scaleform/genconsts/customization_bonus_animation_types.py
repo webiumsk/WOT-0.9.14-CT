@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/genConsts/CUSTOMIZATION_BONUS_ANIMATION_TYPES.py
 
 
@@ -17,4 +17,4 @@ class CUSTOMIZATION_BONUS_ANIMATION_TYPES(object):
     COLOR_WHITE = 'white'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\genconsts\customization_bonus_animation_types.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:40 Støední Evropa (bìžný èas)

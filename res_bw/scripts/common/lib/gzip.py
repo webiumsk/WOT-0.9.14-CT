@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/gzip.py
 """Functions that read and write gzipped files.
 
@@ -451,4 +451,4 @@ if __name__ == '__main__':
     _test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\gzip.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:36 Støední Evropa (bìžný èas)

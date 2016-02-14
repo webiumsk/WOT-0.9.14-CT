@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/MiniclientDescriptionWindow.py
 import os
 from gui import GUI_SETTINGS
@@ -17,4 +17,4 @@ class MiniclientDescriptionWindow(object):
         g_eventBus.removeListener(events.GUICommonEvent.LOBBY_VIEW_LOADED, self.__openDescriptionInBrowser)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\miniclientdescriptionwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)

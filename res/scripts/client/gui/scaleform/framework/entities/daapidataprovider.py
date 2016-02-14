@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/entities/DAAPIDataProvider.py
 from abc import ABCMeta, abstractmethod, abstractproperty
 from gui.Scaleform.framework.entities.BaseDAAPIModule import BaseDAAPIModule
@@ -90,4 +90,4 @@ class SortableDAAPIDataProvider(DAAPIDataProvider):
         return -1
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\entities\daapidataprovider.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:35 Støední Evropa (bìžný èas)

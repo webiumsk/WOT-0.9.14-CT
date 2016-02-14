@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/compiler/ast.py
 """Python abstract syntax node definitions
 
@@ -1604,4 +1604,4 @@ for name, obj in globals().items():
         nodes[name.lower()] = obj
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\compiler\ast.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:03 Støední Evropa (bìžný èas)

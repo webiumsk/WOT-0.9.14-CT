@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/ARENAS.py
 C_114_CZECH_NAME = '#arenas:114_czech/name'
 C_114_CZECH_DESCRIPTION = '#arenas:114_czech/description'
@@ -133,4 +133,4 @@ class ARENAS(object):
     C_112_EIFFEL_TOWER_DESCRIPTION = '#arenas:112_eiffel_tower/description'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\arenas.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:45 Støední Evropa (bìžný èas)

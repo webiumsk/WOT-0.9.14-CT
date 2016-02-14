@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_imports.py
 """Fix incompatible imports and module references."""
 from .. import fixer_base
@@ -110,4 +110,4 @@ class FixImports(fixer_base.BaseFix):
                 bare_name.replace(Name(new_name, prefix=bare_name.prefix))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_imports.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:08 Støední Evropa (bìžný èas)

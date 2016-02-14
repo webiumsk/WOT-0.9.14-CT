@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/email/quoprimime.py
 """Quoted-printable content transfer encoding per RFCs 2045-2047.
 
@@ -275,4 +275,4 @@ def header_decode(s):
     return re.sub('=[a-fA-F0-9]{2}', _unquote_match, s)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\email\quoprimime.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:53 Støední Evropa (bìžný èas)

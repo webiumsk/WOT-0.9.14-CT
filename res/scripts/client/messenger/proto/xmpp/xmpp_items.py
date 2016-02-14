@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/xmpp_items.py
 import time
 from messenger.m_constants import USER_TAG as _TAG
@@ -267,4 +267,4 @@ def createItem(databaseID, itemType = XMPP_ITEM_TYPE.EMPTY_ITEM, trusted = True)
     return item
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\xmpp_items.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:00 Støední Evropa (bìžný èas)

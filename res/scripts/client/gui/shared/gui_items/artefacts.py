@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/artefacts.py
 from debug_utils import LOG_CURRENT_EXCEPTION
 from items import artefacts
@@ -144,4 +144,4 @@ class OptionalDevice(VehicleArtefact):
         return self.GUIEmblemID
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\artefacts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:32 Støední Evropa (bìžný èas)

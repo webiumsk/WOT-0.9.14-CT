@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/vehicle_systems/vehicle_assembler.py
 from CustomEffectManager import CustomEffectManager
 import functools
@@ -97,4 +97,4 @@ class PanzerAssemblerWWISE(VehicleAssembler):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vehicle_systems\vehicle_assembler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:35 Støední Evropa (bìžný èas)

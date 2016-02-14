@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/fortifications/interfaces.py
 from debug_utils import LOG_DEBUG
 from gui.shared.fortifications.settings import FORT_RESTRICTION
@@ -288,4 +288,4 @@ class IFortValidators(object):
         return (True, '')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\fortifications\interfaces.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:31 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortIntelligenceClanFilterPopover.py
 import time
 from gui.LobbyContext import g_lobbyContext
@@ -78,4 +78,4 @@ class FortIntelligenceClanFilterPopover(FortIntelligenceClanFilterPopoverMeta, F
         self.destroy()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortintelligenceclanfilterpopover.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:27 Støední Evropa (bìžný èas)

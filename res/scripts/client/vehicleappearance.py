@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/VehicleAppearance.py
 import BigWorld
 import Math
@@ -1753,4 +1753,4 @@ class VehicleDamageState(object):
         self.__model, self.__effect = params
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vehicleappearance.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:53 Støední Evropa (bìžný èas)

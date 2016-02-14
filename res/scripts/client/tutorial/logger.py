@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/logger.py
 from constants import IS_DEVELOPMENT
 from debug_utils import _doLog, LOG_CURRENT_EXCEPTION
@@ -44,4 +44,4 @@ def LOG_REQUEST(msg, *args):
 __all__ = ('LOG_DEBUG', 'LOG_WARNING', 'LOG_ERROR', 'LOG_MEMORY', 'LOG_REQUEST', 'LOG_CURRENT_EXCEPTION')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\logger.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:15 Støední Evropa (bìžný èas)

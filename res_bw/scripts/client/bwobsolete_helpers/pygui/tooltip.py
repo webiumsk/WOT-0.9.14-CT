@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/PyGUI/ToolTip.py
 import BigWorld
 import GUI
@@ -244,4 +244,4 @@ class ToolTipManager(object):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\pygui\tooltip.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:50 Støední Evropa (bìžný èas)

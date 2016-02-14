@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/goodies/goodie_constants.py
 MAX_ACTIVE_GOODIES = 3
 
@@ -33,4 +33,4 @@ class GOODIE_RESOURCE_TYPE:
     FREE_XP = 50
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\goodies\goodie_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:30 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/cp858.py
 """ Python Character Mapping Codec for CP858, modified from cp850.
 
@@ -426,4 +426,4 @@ encoding_map = {0: 0,
  9632: 254}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\cp858.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:04 Støední Evropa (bìžný èas)

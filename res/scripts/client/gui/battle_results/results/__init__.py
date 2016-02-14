@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_results/results/__init__.py
 from constants import ARENA_BONUS_TYPE
 from gui.battle_results.results.club import ClubResults
@@ -14,4 +14,4 @@ def createResults(results, dp):
     return resultsClass(results, dp)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_results\results\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:40 Støední Evropa (bìžný èas)

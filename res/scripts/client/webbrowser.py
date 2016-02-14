@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/WebBrowser.py
 import weakref
 import BigWorld
@@ -527,4 +527,4 @@ class CURSOR_TYPES():
     Custom = 43
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\webbrowser.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:57 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/xmpp_search_processors.py
 from debug_utils import LOG_WARNING
 from messenger import g_settings
@@ -63,4 +63,4 @@ class SearchUserRoomsProcessor(SearchChannelsProcessor):
         super(SearchUserRoomsProcessor, self).__init__(g_settings.server.XMPP.userRoomsService)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\xmpp_search_processors.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:00 Støední Evropa (bìžný èas)

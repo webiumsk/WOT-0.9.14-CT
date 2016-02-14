@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/settings/tooltips.py
 from gui.shared.tooltips import vehicle, tankman, skill, shell, module, achievement, cybersport, common, contexts, potapovquests, tutorial, fortifications, clans, boosters
 from gui.shared.tooltips.CustomizationBonus import CustomizationBonusTooltip
@@ -249,4 +249,4 @@ TOOLTIPS = {TOOLTIPS_CONSTANTS.TANKMAN: {'tooltip': TOOLTIPS_CONSTANTS.TANKMEN_U
              'complex': None}}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\settings\tooltips.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:36 Støední Evropa (bìžný èas)

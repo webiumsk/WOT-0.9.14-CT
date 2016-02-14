@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/fortifications/settings.py
 from gui.Scaleform.locale.RES_ICONS import RES_ICONS
 from shared_utils import CONST_CONTAINER
@@ -112,4 +112,4 @@ MUST_SHOW_FORT_UPGRADE = 'mustShowFortUpgrade'
 MUST_SHOW_DEFENCE_START = 'mustShowDefenceStart'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\fortifications\settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:31 Støední Evropa (bìžný èas)

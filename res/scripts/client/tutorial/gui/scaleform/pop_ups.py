@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/pop_ups.py
 from gui.Scaleform.framework.entities.abstract.AbstractWindowView import AbstractWindowView
 from tutorial.control import TutorialProxyHolder
@@ -90,4 +90,4 @@ class TutorialWindow(TutorialPopUp):
         self._stop()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\pop_ups.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:31 Støední Evropa (bìžný èas)

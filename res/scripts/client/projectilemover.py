@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/ProjectileMover.py
 from collections import namedtuple
 import itertools
@@ -272,4 +272,4 @@ def collideDynamicAndStatic(startPoint, endPoint, exceptIDs, collisionFlags = 12
     return collideVehiclesAndStaticScene(startPoint, endPoint, getCollidableEntities(exceptIDs, startPoint, endPoint), collisionFlags, skipGun)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\projectilemover.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:48 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/tooltips/clans.py
 from gui.Scaleform.genConsts.FORTIFICATION_ALIASES import FORTIFICATION_ALIASES
 from gui.Scaleform.locale.CLANS import CLANS
@@ -35,4 +35,4 @@ class ClanProfileFortBuildingTooltipData(BlocksTooltipData, FortTransportationVi
         return False
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\tooltips\clans.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:51 Støední Evropa (bìžný èas)

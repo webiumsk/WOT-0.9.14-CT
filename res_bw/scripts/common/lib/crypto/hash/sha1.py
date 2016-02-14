@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/Crypto/Hash/SHA1.py
 """SHA-1 cryptographic hash algorithm.
 
@@ -71,4 +71,4 @@ digest_size = new().digest_size
 block_size = new().block_size
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\crypto\hash\sha1.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:10 Støední Evropa (bìžný èas)

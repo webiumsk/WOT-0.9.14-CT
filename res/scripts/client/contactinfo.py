@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/ContactInfo.py
 import BigWorld
 import Settings
@@ -45,4 +45,4 @@ class ContactInfo:
             up.write(Settings.KEY_LOGIN_INFO, '')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\contactinfo.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:39 Støední Evropa (bìžný èas)

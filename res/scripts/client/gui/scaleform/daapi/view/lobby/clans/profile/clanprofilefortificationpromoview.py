@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/profile/ClanProfileFortificationPromoView.py
 from gui.Scaleform.daapi.settings.views import VIEW_ALIAS
 from gui.Scaleform.daapi.view.lobby.clans.clan_profile_event import ClanProfileEvent
@@ -68,4 +68,4 @@ class ClanProfileFortificationPromoView(ClanProfileFortificationPromoViewMeta, F
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\profile\clanprofilefortificationpromoview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:03 Støední Evropa (bìžný èas)

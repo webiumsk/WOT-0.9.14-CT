@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/wgnc/xml/__init__.py
 import ResMgr
 from gui.wgnc.errors import ParseError
@@ -70,4 +70,4 @@ def fromSection(section):
     return _parse(section)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\wgnc\xml\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:13 Støední Evropa (bìžný èas)

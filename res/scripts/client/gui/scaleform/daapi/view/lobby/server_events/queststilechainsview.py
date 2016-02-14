@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/QuestsTileChainsView.py
 import weakref
 import operator
@@ -361,4 +361,4 @@ class FalloutQuestsTileChainsView(_QuestsTileChainsView):
         return _ms(QUESTS.QUESTSCHAINPROGRESSVIEW_FALLOUTCHAINPROGRESSCOUNT, name=text_styles.neutral(_ms('#potapov_quests:chain_%s_fallout' % chainID)), count=text_styles.stats(completedCountStr), total=text_styles.standard(str(totalCount)))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\queststilechainsview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:00 Støední Evropa (bìžný èas)

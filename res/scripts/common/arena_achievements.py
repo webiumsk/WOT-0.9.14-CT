@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/arena_achievements.py
 from dossiers2.custom.records import RECORD_DB_IDS
 ACHIEVEMENTS = ('warrior', 'invader', 'sniper', 'sniper2', 'mainGun', 'defender', 'steelwall', 'supporter', 'scout', 'evileye', 'medalWittmann', 'medalOrlik', 'medalOskin', 'medalHalonen', 'medalBurda', 'medalBillotte', 'medalKolobanov', 'medalFadin', 'medalRadleyWalters', 'medalLafayettePool', 'medalLehvaslaiho', 'medalNikolas', 'medalPascucci', 'medalDumitru', 'medalBrunoPietro', 'medalTarczay', 'heroesOfRassenay', 'medalDeLanglade', 'medalTamadaYoshio', 'raider', 'kamikaze', 'huntsman', 'bombardier', 'luckyDevil', 'ironMan', 'sturdy', 'alaric', 'lumberjack', 'medalBrothersInArms', 'medalCrucialContribution', 'armoredFist', 'kingOfTheHill', 'willToWinSpirit', 'shoulderToShoulder', 'aloneInTheField', 'fallenFlags', 'effectiveSupport', 'falloutDieHard', 'stormLord', 'winnerLaurels', 'predator', 'unreachable', 'champion', 'bannerman', 'sauronEye')
@@ -113,4 +113,4 @@ ACHIEVEMENT_CONDITIONS = {'warrior': {'minFrags': 6},
  'bannerman': {'minFlagsCapture': 4}}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\arena_achievements.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:47 Støední Evropa (bìžný èas)

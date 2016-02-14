@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:21 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/ConfirmOrderDialogMeta.py
 from gui.Scaleform.daapi.view.dialogs import IDialogMeta
 from gui.Scaleform.framework import ScopeTemplates
@@ -45,4 +45,4 @@ class BuyOrderDialogMeta(ConfirmOrderDialogMeta):
         super(BuyOrderDialogMeta, self).__init__(orderID, DIALOGS.CREATEORDERCONFIRMATION_TITLE, DIALOGS.CREATEORDERCONFIRMATION_SUBMIT, DIALOGS.CREATEORDERCONFIRMATION_CANCEL)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\confirmorderdialogmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:21 Støední Evropa (bìžný èas)

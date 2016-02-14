@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/PyGUI/LanguageIndicator.py
 import BigWorld
 import GUI
@@ -97,4 +97,4 @@ class LanguageIndicator(PyGUIBase):
         return li.component
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\pygui\languageindicator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:47 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/json/tests/test_fail.py
 from json.tests import PyTest, CTest
 JSONDOCS = ['"A JSON payload should be an object or array, not a string."',
@@ -68,4 +68,4 @@ class TestCFail(TestFail, CTest):
     pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\json\tests\test_fail.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:43 Støední Evropa (bìžný èas)

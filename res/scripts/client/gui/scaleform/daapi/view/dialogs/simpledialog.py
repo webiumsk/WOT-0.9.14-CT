@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/dialogs/SimpleDialog.py
 import BigWorld
 from gui.Scaleform.daapi.view.dialogs import DIALOG_BUTTON_ID
@@ -75,4 +75,4 @@ class SimpleDialog(SimpleDialogMeta):
             self.onWindowClose()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\dialogs\simpledialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:50 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/CallbackHelpers.py
 """This module contains a number of helper functions intended simplify
 implementing callback functions in a safe way.
@@ -15,4 +15,4 @@ def IgnoreCallbackIfDestroyed(function):
     return checkIfDestroyed
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\callbackhelpers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:42 Støední Evropa (bìžný èas)

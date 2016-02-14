@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/wgnc/gui_items.py
 from collections import namedtuple
 from debug_utils import LOG_ERROR, LOG_WARNING, LOG_DEBUG
@@ -295,4 +295,4 @@ class GUIHolder(object):
             item.validate(actionsHolder)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\wgnc\gui_items.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:12 Støední Evropa (bìžný èas)

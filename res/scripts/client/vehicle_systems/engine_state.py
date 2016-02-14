@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/vehicle_systems/engine_state.py
 import math
 from random import uniform
@@ -193,4 +193,4 @@ class DetailedEngineStateWWISE(DetailedEngineState):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vehicle_systems\engine_state.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:35 Støední Evropa (bìžný èas)

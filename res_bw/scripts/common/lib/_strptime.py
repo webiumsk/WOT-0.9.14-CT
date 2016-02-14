@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/_strptime.py
 """Strptime-related classes and functions.
 
@@ -410,4 +410,4 @@ def _strptime_time(data_string, format = '%a %b %d %H:%M:%S %Y'):
     return _strptime(data_string, format)[0]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\_strptime.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:50 Støední Evropa (bìžný èas)

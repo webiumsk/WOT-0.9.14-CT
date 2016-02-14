@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-os2emx/_emx_link.py
 """_emx_link.py is a simplistic emulation of the Unix link(2) library routine
 for creating so-called hard links.  It is intended to be imported into
@@ -75,4 +75,4 @@ if __name__ == '__main__':
         print 'emx_link: %s' % str(sys.exc_info()[1])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-os2emx\_emx_link.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:25 Støední Evropa (bìžný èas)

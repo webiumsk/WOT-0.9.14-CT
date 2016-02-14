@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/material_kinds.py
 import ResMgr
 IDS_BY_NAMES = None
@@ -62,4 +62,4 @@ def _raiseWrongXml(fileName, msg):
 _init()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\material_kinds.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:01 Støední Evropa (bìžný èas)

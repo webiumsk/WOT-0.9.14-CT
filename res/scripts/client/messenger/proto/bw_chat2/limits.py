@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw_chat2/limits.py
 from messenger.proto.interfaces import IProtoLimits
 from messenger_common_chat2 import MESSENGER_LIMITS
@@ -36,4 +36,4 @@ class FindUserLimits(IProtoLimits):
         return MESSENGER_LIMITS.FIND_USERS_BY_NAME_REQUEST_COOLDOWN_SEC
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw_chat2\limits.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:53 Støední Evropa (bìžný èas)

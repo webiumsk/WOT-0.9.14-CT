@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarInputHandler/FalloutDeathMode.py
 import weakref
 import GUI
@@ -60,4 +60,4 @@ class FalloutDeathMode(IControlMode):
         return True
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarinputhandler\falloutdeathmode.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:13 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/PrebattleWindow.py
 from CurrentVehicle import g_currentVehicle
 from adisp import process
@@ -258,4 +258,4 @@ class PrebattleWindow(PrebattleWindowMeta, PrbListener):
             return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\prebattlewindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:47 Støední Evropa (bìžný èas)

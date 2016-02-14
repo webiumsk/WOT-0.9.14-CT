@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/mimetools.py
 """Various tools used by MIME-reading or MIME-writing programs."""
 import os
@@ -239,4 +239,4 @@ def copybinary(input, output):
         output.write(line)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\mimetools.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:50 Støední Evropa (bìžný èas)

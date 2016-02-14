@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/summary.py
 from tutorial.control.functional import FunctionalVarSet
 from tutorial.logger import LOG_ERROR, LOG_DEBUG
@@ -96,4 +96,4 @@ class VarSummary(object):
             self.__runtime[varID] = value
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\summary.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:18 Støední Evropa (bìžný èas)

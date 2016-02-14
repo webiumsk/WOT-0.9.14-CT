@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/avatar_helpers/AvatarSyncData.py
 import AccountCommands
 from debug_utils import *
@@ -37,4 +37,4 @@ class AvatarSyncData(object):
             callback(resultID)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatar_helpers\avatarsyncdata.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:20 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/formatters/chat_message.py
 from gui.LobbyContext import g_lobbyContext
 from gui.battle_control import g_sessionProvider
@@ -142,4 +142,4 @@ class LobbyMessageBuilder(object):
         return g_settings.lobby.getMessageFormat(self.__templateKey).format(self.__name, self.__time, self.__text)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\formatters\chat_message.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:31 Støední Evropa (bìžný èas)

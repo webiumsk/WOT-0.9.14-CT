@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/boosters/BoostersWindow.py
 from collections import defaultdict
 from operator import attrgetter
@@ -329,4 +329,4 @@ class BoostersWindow(BoostersWindowMeta):
         return isTypeValid and isQualityValid
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\boosters\boosterswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:59 Støední Evropa (bìžný èas)

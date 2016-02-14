@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/PSFX.py
 """This module acts as a bank for particle system effects. All effects from
 this module are temporary effects that dissipate over time."""
@@ -394,4 +394,4 @@ def endPlasmaWarp(idx):
     warpEffects[idx][0] = 1
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\psfx.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:44 Støední Evropa (bìžný èas)

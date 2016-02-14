@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/ValueTracker.py
 import functools
 import BigWorld
@@ -97,4 +97,4 @@ class ValueTracker(CallbackDelayer):
         self.__textGui.text = text
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\valuetracker.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:26 Støední Evropa (bìžný èas)

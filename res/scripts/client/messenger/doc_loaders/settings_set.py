@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/doc_loaders/settings_set.py
 from collections import namedtuple
 from messenger.doc_loaders import _xml_helpers
@@ -121,4 +121,4 @@ def load(xmlCtx, section, messengerSettings):
             raise _xml_helpers.XMLError(xmlCtx, 'Settings has not attribute {0:>s}'.format(name))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\doc_loaders\settings_set.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:29 Støední Evropa (bìžný èas)

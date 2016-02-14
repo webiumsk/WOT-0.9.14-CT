@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/bdb.py
 """Debugger basics"""
 import fnmatch
@@ -590,4 +590,4 @@ def test():
     t.run('import bdb; bdb.foo(10)')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\bdb.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:12 Støední Evropa (bìžný èas)

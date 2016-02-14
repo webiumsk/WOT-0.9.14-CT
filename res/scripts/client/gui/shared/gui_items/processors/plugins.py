@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/processors/plugins.py
 from collections import namedtuple
 from constants import MAX_VEHICLE_LEVEL
@@ -643,4 +643,4 @@ class BoosterActivateValidator(SyncValidator):
         return makeSuccess()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\processors\plugins.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:48 Støední Evropa (bìžný èas)

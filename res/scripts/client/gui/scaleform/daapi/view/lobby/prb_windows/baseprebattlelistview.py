@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:44 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/BasePrebattleListView.py
 from gui.Scaleform.daapi.view.meta.BasePrebattleListViewMeta import BasePrebattleListViewMeta
 from messenger.gui import events_dispatcher
@@ -32,4 +32,4 @@ class BasePrebattleListView(BasePrebattleListViewMeta):
                 events_dispatcher.rqExitFromLazyChannel(self._name)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\baseprebattlelistview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:44 Støední Evropa (bìžný èas)

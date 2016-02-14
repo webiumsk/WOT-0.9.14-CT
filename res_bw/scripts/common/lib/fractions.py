@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/fractions.py
 """Rational, infinite-precision, real numbers."""
 from __future__ import division
@@ -511,4 +511,4 @@ class Fraction(Rational):
         return self.__class__(self._numerator, self._denominator)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\fractions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:33 Støední Evropa (bìžný èas)

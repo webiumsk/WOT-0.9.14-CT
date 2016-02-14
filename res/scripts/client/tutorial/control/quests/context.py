@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/quests/context.py
 from tutorial.control import game_vars
 from tutorial.control.context import StartReqs
@@ -27,4 +27,4 @@ class QuestsStartReqs(StartReqs):
         return not self.__validateTutorialsCompleted(ctx, descriptor)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\quests\context.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:24 Støední Evropa (bìžný èas)

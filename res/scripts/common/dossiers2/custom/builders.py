@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/custom/builders.py
 import time
 from constants import DOSSIER_TYPE
@@ -30,4 +30,4 @@ getRated7x7DossierDescr = DossierBuilder(rated7x7DossierLayout, VERSION_RECORD_F
 getClubDossierDescr = DossierBuilder(clubDossierLayout, VERSION_RECORD_FORMAT, BLOCK_SIZE_RECORD_FORMAT, CLUB_DOSSIER_VERSION, clubVersionUpdaters, lambda d: _initializeNewDossier(DOSSIER_TYPE.CLUB, d)).build
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\custom\builders.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:15 Støední Evropa (bìžný èas)

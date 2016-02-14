@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/SettingsInterface.py
 from functools import partial
 import BigWorld
@@ -731,4 +731,4 @@ class SettingsInterface(UIInterface):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\settingsinterface.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:34 Støední Evropa (bìžný èas)

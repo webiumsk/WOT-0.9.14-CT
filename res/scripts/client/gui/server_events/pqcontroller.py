@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:21 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/PQController.py
 import operator
 import BigWorld
@@ -187,4 +187,4 @@ class FalloutPQController(_PotapovQuestsController):
         return potapov_quests.g_seasonCache
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\pqcontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:21 Støední Evropa (bìžný èas)

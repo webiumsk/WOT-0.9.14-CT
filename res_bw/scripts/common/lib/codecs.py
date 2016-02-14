@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/codecs.py
 """ codecs -- Python Codec Registry, API and helpers.
 
@@ -995,4 +995,4 @@ if __name__ == '__main__':
     sys.stdin = EncodedFile(sys.stdin, 'utf-8', 'latin-1')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\codecs.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:17 Støední Evropa (bìžný èas)

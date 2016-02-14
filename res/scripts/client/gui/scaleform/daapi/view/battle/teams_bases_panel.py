@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/battle/teams_bases_panel.py
 from debug_utils import LOG_DEBUG
 from gui.battle_control import arena_info
@@ -112,4 +112,4 @@ class TeamBasesPanel(ITeamBasesPanel):
         self.__ui.call('battle.teamBasesPanel.{0:>s}'.format(funcName), args)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\battle\teams_bases_panel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:45 Støední Evropa (bìžný èas)

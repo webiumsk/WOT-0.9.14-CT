@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-aix3/IN.py
 LITTLE_ENDIAN = 1234
 BIG_ENDIAN = 4321
@@ -155,4 +155,4 @@ IP_RECVDSTADDR = 7
 IP_RETOPTS = 8
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-aix3\in.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:41 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/cmd.py
 """A generic class to build line-oriented command interpreters.
 
@@ -416,4 +416,4 @@ class Cmd:
             self.stdout.write('%s\n' % str('  '.join(texts)))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\cmd.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:16 Støední Evropa (bìžný èas)

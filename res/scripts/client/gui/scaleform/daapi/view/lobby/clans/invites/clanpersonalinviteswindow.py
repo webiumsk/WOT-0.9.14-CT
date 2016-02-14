@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/invites/ClanPersonalInvitesWindow.py
 from gui.clans.clan_helpers import ClanListener
 from gui.clans import formatters
@@ -45,4 +45,4 @@ class ClanPersonalInvitesWindow(ClanPersonalInvitesWindowMeta, ClanListener):
         self.as_setActualInvitesTextS(_ms(CLANS.CLANPERSONALINVITESWINDOW_ACTUALINVITES, count=text_styles.stats(formatters.formatInvitesCount(self.clansCtrl.getAccountProfile().getInvitesCount()))))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\invites\clanpersonalinviteswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:01 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/mimetypes.py
 """Guess the MIME type of a file.
 
@@ -563,4 +563,4 @@ if __name__ == '__main__':
                 print 'type:', guess, 'encoding:', encoding
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\mimetypes.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:50 Støední Evropa (bìžný èas)

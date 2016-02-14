@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/quopri_codec.py
 """Codec for quoted-printable encoding.
 
@@ -75,4 +75,4 @@ def getregentry():
     return codecs.CodecInfo(name='quopri', encode=quopri_encode, decode=quopri_decode, incrementalencoder=IncrementalEncoder, incrementaldecoder=IncrementalDecoder, streamwriter=StreamWriter, streamreader=StreamReader)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\quopri_codec.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:14 Støední Evropa (bìžný èas)

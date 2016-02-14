@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/audiodev.py
 """Classes for manipulating audio devices (currently only for Sun and SGI)"""
 from warnings import warnpy3k
@@ -246,4 +246,4 @@ if __name__ == '__main__':
     test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\audiodev.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:10 Støední Evropa (bìžný èas)

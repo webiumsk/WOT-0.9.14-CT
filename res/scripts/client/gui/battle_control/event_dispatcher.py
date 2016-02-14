@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/event_dispatcher.py
 from gui.shared import g_eventBus, EVENT_BUS_SCOPE
 from gui.shared.events import GameEvent
@@ -39,4 +39,4 @@ def setPlayingTimeOnArena(playingTime):
     g_eventBus.handleEvent(GameEvent(GameEvent.PLAYING_TIME_ON_ARENA, {'time': playingTime}), scope=_SCOPE)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\event_dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:33 Støední Evropa (bìžný èas)

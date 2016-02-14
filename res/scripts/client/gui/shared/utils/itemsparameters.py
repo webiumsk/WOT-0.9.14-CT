@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/ItemsParameters.py
 import BigWorld
 from gui.shared.utils import ParametersCache, RELOAD_TIME_PROP_NAME, AIMING_TIME_PROP_NAME, PIERCING_POWER_PROP_NAME, DAMAGE_PROP_NAME, SHELLS_COUNT_PROP_NAME, SHELL_RELOADING_TIME_PROP_NAME, RELOAD_MAGAZINE_TIME_PROP_NAME, CLIP_VEHICLES_PROP_NAME, GUN_RELOADING_TYPE, GUN_NORMAL, GUN_CAN_BE_CLIP, GUN_CLIP, CLIP_VEHICLES_CD_PROP_NAME, UNICHARGED_VEHICLES_PROP_NAME, VEHICLES_PROP_NAME
@@ -296,4 +296,4 @@ class _ItemsParameters(object):
 g_instance = _ItemsParameters()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\itemsparameters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:01 Støední Evropa (bìžný èas)

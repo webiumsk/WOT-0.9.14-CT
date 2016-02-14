@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/LightFx/Controllers/HealthController.py
 from LightFx import LightManager
 
@@ -35,4 +35,4 @@ class HealthController:
         self.__prevHealthEffect = curHealthEffect
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\lightfx\controllers\healthcontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:27 Støední Evropa (bìžný èas)

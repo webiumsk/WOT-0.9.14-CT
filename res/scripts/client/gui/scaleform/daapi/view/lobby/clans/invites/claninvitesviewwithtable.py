@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/invites/ClanInvitesViewWithTable.py
 import weakref
 import math
@@ -249,4 +249,4 @@ class ClanInvitesAbstractDataProvider(SortableDAAPIDataProvider):
         return state
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\invites\claninvitesviewwithtable.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:00 Støední Evropa (bìžný èas)

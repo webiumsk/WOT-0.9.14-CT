@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/ParametersCache.py
 from gui.shared.utils import RELOAD_TIME_PROP_NAME, DISPERSION_RADIUS_PROP_NAME, AIMING_TIME_PROP_NAME, PIERCING_POWER_PROP_NAME, DAMAGE_PROP_NAME, SHELLS_PROP_NAME, SHELLS_COUNT_PROP_NAME, SHELL_RELOADING_TIME_PROP_NAME, RELOAD_MAGAZINE_TIME_PROP_NAME, CLIP_VEHICLES_PROP_NAME, CLIP_VEHICLES_CD_PROP_NAME, GUN_CLIP, GUN_CAN_BE_CLIP, GUN_NORMAL
 from items import artefacts
@@ -451,4 +451,4 @@ class _ParametersCache(object):
 g_instance = _ParametersCache()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\parameterscache.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:02 Støední Evropa (bìžný èas)

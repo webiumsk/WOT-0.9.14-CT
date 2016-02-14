@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Joints/Node.py
 from FX import s_sectionProcessors
 from FX import typeCheck
@@ -65,4 +65,4 @@ class Node(Joint):
 s_sectionProcessors['Node'] = Node
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\joints\node.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:59 Støední Evropa (bìžný èas)

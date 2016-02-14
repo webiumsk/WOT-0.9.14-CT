@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/events_dispatcher.py
 from collections import namedtuple
 import weakref
@@ -476,4 +476,4 @@ class EventDispatcher(object):
 g_eventDispatcher = EventDispatcher()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\events_dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:10 Støední Evropa (bìžný èas)

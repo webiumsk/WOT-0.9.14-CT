@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/extensions/shared_queries.py
 from messenger.proto.xmpp.extensions import PyQuery
 from messenger.proto.xmpp.extensions.wg_items import WgClientExtension
@@ -42,4 +42,4 @@ class PresenceQuery(PyQuery):
             self._ext.setArenaGuiLabel(label)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\extensions\shared_queries.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:05 Støední Evropa (bìžný èas)

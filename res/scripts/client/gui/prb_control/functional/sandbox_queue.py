@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/functional/sandbox_queue.py
 import BigWorld
 from CurrentVehicle import g_currentVehicle
@@ -165,4 +165,4 @@ class SandboxQueueFunctional(prequeue.AccountQueueFunctional):
                 __leave()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\functional\sandbox_queue.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:20 Støední Evropa (bìžný èas)

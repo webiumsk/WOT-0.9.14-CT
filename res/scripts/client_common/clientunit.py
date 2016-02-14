@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client_common/ClientUnit.py
 import struct
 from collections import namedtuple
@@ -326,4 +326,4 @@ class ClientUnit(UnitBase):
         self.onUnitSettingChanged(UNIT_OP.CHANGE_FALLOUT_TYPE, queueType)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client_common\clientunit.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:40 Støední Evropa (bìžný èas)

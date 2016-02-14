@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/functools.py
 """functools.py - Tools for working with functions and callable objects
 """
@@ -91,4 +91,4 @@ def cmp_to_key(mycmp):
     return K
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\functools.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:34 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/messengerBar/ChannelCarousel.py
 from debug_utils import LOG_DEBUG
 from gui.Scaleform.daapi.view.meta.ChannelCarouselMeta import ChannelCarouselMeta
@@ -36,4 +36,4 @@ class ChannelCarousel(ChannelCarouselMeta):
         self.fireEvent(ChannelCarouselEvent(self, ChannelCarouselEvent.ON_WINDOW_CHANGE_OPEN_STATE, itemID, wndType, isWindowOpened), scope=EVENT_BUS_SCOPE.LOBBY)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\messengerbar\channelcarousel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:43 Støední Evropa (bìžný èas)

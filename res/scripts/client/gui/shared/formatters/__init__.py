@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/formatters/__init__.py
 import BigWorld
 from gui.shared.formatters import icons
@@ -37,4 +37,4 @@ def formatGoldPrice(gold, reverse = False):
     return ''.join(outPrice)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\formatters\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:26 Støední Evropa (bìžný èas)

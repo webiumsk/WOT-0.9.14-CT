@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/factories.py
 import nations
 from dossiers2.ui.achievements import ACHIEVEMENT_TYPE, getType as getAchieveType, ACHIEVEMENT_BLOCK as _AB, WHITE_TIGER_RECORD, RARE_STORAGE_RECORD
@@ -221,4 +221,4 @@ def getAchievementFactory(record, dossier = None):
     return factoryMaker(record[1], record[0], dossier)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\factories.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:35 Støední Evropa (bìžný èas)

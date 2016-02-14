@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/ext/dictionaries.py
 from debug_utils import *
 import re
@@ -218,4 +218,4 @@ class DomainNameDictionary(object):
         return ' '.join(words)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\ext\dictionaries.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:30 Støední Evropa (bìžný èas)

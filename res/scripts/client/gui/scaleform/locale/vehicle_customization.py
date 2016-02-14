@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/VEHICLE_CUSTOMIZATION.py
 
 
@@ -1177,4 +1177,4 @@ class VEHICLE_CUSTOMIZATION(object):
     CUSTOMIZATION_ITEMCAROUSEL_RENDERER_GOTOTASK = '#vehicle_customization:customization/ItemCarousel/renderer/goToTask'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\vehicle_customization.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:09 Støední Evropa (bìžný èas)

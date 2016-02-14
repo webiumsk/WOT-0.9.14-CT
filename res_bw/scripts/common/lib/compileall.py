@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/compileall.py
 """Module/script to byte-compile all .py files to .pyc (or .pyo) files.
 
@@ -233,4 +233,4 @@ if __name__ == '__main__':
     sys.exit(exit_status)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\compileall.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:18 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/windows.py
 import GUI
 from debug_utils import LOG_DEBUG, LOG_WARNING
@@ -141,4 +141,4 @@ class UIInterface(object):
             LOG_WARNING('Error to %s.setMovieVariable("%s", ...), check for possible memory leaks' % (self.__class__, path))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\windows.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:35 Støední Evropa (bìžný èas)

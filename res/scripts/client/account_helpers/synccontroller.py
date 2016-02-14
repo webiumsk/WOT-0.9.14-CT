@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/SyncController.py
 import BigWorld
 import AccountCommands
@@ -76,4 +76,4 @@ class SyncController:
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\synccontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:03 Støední Evropa (bìžný èas)

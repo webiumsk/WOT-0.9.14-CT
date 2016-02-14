@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/SelectorBattleTypesUtils.py
 from account_helpers.AccountSettings import AccountSettings, KNOWN_SELECTOR_BATTLES
 
@@ -13,4 +13,4 @@ def isKnownBattleType(bType):
     return bType in selectorKnownBattles
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\selectorbattletypesutils.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:03 Støední Evropa (bìžný èas)

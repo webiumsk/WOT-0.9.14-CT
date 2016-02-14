@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/spawn.py
 """distutils.spawn
 
@@ -195,4 +195,4 @@ def find_executable(executable, path = None):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\spawn.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:33 Støední Evropa (bìžný èas)

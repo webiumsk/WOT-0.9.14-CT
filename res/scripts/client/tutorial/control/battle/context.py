@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/battle/context.py
 from collections import namedtuple
 import struct
@@ -278,4 +278,4 @@ class BattleSoundPlayer(context.SoundPlayer):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\battle\context.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:19 Støední Evropa (bìžný èas)

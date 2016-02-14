@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/Queue.py
 """A multi-producer, multi-consumer queue."""
 from time import time as _time
@@ -244,4 +244,4 @@ class LifoQueue(Queue):
         return self.queue.pop()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\queue.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:10 Støední Evropa (bìžný èas)

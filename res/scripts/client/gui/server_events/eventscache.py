@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/EventsCache.py
 import math
 import sys
@@ -647,4 +647,4 @@ class _EventsCache(object):
 g_eventsCache = _EventsCache()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\eventscache.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:17 Støední Evropa (bìžný èas)

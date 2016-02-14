@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/DetachedTurret.py
 from AvatarInputHandler import mathUtils
 import BigWorld
@@ -390,4 +390,4 @@ class SynchronousDetachment(VehicleEnterTimer):
         turret.filter.transferInputAsVehicle(vehicle.filter, turretMatrix)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\detachedturret.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:42 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/RES_TUTORIAL.py
 
 
@@ -36,4 +36,4 @@ class RES_TUTORIAL(object):
     MAPS_TUTORIAL_USA_M4A3E8_SHERMAN_TRAINING_BATTLE_HINT_15 = '../maps/tutorial/usa_M4A3E8_Sherman_training/battle-hint-15.png'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\res_tutorial.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:57 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/symtable.py
 """Interface to the compiler's internal symbol tables"""
 import _symtable
@@ -232,4 +232,4 @@ if __name__ == '__main__':
         print info, info.is_local(), info.is_namespace()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\symtable.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:26 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib-tk/test/test_ttk/support.py
 import unittest
 import Tkinter
@@ -89,4 +89,4 @@ def widget_eq(actual, expected):
     return False
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib-tk\test\test_ttk\support.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:59 Støední Evropa (bìžný èas)

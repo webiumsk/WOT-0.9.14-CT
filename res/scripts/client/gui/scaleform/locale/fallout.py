@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/FALLOUT.py
 
 
@@ -82,4 +82,4 @@ class FALLOUT(object):
     AWARDWINDOW_BTNACTION_2 = '#fallout:awardWindow/btnAction/2'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\fallout.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:52 Støední Evropa (bìžný èas)

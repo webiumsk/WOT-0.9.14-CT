@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/EntityExtra.py
 from debug_utils import LOG_CURRENT_EXCEPTION
 
@@ -91,4 +91,4 @@ class EntityExtra(object):
          'entity': entity}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\entityextra.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:17 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/tests/support.py
 """Support code for distutils test cases."""
 import os
@@ -208,4 +208,4 @@ def fixup_build_ext(cmd):
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\tests\support.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:42 Støední Evropa (bìžný èas)

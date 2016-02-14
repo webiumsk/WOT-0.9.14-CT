@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/btm_matcher.py
 """A bottom-up tree matching algorithm implementation meant to speed
 up 2to3's matching process. After the tree patterns are reduced to
@@ -156,4 +156,4 @@ def type_repr(type_num):
     return _type_reprs.setdefault(type_num, type_num)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\btm_matcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:02 Støední Evropa (bìžný èas)

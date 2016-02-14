@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/view/SimpleChannelWindow.py
 from gui.shared.events import FocusEvent
 from messenger.gui.Scaleform.meta.ChannelWindowMeta import ChannelWindowMeta
@@ -78,4 +78,4 @@ class SimpleChannelWindow(ChannelWindowMeta):
         self.as_setTitleS(channel.getFullName())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\view\simplechannelwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:46 Støední Evropa (bìžný èas)

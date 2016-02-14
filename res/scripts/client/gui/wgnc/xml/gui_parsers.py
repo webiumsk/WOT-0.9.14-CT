@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/wgnc/xml/gui_parsers.py
 from debug_utils import LOG_WARNING
 from gui.wgnc.settings import WGNC_POP_UP_PRIORITIES
@@ -141,4 +141,4 @@ class GUIItemsParser_v2(_GUIItemsParser):
          _PollParser()))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\wgnc\xml\gui_parsers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:13 Støední Evropa (bìžný èas)

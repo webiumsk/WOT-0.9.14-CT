@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/LobbyView.py
 import BigWorld
 import VOIP
@@ -140,4 +140,4 @@ class LobbyView(LobbyPageMeta):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\lobbyview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:52 Støední Evropa (bìžný èas)

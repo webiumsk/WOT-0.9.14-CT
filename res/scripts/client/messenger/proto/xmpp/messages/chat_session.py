@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/messages/chat_session.py
 import operator
 import time
@@ -271,4 +271,4 @@ class ChatSessionsProvider(ChatProvider):
         super(ChatSessionsProvider, self)._removeChannel(session)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\messages\chat_session.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:07 Støední Evropa (bìžný èas)

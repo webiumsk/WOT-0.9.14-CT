@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/vehicle_getter.py
 from collections import defaultdict
 from gui import TANKMEN_ROLES_ORDER_DICT
@@ -151,4 +151,4 @@ class VehicleGUIItemStatesIterator(VehicleDeviceStatesIterator):
         return (itemName, deviceName, deviceState)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\vehicle_getter.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:34 Støední Evropa (bìžný èas)

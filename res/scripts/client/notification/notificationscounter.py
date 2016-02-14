@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/NotificationsCounter.py
 from gui.prb_control.prb_helpers import prbInvitesProperty
 from messenger.m_constants import PROTO_TYPE
@@ -36,4 +36,4 @@ class NotificationsCounter(object):
         return self.__count
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\notificationscounter.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)

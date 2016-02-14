@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/palmos.py
 """ Python Character Mapping Codec for PalmOS 3.5.
 
@@ -72,4 +72,4 @@ decoding_map.update({128: 8364,
 encoding_map = codecs.make_encoding_map(decoding_map)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\palmos.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:13 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:13:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/xml/dom/minicompat.py
 """Python version compatibility support for minidom."""
 __all__ = ['NodeList',
@@ -71,4 +71,4 @@ def defproperty(klass, name, doc):
     setattr(klass, name, prop)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\xml\dom\minicompat.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:13:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:41 Støední Evropa (bìžný èas)

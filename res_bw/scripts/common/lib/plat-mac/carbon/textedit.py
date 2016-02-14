@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/Carbon/TextEdit.py
 teJustLeft = 0
 teJustCenter = 1
@@ -57,4 +57,4 @@ teCaret = -2
 teFUseTextServices = 4
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\carbon\textedit.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:12 Støední Evropa (bìžný èas)

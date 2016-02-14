@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/goodies/Goodie.py
 import time
 from goodie_constants import GOODIE_STATE
@@ -28,4 +28,4 @@ class Goodie(object):
         return (self.state, self.expiration, self.counter)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\goodies\goodie.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:29 Støední Evropa (bìžný èas)

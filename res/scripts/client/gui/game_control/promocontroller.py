@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/PromoController.py
 from account_helpers import getAccountDatabaseID
 from account_helpers.AccountSettings import AccountSettings, PROMO, LAST_PROMO_PATCH_VERSION
@@ -156,4 +156,4 @@ class PromoController(Controller):
         return getAccountDatabaseID() % cls.PROMO_AUTO_VIEWS_TEST_VALUE != 0 and g_lobbyContext.getServerSettings().isPromoAutoViewsEnabled()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\promocontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:01 Støední Evropa (bìžný èas)

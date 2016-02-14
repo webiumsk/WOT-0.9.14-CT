@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/EventsWindow.py
 import BigWorld
 from account_helpers.settings_core.SettingsCore import g_settingsCore
@@ -160,4 +160,4 @@ class EventsWindow(QuestsWindowMeta):
             return _QA.FALLOUT_TILE_CHAINS_VIEW_ALIAS
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\eventswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:57 Støední Evropa (bìžný èas)

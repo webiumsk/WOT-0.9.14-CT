@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarInputHandler/mathUtils.py
 import functools
 import BigWorld
@@ -242,4 +242,4 @@ def reduceTo2PI(inAngle):
     return outAngle
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarinputhandler\mathutils.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:14 Støední Evropa (bìžný èas)

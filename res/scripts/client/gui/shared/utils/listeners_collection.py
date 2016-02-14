@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/listeners_collection.py
 import itertools
 from debug_utils import LOG_ERROR, LOG_DEBUG
@@ -76,4 +76,4 @@ class ListenersCollection(IListenersCollection):
                 LOG_ERROR('Listener method not found', listener, event)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\listeners_collection.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:01 Støední Evropa (bìžný èas)

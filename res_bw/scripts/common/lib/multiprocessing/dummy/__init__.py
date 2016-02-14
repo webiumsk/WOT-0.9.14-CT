@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/multiprocessing/dummy/__init__.py
 __all__ = ['Process',
  'current_process',
@@ -131,4 +131,4 @@ def Pool(processes = None, initializer = None, initargs = ()):
 JoinableQueue = Queue
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\multiprocessing\dummy\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:40 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/tabnanny.py
 """The Tab Nanny despises ambiguous indentation.  She knows no mercy.
 
@@ -242,4 +242,4 @@ if __name__ == '__main__':
     main()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\tabnanny.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:27 Støední Evropa (bìžný èas)

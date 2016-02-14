@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/LayoutController.py
 from gui.Scaleform.daapi.settings.views import VIEW_ALIAS
 from gui.Scaleform.framework import ViewTypes
@@ -75,4 +75,4 @@ class LayoutController(BaseMessagesController, EventSystemEntity):
         BaseMessagesController.cleanUp(self)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\layoutcontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:11 Støední Evropa (bìžný èas)

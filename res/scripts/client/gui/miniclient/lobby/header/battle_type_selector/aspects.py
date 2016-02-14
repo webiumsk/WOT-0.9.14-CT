@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/header/battle_type_selector/aspects.py
 from helpers import aop
 from helpers.i18n import makeString as _ms
@@ -67,4 +67,4 @@ class OnBattleTypeSelectorPopulate(aop.Aspect):
         cd.self.as_showMiniClientInfoS('{0} {1}'.format(icons.alert(-3), text_styles.main(_ms('#miniclient:battle_type_select_popover/message'))), _ms('#miniclient:personal_quests_welcome_view/continue_download'))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\header\battle_type_selector\aspects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/VehicleCustonizationModel.py
 import time
 
@@ -38,4 +38,4 @@ class VehicleCustomizationModel:
         return (tuple(VehicleCustomizationModel._playerEmblems), tuple(VehicleCustomizationModel._playerInscriptions))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\vehiclecustonizationmodel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:12 Støední Evropa (bìžný èas)

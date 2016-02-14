@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/dossiers2/custom/battle_results_processors.py
 import time
 from arena_achievements import INBATTLE_SERIES
@@ -593,4 +593,4 @@ def __updateDefencePoints(dossierDescr, results):
         dossierDescr['achievements7x7']['sentinel'] += results['droppedCapturePoints']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\dossiers2\custom\battle_results_processors.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:15 Støední Evropa (bìžný èas)

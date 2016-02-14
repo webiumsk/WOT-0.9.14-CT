@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/genConsts/TEXT_ALIGN.py
 
 
@@ -8,4 +8,4 @@ class TEXT_ALIGN(object):
     CENTER = 'center'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\genconsts\text_align.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:42 Støední Evropa (bìžný èas)

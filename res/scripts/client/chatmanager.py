@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/ChatManager.py
 from chat_shared import CHAT_ACTIONS, CHAT_CHANNEL_BATTLE, CHAT_CHANNEL_BATTLE_TEAM
 import Event
@@ -75,4 +75,4 @@ class ChatManager(Singleton):
 chatManager = ChatManager.instance()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\chatmanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:35 Støední Evropa (bìžný èas)

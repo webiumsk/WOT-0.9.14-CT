@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/IGR.py
 import Event
 import constants
@@ -46,4 +46,4 @@ class IGRController(Controller):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\igr.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)

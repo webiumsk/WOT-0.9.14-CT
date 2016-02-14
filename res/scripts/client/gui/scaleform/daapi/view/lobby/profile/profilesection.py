@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/ProfileSection.py
 from helpers import i18n
 from gui.clubs.ClubsController import g_clubsCtrl
@@ -108,4 +108,4 @@ class ProfileSection(ProfileSectionMeta):
          'icon': icon}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\profilesection.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:49 Støední Evropa (bìžný èas)

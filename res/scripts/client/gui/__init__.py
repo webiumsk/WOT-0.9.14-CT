@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/__init__.py
 import nations
 from collections import defaultdict
@@ -112,4 +112,4 @@ def makeHtmlString(path, key, ctx = None, **kwargs):
     return g_htmlTemplates[path].format(key, ctx=ctx, **kwargs)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:26 Støední Evropa (bìžný èas)

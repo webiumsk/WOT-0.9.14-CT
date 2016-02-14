@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/ext/channel_num_gen.py
 import BigWorld
 from constants import PREBATTLE_TYPE, QUEUE_TYPE
@@ -109,4 +109,4 @@ def isClientIDValid(clientID):
     return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\ext\channel_num_gen.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:30 Støední Evropa (bìžný èas)

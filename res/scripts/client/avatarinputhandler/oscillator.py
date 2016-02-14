@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarInputHandler/Oscillator.py
 import math
 import random
@@ -241,4 +241,4 @@ class HarmonicOscillator(object):
         self.deviation = self.__amplitude * math.sin(self.__omega * self.__time)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarinputhandler\oscillator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:15 Støední Evropa (bìžný èas)

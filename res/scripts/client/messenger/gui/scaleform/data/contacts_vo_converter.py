@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/data/contacts_vo_converter.py
 from constants import WG_GAMES
 from gui import makeHtmlString
@@ -619,4 +619,4 @@ class FriendsGroupsConverter(IContactsConverter):
         return vos
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\data\contacts_vo_converter.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:41 Støední Evropa (bìžný èas)

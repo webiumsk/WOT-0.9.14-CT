@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/wsgiref/simple_server.py
 """BaseHTTPServer that implements the Python WSGI protocol (PEP 333, rev 1.21)
 
@@ -139,4 +139,4 @@ if __name__ == '__main__':
     httpd.server_close()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\wsgiref\simple_server.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:40 Støední Evropa (bìžný èas)

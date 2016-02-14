@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/DestructiblesCache.py
 import ResMgr
 import BigWorld
@@ -539,4 +539,4 @@ def decodeFragile(data):
     return (data >> 8, bool(data & 1))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\destructiblescache.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:55 Støední Evropa (bìžný èas)

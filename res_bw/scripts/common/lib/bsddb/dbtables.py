@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/bsddb/dbtables.py
 _cvsid = '$Id$'
 import re
@@ -707,4 +707,4 @@ class bsdTableDB:
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\bsddb\dbtables.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:52 Støední Evropa (bìžný èas)

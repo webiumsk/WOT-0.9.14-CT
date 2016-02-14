@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:23 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/SystemEvents/System_Events_Suite.py
 """Suite System Events Suite: Terms and Events for controlling the System Events application
 Level 1, version 1
@@ -86,4 +86,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\systemevents\system_events_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:23 Støední Evropa (bìžný èas)

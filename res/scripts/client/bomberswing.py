@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/BombersWing.py
 from collections import namedtuple
 import math
@@ -230,4 +230,4 @@ class BombersWing(CallbackDelayer):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\bomberswing.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:35 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/doc_loaders/GuiSoundsLoader.py
 import ResMgr
 from items import _xml
@@ -96,4 +96,4 @@ class GuiSoundsLoader(object):
             return None
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\doc_loaders\guisoundsloader.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:55 Støední Evropa (bìžný èas)

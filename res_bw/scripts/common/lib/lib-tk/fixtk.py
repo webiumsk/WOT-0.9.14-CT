@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib-tk/FixTk.py
 import sys, os
 try:
@@ -59,4 +59,4 @@ if os.path.exists(prefix):
                     os.environ['TIX_LIBRARY'] = tixdir
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib-tk\fixtk.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:46 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/components/sorties_dps.py
 import random
 import BigWorld
@@ -521,4 +521,4 @@ class FortBattlesDataProvider(SortableDAAPIDataProvider):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\components\sorties_dps.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:36 Støední Evropa (bìžný èas)

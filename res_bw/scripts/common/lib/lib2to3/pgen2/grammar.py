@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/pgen2/grammar.py
 """This module defines the data structures used to represent a grammar.
 
@@ -128,4 +128,4 @@ for line in opmap_raw.splitlines():
         opmap[op] = getattr(token, name)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\pgen2\grammar.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:13 Støední Evropa (bìžný èas)

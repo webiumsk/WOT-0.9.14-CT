@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Actors/Light.py
 import BigWorld
 from bwdebug import *
@@ -32,4 +32,4 @@ class Light(Actor):
 s_sectionProcessors['Light'] = Light
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\actors\light.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:53 Støední Evropa (bìžný èas)

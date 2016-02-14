@@ -1,4 +1,4 @@
-# 2016.02.13 15:13:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/xml/dom/domreg.py
 """Registration facilities for DOM. This module should not be used
 directly. Instead, the functions getDOMImplementation and
@@ -92,4 +92,4 @@ def _parse_feature_string(s):
     return tuple(features)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\xml\dom\domreg.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:13:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:40 Støední Evropa (bìžný èas)

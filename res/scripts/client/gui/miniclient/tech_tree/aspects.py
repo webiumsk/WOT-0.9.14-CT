@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/tech_tree/aspects.py
 import BigWorld
 from gui.DialogsInterface import showDialog
@@ -38,4 +38,4 @@ class OnBuyVehicle(aop.Aspect):
             return None
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\tech_tree\aspects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:08 Støední Evropa (bìžný èas)

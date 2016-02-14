@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/threads.py
 import time
 import weakref
@@ -95,4 +95,4 @@ class ThreadPool(object):
         return '%s(workers = %d; jobs = %d)' % (self.__class__.__name__, len(self._workers), self._jobs.qsize())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\threads.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:25 Støední Evropa (bìžný èas)

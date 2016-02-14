@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_long.py
 """Fixer that turns 'long' into 'int' everywhere.
 """
@@ -15,4 +15,4 @@ class FixLong(fixer_base.BaseFix):
             node.changed()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_long.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)

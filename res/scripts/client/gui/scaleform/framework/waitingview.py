@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/WaitingView.py
 import Keys
 from debug_utils import LOG_ERROR, LOG_CURRENT_EXCEPTION
@@ -43,4 +43,4 @@ class WaitingView(WaitingViewMeta):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\waitingview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:34 Støední Evropa (bìžný èas)

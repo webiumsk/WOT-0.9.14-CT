@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/SystemMessagesInterface.py
 import time
 import account_helpers
@@ -126,4 +126,4 @@ class SystemMessagesInterface(BaseSystemMessages):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\systemmessagesinterface.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:35 Støední Evropa (bìžný èas)

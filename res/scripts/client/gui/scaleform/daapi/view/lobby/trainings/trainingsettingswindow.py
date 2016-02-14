@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:07 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/trainings/TrainingSettingsWindow.py
 import ArenaType
 from account_helpers import gameplay_ctx
@@ -93,4 +93,4 @@ class TrainingSettingsWindow(TrainingWindowMeta):
         self.fireEvent(events.TrainingSettingsEvent(events.TrainingSettingsEvent.UPDATE_TRAINING_SETTINGS, ctx={'settings': settings}), scope=EVENT_BUS_SCOPE.LOBBY)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\trainings\trainingsettingswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:08 Støední Evropa (bìžný èas)

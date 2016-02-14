@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/macresource.py
 """macresource - Locate and open the resources needed for a script."""
 from warnings import warnpy3k
@@ -122,4 +122,4 @@ def _decode(pathname, verbose = 0):
     return newpathname
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\macresource.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:02 Støední Evropa (bìžný èas)

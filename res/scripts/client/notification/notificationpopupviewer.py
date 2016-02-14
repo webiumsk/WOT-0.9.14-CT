@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/NotificationPopUpViewer.py
 from gui.Scaleform.daapi.view.meta.NotificationPopUpViewerMeta import NotificationPopUpViewerMeta
 from gui.shared.notifications import NotificationPriorityLevel
@@ -122,4 +122,4 @@ class NotificationPopUpViewer(NotificationPopUpViewerMeta, NotificationLayoutVie
             self.__pendingMessagesQueue = []
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\notificationpopupviewer.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)

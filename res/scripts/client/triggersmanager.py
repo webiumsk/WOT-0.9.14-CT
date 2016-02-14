@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/TriggersManager.py
 import BigWorld
 import Math
@@ -232,4 +232,4 @@ def init():
     g_manager = TriggersManager()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\triggersmanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:50 Støední Evropa (bìžný èas)

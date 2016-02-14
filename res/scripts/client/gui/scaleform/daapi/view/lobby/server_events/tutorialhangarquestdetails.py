@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/TutorialHangarQuestDetails.py
 from debug_utils import LOG_DEBUG
 from gui import SystemMessages
@@ -115,4 +115,4 @@ class TutorialHangarQuestDetails(TutorialHangarQuestDetailsMeta):
         return text_styles.main(questConditionText)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\tutorialhangarquestdetails.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:00 Støední Evropa (bìžný èas)

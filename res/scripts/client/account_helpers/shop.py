@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/Shop.py
 import AccountCommands
 import cPickle
@@ -580,4 +580,4 @@ def _subtractPrices(price1, price2):
     return (price1[0] - price2[0], price1[1] - price2[1])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\shop.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:02 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/V4ShaderConsts.py
 import Math
 _mov = 0
@@ -32,4 +32,4 @@ _r14 = Math.getRegister(14)
 _r15 = Math.getRegister(15)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\v4shaderconsts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:41 Støední Evropa (bìžný èas)

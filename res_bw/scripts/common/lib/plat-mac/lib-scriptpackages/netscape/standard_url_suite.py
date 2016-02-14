@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/Netscape/Standard_URL_suite.py
 """Suite Standard URL suite: Mac URL standard, supported by many apps
 
@@ -42,4 +42,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\netscape\standard_url_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:18 Støední Evropa (bìžný èas)

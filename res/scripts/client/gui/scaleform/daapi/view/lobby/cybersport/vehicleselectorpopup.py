@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/cyberSport/VehicleSelectorPopup.py
 from account_helpers.AccountSettings import AccountSettings
 from constants import VEHICLE_CLASSES
@@ -94,4 +94,4 @@ class VehicleSelectorPopup(VehicleSelectorPopupMeta, VehicleSelectorBase):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport\vehicleselectorpopup.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:20 Støední Evropa (bìžný èas)

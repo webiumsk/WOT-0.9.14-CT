@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/__init__.py
 from gui.Scaleform.framework.managers.containers import POP_UP_CRITERIA
 from gui.app_loader.settings import APP_NAME_SPACE
@@ -53,4 +53,4 @@ class _PackageBusinessHandler(PackageBusinessHandler):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:01 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/RETRAIN_CREW.py
 
 
@@ -12,4 +12,4 @@ class RETRAIN_CREW(object):
     LABEL_BUTTON_SUBMIT = '#retrain_crew:label/button/submit'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\retrain_crew.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:57 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/MedalCariusAchievement.py
 from abstract import ClassProgressAchievement
 from dossiers2.ui.achievements import ACHIEVEMENT_BLOCK as _AB
@@ -18,4 +18,4 @@ class MedalCariusAchievement(ClassProgressAchievement):
         return dossier.getRandomStats().getFragsCount() - dossier.getClanStats().getFragsCount() + dossier.getTeam7x7Stats().getFragsCount() + dossier.getFortBattlesStats().getFragsCount() + dossier.getFortSortiesStats().getFragsCount() + dossier.getGlobalMapStats().getFragsCount()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\medalcariusachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)

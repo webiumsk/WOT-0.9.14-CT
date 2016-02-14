@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/rally/AbstractRallyWindow.py
 from debug_utils import LOG_ERROR
 from gui.Scaleform.daapi.view.lobby.rally import NavigationStack
@@ -77,4 +77,4 @@ class AbstractRallyWindow(AbstractRallyWindowMeta):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\rally\abstractrallywindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:52 Støední Evropa (bìžný èas)

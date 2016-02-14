@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/app_factory.py
 import BattleReplay
 from debug_utils import LOG_DEBUG
@@ -232,4 +232,4 @@ def createAppFactory():
     return factory
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\app_factory.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:27 Støední Evropa (bìžný èas)

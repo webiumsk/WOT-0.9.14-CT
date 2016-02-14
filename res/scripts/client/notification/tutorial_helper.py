@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/tutorial_helper.py
 try:
     from tutorial import GlobalStorage as TutorialGlobalStorage
@@ -22,4 +22,4 @@ except ImportError:
         SERVICE_MESSAGES_IDS = ''
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\tutorial_helper.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)

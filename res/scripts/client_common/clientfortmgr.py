@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client_common/ClientFortMgr.py
 from FortifiedRegionBase import FORT_CLIENT_METHOD, makeDirPosByte, SECONDS_PER_DAY, SECONDS_PER_HOUR, ALL_DIRS
 from ClientFortifiedRegion import ClientFortifiedRegion
@@ -208,4 +208,4 @@ class ClientFortMgr(object):
         return self.__callFortMethod(FORT_CLIENT_METHOD.DEBUG_UNLOCK_DIR, dir, 0, 0)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client_common\clientfortmgr.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:39 Støední Evropa (bìžný èas)

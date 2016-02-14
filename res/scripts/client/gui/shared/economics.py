@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/economics.py
 
 
@@ -38,4 +38,4 @@ def getPremiumCostActionPrc(discounts, packet, proxy):
     return getActionPrc(premiumCost.get(packet), defaultPremiumCost.get(packet))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\economics.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:22 Støední Evropa (bìžný èas)

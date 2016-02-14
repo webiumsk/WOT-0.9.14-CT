@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:21 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/chains/__init__.py
 from tutorial.data.effects import EFFECT_TYPE
 from tutorial.control import ControlsFactory
@@ -49,4 +49,4 @@ class ChainsControlsFactory(ControlsFactory):
         return lobby_func.FunctionalLobbyChapterInfo()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\chains\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:21 Støední Evropa (bìžný èas)

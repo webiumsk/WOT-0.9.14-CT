@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/tech_tree/pointcuts.py
 import aspects
 from helpers import aop
@@ -15,4 +15,4 @@ class OnBuyVehicle(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.VehicleBuyWindow', 'VehicleBuyWindow', 'submit', aspects=(aspects.OnBuyVehicle(config),))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\tech_tree\pointcuts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:08 Støední Evropa (bìžný èas)

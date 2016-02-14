@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/requesters/RequestsController.py
 from functools import partial
 import BigWorld
@@ -150,4 +150,4 @@ class RequestsController(object):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\requesters\requestscontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:07 Støední Evropa (bìžný èas)

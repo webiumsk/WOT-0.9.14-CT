@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/ClubDescr.py
 import cPickle
 from club_shared import EMBLEM_TYPE
@@ -51,4 +51,4 @@ class ClubDescr(object):
         return (e.get(EMBLEM_TYPE.SIZE_24x24, None), e.get(EMBLEM_TYPE.SIZE_32x32, None), e.get(EMBLEM_TYPE.SIZE_64x64, None))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\clubdescr.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:52 Støední Evropa (bìžný èas)

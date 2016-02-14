@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/TutorialQuestsTab.py
 from gui.ClientUpdateManager import g_clientUpdateManager
 from gui.Scaleform.daapi.view.lobby.server_events.QuestsCurrentTab import QuestsCurrentTab
@@ -105,4 +105,4 @@ class TutorialQuestsTab(QuestsCurrentTab):
         return (NO_PROGRESS_COUNT, NO_PROGRESS_COUNT, PROGRESS_BAR_TYPE.NONE)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\tutorialqueststab.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:01 Støední Evropa (bìžný èas)

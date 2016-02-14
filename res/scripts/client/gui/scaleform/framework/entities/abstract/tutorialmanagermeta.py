@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/entities/abstract/TutorialManagerMeta.py
 from gui.Scaleform.framework.entities.BaseDAAPIModule import BaseDAAPIModule
 
@@ -41,4 +41,4 @@ class TutorialManagerMeta(BaseDAAPIModule):
             return self.flashObject.as_hideHint(viewTutorialId, componentId)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\entities\abstract\tutorialmanagermeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:38 Støední Evropa (bìžný èas)

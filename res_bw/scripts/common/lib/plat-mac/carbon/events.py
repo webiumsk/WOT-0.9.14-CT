@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/Carbon/Events.py
 nullEvent = 0
 mouseDown = 1
@@ -101,4 +101,4 @@ app3Mask = 16384
 app4Mask = 32768
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\carbon\events.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:08 Støední Evropa (bìžný èas)

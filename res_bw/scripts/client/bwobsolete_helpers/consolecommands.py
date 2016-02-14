@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/ConsoleCommands.py
 """This module implements console commands.
 
@@ -362,4 +362,4 @@ def getNotes(player, arg):
     player.base.getNotes()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\consolecommands.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:42 Støední Evropa (bìžný èas)

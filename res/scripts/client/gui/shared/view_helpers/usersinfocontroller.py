@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/view_helpers/UsersInfoController.py
 import BigWorld
 from AccountCommands import isCodeValid
@@ -110,4 +110,4 @@ class UsersInfoController(RequestsController):
         return 30.0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\view_helpers\usersinfocontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:09 Støední Evropa (bìžný èas)

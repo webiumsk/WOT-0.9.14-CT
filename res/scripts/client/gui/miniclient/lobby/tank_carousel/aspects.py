@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:07 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/tank_carousel/aspects.py
 from helpers import aop
 from helpers.i18n import makeString as _ms
@@ -34,4 +34,4 @@ class MakeTankUnavailableInCarousel(aop.Aspect):
         return original_return_value
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\tank_carousel\aspects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:07 Støední Evropa (bìžný èas)

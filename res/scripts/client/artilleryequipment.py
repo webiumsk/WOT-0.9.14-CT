@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/ArtilleryEquipment.py
 from AvatarInputHandler import mathUtils
 import BigWorld
@@ -13,4 +13,4 @@ class ArtilleryEquipment(BigWorld.UserDataObject):
         self.launchVelocity = launchDir * self.speed
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\artilleryequipment.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:30 Støední Evropa (bìžný èas)

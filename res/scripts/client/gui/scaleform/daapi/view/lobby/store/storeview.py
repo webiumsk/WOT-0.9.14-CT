@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/store/StoreView.py
 from account_helpers import AccountSettings
 from account_helpers.AccountSettings import STORE_TAB
@@ -40,4 +40,4 @@ class StoreView(StoreViewMeta):
         super(StoreView, self)._dispose()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\store\storeview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:02 Støední Evropa (bìžný èas)

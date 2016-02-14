@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/BWUtil.py
 import ResMgr
 from bwdebug import TRACE_MSG
@@ -57,4 +57,4 @@ def extendPath(path, name):
     return path
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\bwutil.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:04 Støední Evropa (bìžný èas)

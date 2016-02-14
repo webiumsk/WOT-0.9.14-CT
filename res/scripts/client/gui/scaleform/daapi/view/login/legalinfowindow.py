@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/login/LegalInfoWindow.py
 from gui.Scaleform.daapi.view.meta.LegalInfoWindowMeta import LegalInfoWindowMeta
 from debug_utils import LOG_ERROR
@@ -47,4 +47,4 @@ class LegalInfoWindow(LegalInfoWindowMeta):
         self.destroy()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\login\legalinfowindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:09 Støední Evropa (bìžný èas)

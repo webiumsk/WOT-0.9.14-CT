@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/formatters.py
 import types
 import BigWorld
@@ -568,4 +568,4 @@ def packGroupBlock(groupName):
      'description': text_styles.highTitle(groupName)}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\formatters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:19 Støední Evropa (bìžný èas)

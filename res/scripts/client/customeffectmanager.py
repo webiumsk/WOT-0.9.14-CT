@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/CustomEffectManager.py
 from AvatarInputHandler import mathUtils
 import Math
@@ -242,4 +242,4 @@ def getCorrectedMatKinds(vehicleAppearance):
     return correctedMatKinds
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\customeffectmanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:42 Støední Evropa (bìžný èas)

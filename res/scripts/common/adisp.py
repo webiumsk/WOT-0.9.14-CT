@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/adisp.py
 """
 Adisp is a library that allows structuring code with asynchronous calls and
@@ -155,4 +155,4 @@ def async(func, cbname = 'callback', cbwrapper = lambda x: x):
     return wrapper
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\adisp.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:20 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:46 Støední Evropa (bìžný èas)

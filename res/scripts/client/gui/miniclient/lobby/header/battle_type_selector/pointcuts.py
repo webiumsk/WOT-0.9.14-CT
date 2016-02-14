@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/header/battle_type_selector/pointcuts.py
 from helpers import aop
 import aspects
@@ -51,4 +51,4 @@ class OnBattleTypeSelectorPopulate(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.header.BattleTypeSelectPopover', 'BattleTypeSelectPopover', '_populate', aspects=(aspects.OnBattleTypeSelectorPopulate,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\header\battle_type_selector\pointcuts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)

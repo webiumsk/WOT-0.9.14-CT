@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/Vibroeffects/Controllers/OnceController.py
 import BigWorld
 from Vibroeffects import VibroManager
@@ -10,4 +10,4 @@ class OnceController:
         VibroManager.g_instance.launchQuickEffect(effectName, 1, gain)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\vibroeffects\controllers\oncecontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:37 Støední Evropa (bìžný èas)

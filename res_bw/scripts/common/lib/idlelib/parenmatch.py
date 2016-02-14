@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/ParenMatch.py
 """ParenMatch -- An IDLE extension for parenthesis matching.
 
@@ -152,4 +152,4 @@ class ParenMatch:
         self.editwin.text_frame.after(self.FLASH_DELAY, lambda self = self, c = self.counter: self.handle_restore_timer(c))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\parenmatch.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:30 Støední Evropa (bìžný èas)

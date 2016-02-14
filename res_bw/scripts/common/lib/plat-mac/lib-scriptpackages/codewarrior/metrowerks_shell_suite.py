@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/CodeWarrior/Metrowerks_Shell_Suite.py
 """Suite Metrowerks Shell Suite: Events supported by the Metrowerks Project Shell
 Level 1, version 1
@@ -2432,4 +2432,4 @@ _enumdeclarations = {'Acce': _Enum_Acce,
  'savo': _Enum_savo}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\codewarrior\metrowerks_shell_suite.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:14 Støední Evropa (bìžný èas)

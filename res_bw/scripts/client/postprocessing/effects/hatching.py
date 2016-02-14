@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/PostProcessing/Effects/Hatching.py
 from PostProcessing.RenderTargets import *
 from PostProcessing.Phases import *
@@ -30,4 +30,4 @@ def hatching(texName = 'system/maps/post_processing/hatching.dds'):
     return e
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\postprocessing\effects\hatching.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:01 Støední Evropa (bìžný èas)

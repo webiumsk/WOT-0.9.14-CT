@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:23 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortBuildingProcessWindow.py
 from ClientFortifiedRegion import BUILDING_UPDATE_REASON
 from FortifiedRegionBase import BuildingDescr
@@ -229,4 +229,4 @@ class FortBuildingProcessWindow(FortBuildingProcessWindowMeta, FortViewHelper):
         AccountSettings.setSettings('fortSettings', fortSettings)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortbuildingprocesswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:24 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/functional/default.py
 import BigWorld
 from PlayerEvents import g_playerEvents
@@ -723,4 +723,4 @@ class PrbFunctional(PrbDispatcher):
         return prb_items.PlayersStateStats(notReadyCount, haveInBattle, playersCount, limitMaxCount)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\functional\default.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:18 Støední Evropa (bìžný èas)

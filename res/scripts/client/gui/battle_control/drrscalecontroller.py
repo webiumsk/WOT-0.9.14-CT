@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/DRRScaleController.py
 import weakref
 import BigWorld
@@ -46,4 +46,4 @@ class DRRScaleController(object):
         self.handleKey(event.key, event.isKeyDown())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\drrscalecontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:32 Støední Evropa (bìžný èas)

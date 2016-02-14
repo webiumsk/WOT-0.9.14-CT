@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/gettext.py
 """Internationalization and localization support.
 
@@ -518,4 +518,4 @@ def lngettext(msgid1, msgid2, n):
 Catalog = translation
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\gettext.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:36 Støední Evropa (bìžný èas)

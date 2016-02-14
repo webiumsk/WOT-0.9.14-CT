@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/spa_requesters.py
 from adisp import async
 from messenger.m_constants import CLIENT_ERROR_ID
@@ -127,4 +127,4 @@ class AsyncNicknameResolver(NicknameResolver):
         super(AsyncNicknameResolver, self).resolve(dbIDs, callback)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\spa_requesters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)

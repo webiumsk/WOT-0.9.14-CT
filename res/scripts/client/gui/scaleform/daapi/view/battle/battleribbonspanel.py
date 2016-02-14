@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/battle/BattleRibbonsPanel.py
 from account_helpers.settings_core.settings_constants import GAME
 from gui.battle_control import g_sessionProvider, avatar_getter
@@ -112,4 +112,4 @@ class BattleRibbonsPanel(object):
             self.__flashObject.setup(self.__enabled, _RIBBON_SOUNDS_ENABLED, *_POS_COEFF)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\battle\battleribbonspanel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:40 Støední Evropa (bìžný èas)

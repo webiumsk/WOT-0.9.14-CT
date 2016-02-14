@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/battle_constants.py
 from enumerations import Enumeration, AttributeEnumItem
 
@@ -131,4 +131,4 @@ class WinStatus(object):
         return cls(status=None)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\battle_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:30 Støední Evropa (bìžný èas)

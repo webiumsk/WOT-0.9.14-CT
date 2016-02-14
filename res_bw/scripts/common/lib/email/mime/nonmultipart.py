@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/email/mime/nonmultipart.py
 """Base class for MIME type messages that are not multipart."""
 __all__ = ['MIMENonMultipart']
@@ -12,4 +12,4 @@ class MIMENonMultipart(MIMEBase):
         raise errors.MultipartConversionError('Cannot attach additional subparts to non-multipart/*')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\email\mime\nonmultipart.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:55 Støední Evropa (bìžný èas)

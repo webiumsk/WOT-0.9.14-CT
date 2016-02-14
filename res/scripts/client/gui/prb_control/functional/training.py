@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/functional/training.py
 from functools import partial
 import BigWorld
@@ -389,4 +389,4 @@ class TrainingFunctional(default.PrbFunctional):
         self.setPlayerState(prb_ctx.SetPlayerStateCtx(False, waitingID='prebattle/player_not_ready'))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\functional\training.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:21 Støední Evropa (bìžný èas)

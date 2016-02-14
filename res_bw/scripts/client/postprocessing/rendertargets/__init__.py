@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/PostProcessing/RenderTargets/__init__.py
 """RenderTargets python module
 This module manages the render targets used by the post-processing chain.
@@ -143,4 +143,4 @@ def fini():
     rts = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\postprocessing\rendertargets\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:03 Støední Evropa (bìžný èas)

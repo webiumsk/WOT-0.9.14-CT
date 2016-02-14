@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/calendar.py
 """Calendar printing functions
 
@@ -686,4 +686,4 @@ if __name__ == '__main__':
     main(sys.argv)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\calendar.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:13 Støední Evropa (bìžný èas)

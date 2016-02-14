@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/settings/views.py
 from gui.Scaleform.framework import COMMON_VIEW_ALIAS
 
@@ -109,4 +109,4 @@ class VIEW_ALIAS(COMMON_VIEW_ALIAS):
     CUSTOMIZATION_FILTER_POPOVER = 'CustomizationFilterPopover'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\settings\views.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:36 Støední Evropa (bìžný èas)

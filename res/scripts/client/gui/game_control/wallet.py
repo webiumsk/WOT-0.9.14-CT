@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/wallet.py
 import BigWorld
 from adisp import process
@@ -194,4 +194,4 @@ class ExchangeFreeXPToTankmanPointcut(Pointcut):
         super(ExchangeFreeXPToTankmanPointcut, self).__init__('gui.Scaleform.daapi.view.lobby.exchange.ExchangeFreeToTankmanXpWindow', 'ExchangeFreeToTankmanXpWindow', '^apply$')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\wallet.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:02 Støední Evropa (bìžný èas)

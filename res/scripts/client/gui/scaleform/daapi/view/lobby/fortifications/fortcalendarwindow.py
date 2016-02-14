@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortCalendarWindow.py
 import BigWorld
 from collections import defaultdict
@@ -212,4 +212,4 @@ class FortCalendarWindow(FortViewHelper, FortCalendarWindowMeta):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortcalendarwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:24 Støední Evropa (bìžný èas)

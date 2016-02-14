@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_next.py
 """Fixer for it.next() -> next(it), per PEP 3114."""
 from ..pgen2 import token
@@ -77,4 +77,4 @@ def is_subtree(root, node):
     return any((is_subtree(c, node) for c in root.children))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_next.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:10 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:55 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/SandboxQueueDialog.py
 from gui import makeHtmlString
 from gui.Scaleform.locale.MENU import MENU
@@ -41,4 +41,4 @@ class SandboxQueueDialog(PvESandboxQueueWindowMeta):
         self.destroy()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\sandboxqueuedialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:55 Støední Evropa (bìžný èas)

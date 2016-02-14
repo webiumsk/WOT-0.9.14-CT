@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/header/create_squad.py
 from gui.shared.event_bus import EVENT_BUS_SCOPE
 from helpers import aop
@@ -18,4 +18,4 @@ class OnCreateSquadClickPointcut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.header.LobbyHeader', 'LobbyHeader', 'showSquad', aspects=(_OnCreateSquadClickAspect,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\header\create_squad.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:06 Støední Evropa (bìžný èas)

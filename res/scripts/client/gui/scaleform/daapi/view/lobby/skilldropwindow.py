@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/SkillDropWindow.py
 import cPickle as pickle
 from gui.shared.tooltips import ACTION_TOOLTIPS_TYPE, ACTION_TOOLTIPS_STATE
@@ -129,4 +129,4 @@ class SkillDropWindow(SkillDropMeta):
             self.fireEvent(events.SkillDropEvent(events.SkillDropEvent.SKILL_DROPPED_SUCCESSFULLY))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\skilldropwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:56 Støední Evropa (bìžný èas)

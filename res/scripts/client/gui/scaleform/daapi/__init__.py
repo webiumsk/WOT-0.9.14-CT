@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/__init__.py
 from gui.Scaleform.framework.entities.View import View
 
@@ -10,4 +10,4 @@ class LobbySubView(View):
         super(LobbySubView, self).seEnvironment(app)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:35 Støední Evropa (bìžný èas)

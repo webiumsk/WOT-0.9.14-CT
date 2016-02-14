@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:19 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/socket.py
 """This module provides socket operations and some related functions.
 On Unix, it supports IP (Internet Protocol) and Unix domain sockets.
@@ -528,4 +528,4 @@ def create_connection(address, timeout = _GLOBAL_DEFAULT_TIMEOUT, source_address
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\socket.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:20 Støední Evropa (bìžný èas)

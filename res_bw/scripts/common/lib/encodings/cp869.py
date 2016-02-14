@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/cp869.py
 """ Python Character Mapping Codec generated from 'VENDORS/MICSFT/PC/CP869.TXT' with gencodec.py.
 
@@ -417,4 +417,4 @@ encoding_map = {0: 0,
  9632: 254}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\cp869.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:07 Støední Evropa (bìžný èas)

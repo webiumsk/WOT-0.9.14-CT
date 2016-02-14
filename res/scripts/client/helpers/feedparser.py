@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/feedparser.py
 """Universal feed parser
 
@@ -4383,4 +4383,4 @@ def parse(url_file_stream_or_string, etag = None, modified = None, agent = None,
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\feedparser.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:22 Støední Evropa (bìžný èas)

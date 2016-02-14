@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clubs/formatters.py
 import BigWorld
 from helpers.i18n import makeString, doesTextExist
@@ -239,4 +239,4 @@ def _sysMsg(i18nKey, *args, **kwargs):
     return makeString(('#system_messages:%s' % i18nKey), *args, **kwargs)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clubs\formatters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:49 Støední Evropa (bìžný èas)

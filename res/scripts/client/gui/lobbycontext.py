@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/LobbyContext.py
 import BigWorld
 from constants import CURRENT_REALM
@@ -146,4 +146,4 @@ class _LobbyContext(object):
 g_lobbyContext = _LobbyContext()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\lobbycontext.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:26 Støední Evropa (bìžný èas)

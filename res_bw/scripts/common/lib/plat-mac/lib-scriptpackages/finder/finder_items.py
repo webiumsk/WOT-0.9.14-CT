@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/Finder/Finder_items.py
 """Suite Finder items: Commands used with file system items, and basic item definition
 Level 1, version 1
@@ -360,4 +360,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\finder\finder_items.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:16 Støední Evropa (bìžný èas)

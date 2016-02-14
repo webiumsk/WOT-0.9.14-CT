@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/avatar_helpers/__init__.py
 import BigWorld
 from shared_utils.avatar_helpers import VehicleTelemetry
@@ -14,4 +14,4 @@ def getAvatarDatabaseID():
     return dbID
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatar_helpers\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:20 Støední Evropa (bìžný èas)

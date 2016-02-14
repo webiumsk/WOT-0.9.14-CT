@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/NotificationVisibilityController.py
 from gui.clubs.task_scheduler import TaskScheduler, Task
 from notification.BaseMessagesController import BaseMessagesController
@@ -51,4 +51,4 @@ class NotificationVisibilityController(BaseMessagesController):
         self._model.removeNotification(typeID, entityID)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\notificationvisibilitycontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:13 Støední Evropa (bìžný èas)

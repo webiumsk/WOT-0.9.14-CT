@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortContextMenuHandler.py
 from gui.shared import events, EVENT_BUS_SCOPE
 from gui.Scaleform.locale.MENU import MENU
@@ -61,4 +61,4 @@ class FortContextMenuHandler(AbstractContextMenuHandler, EventSystemEntity, Fort
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortcontextmenuhandler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:26 Støední Evropa (bìžný èas)

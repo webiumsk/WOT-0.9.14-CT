@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/Crypto/Util/py21compat.py
 """Compatibility code for Python 2.1
 
@@ -70,4 +70,4 @@ except NameError:
     __all__ += ['staticmethod']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\crypto\util\py21compat.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:11 Støední Evropa (bìžný èas)

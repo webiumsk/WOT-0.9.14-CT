@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/popen2.py
 """Spawn a command with pipes to its stdin, stdout, and optionally stderr.
 
@@ -201,4 +201,4 @@ else:
     __all__.extend(['Popen3', 'Popen4'])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\popen2.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:03 Støední Evropa (bìžný èas)

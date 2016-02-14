@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/Crypto/Protocol/KDF.py
 """This file contains a collection of standard key derivation functions.
 
@@ -185,4 +185,4 @@ class _S2V(object):
         return mac.digest()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\crypto\protocol\kdf.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:10 Støední Evropa (bìžný èas)

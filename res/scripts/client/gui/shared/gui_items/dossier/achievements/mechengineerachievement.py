@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/MechEngineerAchievement.py
 from dossiers2.custom.helpers import getMechanicEngineerRequirements
 from abstract import NationSpecificAchievement
@@ -32,4 +32,4 @@ class MechEngineerAchievement(HasVehiclesList, NationSpecificAchievement):
             return []
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\mechengineerachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)

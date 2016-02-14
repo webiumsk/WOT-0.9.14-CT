@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/multiprocessing/process.py
 __all__ = ['Process', 'current_process', 'active_children']
 import os
@@ -263,4 +263,4 @@ for name, signum in signal.__dict__.items():
         _exitcode_to_name[-signum] = name
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\multiprocessing\process.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:38 Støední Evropa (bìžný èas)

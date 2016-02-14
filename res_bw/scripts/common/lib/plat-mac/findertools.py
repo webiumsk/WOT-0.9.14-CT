@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/findertools.py
 """Utility routines depending on the finder,
 a combination of code by Jack Jansen and erik@letterror.com.
@@ -853,4 +853,4 @@ if __name__ == '__main__':
     _test3()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\findertools.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:58 Støední Evropa (bìžný èas)

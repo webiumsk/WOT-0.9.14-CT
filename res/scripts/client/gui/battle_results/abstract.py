@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_results/abstract.py
 import weakref
 from shared_utils import makeTupleByDict
@@ -32,4 +32,4 @@ class BattleResults(object):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_results\abstract.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:39 Støední Evropa (bìžný èas)

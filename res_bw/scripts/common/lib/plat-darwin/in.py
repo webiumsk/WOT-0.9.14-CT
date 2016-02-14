@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-darwin/IN.py
 IPPROTO_IP = 0
 IPPROTO_HOPOPTS = 0
@@ -416,4 +416,4 @@ IPV6CTL_RIP6STATS = 36
 IPV6CTL_MAXID = 37
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-darwin\in.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:42 Støední Evropa (bìžný èas)

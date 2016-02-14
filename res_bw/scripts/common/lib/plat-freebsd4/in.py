@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-freebsd4/IN.py
 IPPROTO_IP = 0
 IPPROTO_HOPOPTS = 0
@@ -426,4 +426,4 @@ IPV6CTL_RTMAXCACHE = 27
 IPV6CTL_MAXID = 28
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-freebsd4\in.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:42 Støední Evropa (bìžný èas)

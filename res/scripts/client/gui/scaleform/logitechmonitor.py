@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/LogitechMonitor.py
 import BigWorld
 from collections import defaultdict
@@ -480,4 +480,4 @@ class LogitechMonitor(object):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\logitechmonitor.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:31 Støední Evropa (bìžný èas)

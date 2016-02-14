@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/configDialog.py
 """IDLE Configuration Dialog: support user customization of IDLE by GUI
 
@@ -983,4 +983,4 @@ if __name__ == '__main__':
     root.mainloop()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\configdialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:22 Støední Evropa (bìžný èas)

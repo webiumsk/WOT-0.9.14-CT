@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/appletrawmain.py
 from warnings import warnpy3k
 warnpy3k('In 3.x, the appletrawmain module is removed.', stacklevel=2)
@@ -42,4 +42,4 @@ else:
         sys.exit(1)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\appletrawmain.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:54 Støední Evropa (bìžný èas)

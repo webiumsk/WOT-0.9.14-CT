@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/AchievementsUtils.py
 from debug_utils import LOG_DEBUG
 from dossiers2.ui.achievements import ACHIEVEMENT_SECTION, ACHIEVEMENT_TYPE
@@ -107,4 +107,4 @@ class AchievementsUtils(object):
         return counterType
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\achievementsutils.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:36 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/InscriptionInterface.py
 import BigWorld
 from abc import abstractmethod, ABCMeta
@@ -250,4 +250,4 @@ class InscriptionRightInterface(InscriptionInterface):
         return dp
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\inscriptioninterface.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:11 Støední Evropa (bìžný èas)

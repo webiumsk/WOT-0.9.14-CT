@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/entities.py
 from collections import deque
 from ids_generators import SequenceIDGenerator
@@ -550,4 +550,4 @@ class CurrentUserEntity(UserEntity):
         return True
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\entities.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:47 Støední Evropa (bìžný èas)

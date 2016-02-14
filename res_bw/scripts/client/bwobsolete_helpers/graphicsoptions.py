@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/GraphicsOptions.py
 import ResMgr
 import sys
@@ -78,4 +78,4 @@ def enableOptincludeOption(value, enable):
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\graphicsoptions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:43 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/hmac.py
 """HMAC (Keyed-Hashing for Message Authentication) Python module.
 
@@ -114,4 +114,4 @@ def new(key, msg = None, digestmod = None):
     return HMAC(key, msg, digestmod)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\hmac.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:37 Støední Evropa (bìžný èas)

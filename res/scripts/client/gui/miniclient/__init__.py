@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/__init__.py
 import ResMgr
 import shop as _shop
@@ -59,4 +59,4 @@ def _get_config(content_type):
 __all__ = ('configure_state',)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)

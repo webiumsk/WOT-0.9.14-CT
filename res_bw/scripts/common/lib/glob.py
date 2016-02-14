@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/glob.py
 """Filename globbing utility."""
 import sys
@@ -89,4 +89,4 @@ def has_magic(s):
     return magic_check.search(s) is not None
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\glob.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:36 Støední Evropa (bìžný èas)

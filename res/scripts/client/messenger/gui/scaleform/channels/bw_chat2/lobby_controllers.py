@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/channels/bw_chat2/lobby_controllers.py
 from gui.prb_control.prb_helpers import PrbListener
 from gui.prb_control.settings import PREBATTLE_ROSTER
@@ -148,4 +148,4 @@ class ClubChannelController(LobbyChannelController):
         self._refreshMembersDP()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\channels\bw_chat2\lobby_controllers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:38 Støední Evropa (bìžný èas)

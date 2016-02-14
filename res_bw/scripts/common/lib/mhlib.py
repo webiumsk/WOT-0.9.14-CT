@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/mhlib.py
 """MH interface -- purely object-oriented (well, almost)
 
@@ -1035,4 +1035,4 @@ if __name__ == '__main__':
     test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\mhlib.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:49 Støední Evropa (bìžný èas)

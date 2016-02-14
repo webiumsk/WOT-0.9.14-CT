@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/managers/ColorSchemeManager.py
 import BigWorld
 import Math
@@ -88,4 +88,4 @@ class BattleColorSchemeManager(ColorSchemeManager):
             BigWorld.wg_setFlagEmblem(teamIdx, 'system/maps/wg_emblem.dds', Math.Vector4(0.0, 0.1, 0.5, 0.9))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\managers\colorschememanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:09 Støední Evropa (bìžný èas)

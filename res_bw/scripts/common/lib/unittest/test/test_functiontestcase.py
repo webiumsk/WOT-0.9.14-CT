@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/unittest/test/test_functiontestcase.py
 import unittest
 from .support import LoggingResult
@@ -118,4 +118,4 @@ if __name__ == '__main__':
     unittest.main()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\unittest\test\test_functiontestcase.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:36 Støední Evropa (bìžný èas)

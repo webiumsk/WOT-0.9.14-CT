@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/app_loader/states.py
 import BigWorld
 from debug_utils import LOG_WARNING, LOG_ERROR
@@ -394,4 +394,4 @@ class ReplayBattleState(BattleState):
         return newState
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\app_loader\states.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:27 Støední Evropa (bìžný èas)

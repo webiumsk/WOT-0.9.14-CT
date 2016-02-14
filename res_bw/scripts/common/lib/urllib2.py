@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/urllib2.py
 """An extensible library for opening URLs using a variety of protocols
 
@@ -1267,4 +1267,4 @@ class CacheFTPHandler(FTPHandler):
         self.timeout.clear()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\urllib2.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:37 Støední Evropa (bìžný èas)

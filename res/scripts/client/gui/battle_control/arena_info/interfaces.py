@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/arena_info/interfaces.py
 from gui.battle_control.arena_info.settings import ARENA_LISTENER_SCOPE as _SCOPE
 
@@ -129,4 +129,4 @@ class IArenaRespawnController(IArenaController):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\arena_info\interfaces.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:36 Støední Evropa (bìžný èas)

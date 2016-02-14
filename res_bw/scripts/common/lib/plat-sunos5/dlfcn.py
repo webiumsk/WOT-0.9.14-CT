@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-sunos5/DLFCN.py
 from TYPES import *
 RTLD_LAZY = 1
@@ -28,4 +28,4 @@ RTLD_DI_CONFIGADDR = 3
 RTLD_DI_MAX = 3
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-sunos5\dlfcn.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:26 Støední Evropa (bìžný èas)

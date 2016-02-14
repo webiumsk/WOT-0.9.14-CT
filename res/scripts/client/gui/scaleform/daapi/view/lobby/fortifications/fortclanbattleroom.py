@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortClanBattleRoom.py
 import ArenaType
 from debug_utils import LOG_DEBUG, LOG_ERROR
@@ -349,4 +349,4 @@ class FortClanBattleRoom(FortClanBattleRoomMeta, UnitListener, FortViewHelper):
         g_fortSoundController.playBattleRoomTimerAlert()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortclanbattleroom.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:25 Støední Evropa (bìžný èas)

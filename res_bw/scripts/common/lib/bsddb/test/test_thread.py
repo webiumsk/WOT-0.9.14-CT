@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:01 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/bsddb/test/test_thread.py
 """TestCases for multi-threaded access to a DB.
 """
@@ -459,4 +459,4 @@ if __name__ == '__main__':
     unittest.main(defaultTest='test_suite')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\bsddb\test\test_thread.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:02 Støední Evropa (bìžný èas)

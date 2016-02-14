@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/LobbyEntry.py
 import BigWorld
 from gui.Scaleform import SCALEFORM_SWF_PATH_V3
@@ -117,4 +117,4 @@ class LobbyEntry(SFApplication):
             return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\lobbyentry.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:30 Støední Evropa (bìžný èas)

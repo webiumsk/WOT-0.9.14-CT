@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/clan_cm_handlers.py
 from gui.clans import formatters as clans_fmts
 from gui.Scaleform.framework.entities.EventSystemEntity import EventSystemEntity
@@ -31,4 +31,4 @@ class BaseClanCMHandler(AbstractContextMenuHandler, EventSystemEntity):
         return [self._makeItem(CLAN_CM_OPTIONS.CLAN_PROFILE, MENU.contextmenu('viewClanProfile')), self._makeItem(CLAN_CM_OPTIONS.COPY_TO_CB, MENU.contextmenu('copyClanName'))]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\clan_cm_handlers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:59 Støední Evropa (bìžný èas)

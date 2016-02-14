@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/Listener.py
 import copy
 import weakref
@@ -129,4 +129,4 @@ class FunctionListeners(object):
             l(*args, **kwargs)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\listener.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:41 Støední Evropa (bìžný èas)

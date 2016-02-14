@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/CustomizationInterface.py
 import Event
 from gui.Scaleform.framework.entities.BaseDAAPIModule import BaseDAAPIModule
@@ -64,4 +64,4 @@ class CustomizationInterface(BaseDAAPIModule):
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\customizationinterface.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:09 Støední Evropa (bìžný èas)

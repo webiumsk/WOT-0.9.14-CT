@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/managers/PopoverManager.py
 from gui.Scaleform.framework import g_entitiesFactories
 from gui.Scaleform.framework.entities.abstract.PopoverManagerMeta import PopoverManagerMeta
@@ -25,4 +25,4 @@ class PopoverManager(PopoverManagerMeta):
         self.as_onPopoverDestroyS()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\managers\popovermanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:10 Støední Evropa (bìžný èas)

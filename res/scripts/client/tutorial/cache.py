@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/cache.py
 from helpers.local_cache import FileLocalCache
 from tutorial.settings import TUTORIAL_VERSION, PLAYER_XP_LEVEL
@@ -132,4 +132,4 @@ class TutorialCache(FileLocalCache):
         return self.__cache[self.__space]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\cache.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:14 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/fortified_regions/pointcuts.py
 import aspects
 from helpers import aop
@@ -27,4 +27,4 @@ class OnFortRequirementsUpdate(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.Scaleform.daapi.view.lobby.fortifications.components.FortWelcomeViewComponent', 'FortWelcomeViewComponent', '_FortWelcomeViewComponent__updateViewState|onClientStateChangedonClanMembersListChanged|onNavigate', aspects=(aop.DummyAspect,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\fortified_regions\pointcuts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)

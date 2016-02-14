@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/caches.py
 from collections import namedtuple
 from debug_utils import LOG_ERROR
@@ -203,4 +203,4 @@ def sortVehTable(tableID, btnID, direction, nation = None, vehType = None, level
         return (result, props.disableChecker)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\caches.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:14 Støední Evropa (bìžný èas)

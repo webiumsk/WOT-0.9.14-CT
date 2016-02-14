@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/processors/vehicle.py
 import BigWorld
 import AccountCommands
@@ -449,4 +449,4 @@ def tryToLoadDefaultShellsLayout(vehicle, callback = None):
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\processors\vehicle.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:50 Støední Evropa (bìžný èas)

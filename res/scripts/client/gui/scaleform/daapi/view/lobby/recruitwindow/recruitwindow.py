@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/recruitWindow/RecruitWindow.py
 from gui.ClientUpdateManager import g_clientUpdateManager
 from gui.shared.tooltips import ACTION_TOOLTIPS_TYPE, ACTION_TOOLTIPS_STATE
@@ -238,4 +238,4 @@ class RecruitWindow(RecruitWindowMeta):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\recruitwindow\recruitwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:56 Støední Evropa (bìžný èas)

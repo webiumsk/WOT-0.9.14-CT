@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/compiler/pycodegen.py
 import imp
 import os
@@ -1513,4 +1513,4 @@ if __name__ == '__main__':
         compileFile(file)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\compiler\pycodegen.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:06 Støední Evropa (bìžný èas)

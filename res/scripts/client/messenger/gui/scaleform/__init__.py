@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/__init__.py
 MESSENGER_BATTLE_SWF_FILE = 'battle_messenger.swf'
 import enumerations
@@ -37,4 +37,4 @@ class FILL_COLORS(object):
     RED = 'red'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:36 Støední Evropa (bìžný èas)

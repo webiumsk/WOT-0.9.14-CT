@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/contacts/tasks.py
 from collections import defaultdict
 import Event
@@ -399,4 +399,4 @@ class ContactTaskQueue(object):
         return isHandled
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\contacts\tasks.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:03 Støední Evropa (bìžný èas)

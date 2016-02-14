@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/doc_loaders/_xml_helpers.py
 import types
 from helpers.html import translation as html_translation
@@ -106,4 +106,4 @@ def readI18nStringItem(xmlCtx, section, settings = None):
     return (name, value)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\doc_loaders\_xml_helpers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:29 Støední Evropa (bìžný èas)

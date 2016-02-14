@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/channels/bw_chat2/battle_controllers.py
 from gui.battle_control import g_sessionProvider
 from gui.shared import g_eventBus, EVENT_BUS_SCOPE
@@ -128,4 +128,4 @@ class SquadChannelController(_ChannelController):
         self.proto.unitChat.broadcast(message, 1)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\channels\bw_chat2\battle_controllers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:37 Støední Evropa (bìžný èas)

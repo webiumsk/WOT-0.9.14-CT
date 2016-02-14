@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/recruitWindow/QuestsRecruitWindow.py
 import nations
 from items import tankmen
@@ -65,4 +65,4 @@ class QuestsRecruitWindow(QuestRecruitWindowMeta):
         self.__currentSelectedNationID = selectedNationID
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\recruitwindow\questsrecruitwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:56 Støední Evropa (bìžný èas)

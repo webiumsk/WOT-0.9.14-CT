@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/multiprocessing/managers.py
 __all__ = ['BaseManager',
  'SyncManager',
@@ -1051,4 +1051,4 @@ SyncManager.register('Iterator', proxytype=IteratorProxy, create_method=False)
 SyncManager.register('AsyncResult', create_method=False)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\multiprocessing\managers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:37 Støední Evropa (bìžný èas)

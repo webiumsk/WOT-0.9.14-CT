@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/Account.py
 import cPickle
 import zlib
@@ -1141,4 +1141,4 @@ g_accountRepository = None
 connectionManager.onDisconnected += _delAccountRepository
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:28 Støední Evropa (bìžný èas)

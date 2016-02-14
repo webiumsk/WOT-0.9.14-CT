@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clans/factory.py
 import BigWorld
 from constants import TOKEN_TYPE
@@ -68,4 +68,4 @@ class FakeClanFactory(_ClanFactory):
 g_clanFactory = WebClanFactory()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clans\factory.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:44 Støední Evropa (bìžný èas)

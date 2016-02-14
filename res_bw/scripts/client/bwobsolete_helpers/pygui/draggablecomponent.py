@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/PyGUI/DraggableComponent.py
 import BigWorld, GUI, Math, Keys
 import Utils
@@ -184,4 +184,4 @@ class ComponentDragManager:
 dragManager = ComponentDragManager()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\pygui\draggablecomponent.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:46 Støední Evropa (bìžný èas)

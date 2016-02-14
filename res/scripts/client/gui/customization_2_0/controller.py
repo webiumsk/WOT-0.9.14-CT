@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/customization_2_0/controller.py
 from carousel import Carousel
 from data_aggregator import DataAggregator
@@ -60,4 +60,4 @@ class Controller(object):
 g_customizationController = Controller()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\customization_2_0\controller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:52 Støední Evropa (bìžný èas)

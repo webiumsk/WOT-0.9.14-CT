@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/entities/DisposableEntity.py
 from Event import Event
 from debug_utils import LOG_DEBUG
@@ -38,4 +38,4 @@ class DisposableEntity(object):
         return self.__disposed
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\entities\disposableentity.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:35 Støední Evropa (bìžný èas)

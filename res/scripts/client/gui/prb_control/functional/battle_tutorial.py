@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:16 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/functional/battle_tutorial.py
 import BigWorld
 from PlayerEvents import g_playerEvents
@@ -73,4 +73,4 @@ class TutorialQueueFunctional(prequeue.AccountQueueFunctional):
         return False
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\functional\battle_tutorial.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:16 Støední Evropa (bìžný èas)

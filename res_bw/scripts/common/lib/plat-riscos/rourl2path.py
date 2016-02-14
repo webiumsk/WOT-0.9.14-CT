@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-riscos/rourl2path.py
 """riscos specific module for conversion between pathnames and URLs.
 Based on macurl2path.
@@ -69,4 +69,4 @@ if __name__ == '__main__':
     test()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-riscos\rourl2path.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:26 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/CAPTCHA.py
 
 
@@ -15,4 +15,4 @@ class CAPTCHA(object):
     ERROR_CODES_CHALLENGE_IS_EMPTY = '#captcha:error-codes/challenge-is-empty'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\captcha.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)

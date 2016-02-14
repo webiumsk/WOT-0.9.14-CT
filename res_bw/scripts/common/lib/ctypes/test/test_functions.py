@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/ctypes/test/test_functions.py
 """
 Here is probably the place to write the docs, since the test-cases
@@ -453,4 +453,4 @@ if __name__ == '__main__':
     unittest.main()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\ctypes\test\test_functions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:18 Støední Evropa (bìžný èas)

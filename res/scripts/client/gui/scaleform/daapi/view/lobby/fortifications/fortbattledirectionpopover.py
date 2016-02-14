@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:21 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortBattleDirectionPopover.py
 import operator
 import sys
@@ -166,4 +166,4 @@ class FortBattleDirectionPopover(FortBattleDirectionPopoverMeta, FortViewHelper)
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortbattledirectionpopover.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:22 Støední Evropa (bìžný èas)

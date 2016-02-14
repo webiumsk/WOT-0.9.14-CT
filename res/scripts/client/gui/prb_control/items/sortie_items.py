@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/items/sortie_items.py
 from UnitBase import SORTIE_DIVISION_NAMES, SORTIE_DIVISION, SORTIE_DIVISION_NAME_TO_FLAGS
 from debug_utils import LOG_ERROR
@@ -48,4 +48,4 @@ def getDivisionNameByUnit(unit):
         return getDivisionNameByType(unit.getRosterTypeID())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\items\sortie_items.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:24 Støední Evropa (bìžný èas)

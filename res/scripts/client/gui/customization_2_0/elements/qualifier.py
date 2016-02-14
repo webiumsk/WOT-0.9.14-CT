@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/customization_2_0/elements/qualifier.py
 from gui.shared.gui_items.Vehicle import VEHICLE_CLASS_NAME
 from helpers.i18n import makeString as _ms
@@ -131,4 +131,4 @@ class Qualifier(QualifierBase):
         return _ms('#customization:bonusName/extended/{0}'.format(self.__rawData.crewRole))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\customization_2_0\elements\qualifier.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:54 Støední Evropa (bìžný èas)

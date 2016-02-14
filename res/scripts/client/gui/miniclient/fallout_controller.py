@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/fallout_controller.py
 from helpers import aop
 
@@ -15,4 +15,4 @@ class InitFalloutPointcut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.game_control.fallout_controller', 'FalloutController', 'isAvailable', aspects=(_ParametrizeInitAspect,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\fallout_controller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:04 Støední Evropa (bìžný èas)

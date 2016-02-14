@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/VOIP/VOIPFsm.py
 import Event
 from VOIPLog import LOG_VOIP_INT
@@ -70,4 +70,4 @@ class VOIPFsm:
             LOG_VOIP_INT('%s not changed' % _STATE_NAMES[self.__state])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\voip\voipfsm.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:38 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/managers/windows_stored_data.py
 from collections import namedtuple, defaultdict
 import functools
@@ -390,4 +390,4 @@ class _WindowsStoredDataManager(object):
 g_windowsStoredData = _WindowsStoredDataManager((UniqueWindowStoredData, CarouselWindowStoredData, ChannelWindowStoredData))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\managers\windows_stored_data.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:12 Støední Evropa (bìžný èas)

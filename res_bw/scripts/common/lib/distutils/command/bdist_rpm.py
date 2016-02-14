@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/command/bdist_rpm.py
 """distutils.command.bdist_rpm
 
@@ -361,4 +361,4 @@ class bdist_rpm(Command):
         return new_changelog
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\command\bdist_rpm.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:36 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/invitations/pointcuts.py
 from helpers import aop
 import aspects
@@ -15,4 +15,4 @@ class InvitationText(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.prb_control.formatters.invites', 'PrbInviteHtmlTextFormatter', 'getNote', aspects=(aspects.InvitationNote,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\invitations\pointcuts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:42 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)

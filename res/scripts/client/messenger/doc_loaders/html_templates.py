@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/doc_loaders/html_templates.py
 import types
 from debug_utils import LOG_WARNING
@@ -131,4 +131,4 @@ def loadForOthers(_, section, settings):
     settings.htmlTemplates.load(section=section)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\doc_loaders\html_templates.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:29 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarInputHandler/control_modes.py
 import math
 import weakref
@@ -2089,4 +2089,4 @@ def _calcScale(worldMat, size):
     return math.fabs(pV3[0] - oV3[0]) + math.fabs(pV3[1] - oV3[1])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarinputhandler\control_modes.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:13 Støední Evropa (bìžný èas)

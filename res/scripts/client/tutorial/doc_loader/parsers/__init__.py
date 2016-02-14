@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/doc_loader/parsers/__init__.py
 import ResMgr
 from helpers.html import translation
@@ -254,4 +254,4 @@ class HintsParser(object):
         return hints
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\doc_loader\parsers\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:02 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:28 Støední Evropa (bìžný èas)

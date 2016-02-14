@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/AwardController.py
 import types
 import weakref
@@ -661,4 +661,4 @@ class TelecomHandler(ServiceChannelHandler):
             LOG_ERROR("Can't show telecom award window!")
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\awardcontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:57 Støední Evropa (bìžný èas)

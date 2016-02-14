@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/channels/__init__.py
 from debug_utils import LOG_ERROR, LOG_WARNING, LOG_DEBUG
 from messenger import g_settings
@@ -146,4 +146,4 @@ class BattleControllers(ControllersCollection):
         controller.activate()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\channels\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:36 Støední Evropa (bìžný èas)

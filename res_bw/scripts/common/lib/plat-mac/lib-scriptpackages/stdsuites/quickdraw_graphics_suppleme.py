@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/StdSuites/QuickDraw_Graphics_Suppleme.py
 """Suite QuickDraw Graphics Supplemental Suite: Defines transformations of graphic objects
 Level 1, version 1
@@ -62,4 +62,4 @@ _compdeclarations = {}
 _enumdeclarations = {}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\stdsuites\quickdraw_graphics_suppleme.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:20 Støední Evropa (bìžný èas)

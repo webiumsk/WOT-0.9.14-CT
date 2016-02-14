@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:20 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/battle/triggers.py
 import BigWorld
 import TriggersManager
@@ -370,4 +370,4 @@ class TriggersDispatcher(Trigger, TriggersManager.ITriggerListener):
             self.isRunning = True
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\battle\triggers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:20 Støední Evropa (bìžný èas)

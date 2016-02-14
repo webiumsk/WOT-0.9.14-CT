@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:23 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/SystemEvents/__init__.py
 """
 Package generated from /System/Library/CoreServices/System Events.app
@@ -116,4 +116,4 @@ class SystemEvents(Standard_Suite_Events, Text_Suite_Events, Disk_Folder_File_Su
     _propdict = application._propdict
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\systemevents\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:23 Støední Evropa (bìžný èas)

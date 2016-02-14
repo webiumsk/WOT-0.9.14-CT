@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:36 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/components/FortWelcomeViewComponent.py
 from gui.Scaleform.daapi.settings.views import VIEW_ALIAS
 from gui.Scaleform.daapi.view.meta.FortWelcomeViewMeta import FortWelcomeViewMeta
@@ -18,4 +18,4 @@ class FortWelcomeViewComponent(FortWelcomeViewMeta, FortViewHelper):
         g_eventBus.handleEvent(events.FortEvent(events.FortEvent.VIEW_LOADED), scope=EVENT_BUS_SCOPE.FORT)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\components\fortwelcomeviewcomponent.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:36 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Events/SwarmTargets.py
 from FX import s_sectionProcessors
 from ParticleSubSystem import ParticleSubSystem
@@ -84,4 +84,4 @@ class SwarmTargets(ParticleSubSystem):
 s_sectionProcessors['SwarmTargets'] = SwarmTargets
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\events\swarmtargets.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:58 Støední Evropa (bìžný èas)

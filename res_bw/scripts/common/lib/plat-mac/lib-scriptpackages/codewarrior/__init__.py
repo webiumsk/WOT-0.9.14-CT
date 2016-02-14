@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/lib-scriptpackages/CodeWarrior/__init__.py
 """
 Package generated from /Volumes/Sap/Applications (Mac OS 9)/Metrowerks CodeWarrior 7.0/Metrowerks CodeWarrior/CodeWarrior IDE 4.2.5
@@ -170,4 +170,4 @@ class CodeWarrior(CodeWarrior_suite_Events, Standard_Suite_Events, Metrowerks_Sh
     _moduleName = 'CodeWarrior'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\lib-scriptpackages\codewarrior\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:15 Støední Evropa (bìžný èas)

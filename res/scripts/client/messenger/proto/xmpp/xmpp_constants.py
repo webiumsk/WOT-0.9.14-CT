@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/xmpp_constants.py
 from debug_utils import LOG_WARNING
 
@@ -128,4 +128,4 @@ class MUC_CREATION_ERROR(object):
 MUC_CREATION_ERROR_NAMES = {v:k for k, v in MUC_CREATION_ERROR.__dict__.iteritems() if not k.startswith('_')}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\xmpp_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:59 Støední Evropa (bìžný èas)

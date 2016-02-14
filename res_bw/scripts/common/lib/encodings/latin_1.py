@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/latin_1.py
 """ Python 'latin-1' Codec
 
@@ -44,4 +44,4 @@ def getregentry():
     return codecs.CodecInfo(name='iso8859-1', encode=Codec.encode, decode=Codec.decode, incrementalencoder=IncrementalEncoder, incrementaldecoder=IncrementalDecoder, streamreader=StreamReader, streamwriter=StreamWriter)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\latin_1.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:11 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/QuestsPersonalWelcomeView.py
 import weakref
 from gui.LobbyContext import g_lobbyContext
@@ -63,4 +63,4 @@ class QuestsPersonalWelcomeView(QuestsPersonalWelcomeViewMeta):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\questspersonalwelcomeview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:59 Støední Evropa (bìžný èas)

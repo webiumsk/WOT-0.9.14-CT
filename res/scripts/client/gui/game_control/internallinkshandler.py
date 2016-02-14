@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/InternalLinksHandler.py
 import BigWorld
 from adisp import async, process
@@ -74,4 +74,4 @@ class InternalLinksHandler(Controller):
         self.__openInternalBrowse(event.eventType, event.title, browserSize=gc_constants.BROWSER.VIDEO_SIZE, showActionBtn=False, showCloseBtn=True)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\internallinkshandler.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)

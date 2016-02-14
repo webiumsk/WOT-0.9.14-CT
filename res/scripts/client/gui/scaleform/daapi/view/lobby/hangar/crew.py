@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/hangar/Crew.py
 from CurrentVehicle import g_currentVehicle
 from gui import SystemMessages
@@ -157,4 +157,4 @@ class Crew(CrewMeta):
         shared_events.showPersonalCase(int(value), int(tabNumber), EVENT_BUS_SCOPE.LOBBY)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\hangar\crew.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:38 Støední Evropa (bìžný èas)

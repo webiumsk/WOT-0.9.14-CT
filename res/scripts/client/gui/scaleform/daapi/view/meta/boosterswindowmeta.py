@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/meta/BoostersWindowMeta.py
 from gui.Scaleform.framework.entities.abstract.AbstractWindowView import AbstractWindowView
 
@@ -26,4 +26,4 @@ class BoostersWindowMeta(AbstractWindowView):
             return self.flashObject.as_setListData(boosters, scrollToTop)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\meta\boosterswindowmeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:12 Støední Evropa (bìžný èas)

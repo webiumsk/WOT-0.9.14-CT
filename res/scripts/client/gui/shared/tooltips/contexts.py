@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:53 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/tooltips/contexts.py
 import constants
 import gui
@@ -491,4 +491,4 @@ class BoosterContext(ToolTipContext):
         super(BoosterContext, self).__init__(TOOLTIP_COMPONENT.BOOSTER, fieldsToExclude)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\tooltips\contexts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:28 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:53 Støední Evropa (bìžný èas)

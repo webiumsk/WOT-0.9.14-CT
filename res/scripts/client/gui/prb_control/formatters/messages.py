@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/formatters/messages.py
 from CurrentVehicle import g_currentVehicle
 from constants import JOIN_FAILURE_NAMES, KICK_REASON_NAMES, PREBATTLE_TYPE, QUEUE_TYPE
@@ -217,4 +217,4 @@ def getLeaveDisabledMessage(ctrlType, entityType):
     return '#system_messages:{0}'.format(makeEntityI18nKey(ctrlType, entityType, 'leaveDisabled'))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\formatters\messages.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:15 Støední Evropa (bìžný èas)

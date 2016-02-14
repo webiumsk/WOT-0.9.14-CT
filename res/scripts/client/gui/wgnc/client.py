@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/wgnc/client.py
 from gui.wgnc.settings import WGNC_GUI_TYPE
 
@@ -34,4 +34,4 @@ class ClientLogic(object):
             logic.process(actor, notID, actions, items)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\wgnc\client.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/formatters/collections_by_type.py
 from chat_shared import SYS_MESSAGE_TYPE as _SM_TYPE
 from messenger.formatters import service_channel as _sc
@@ -49,4 +49,4 @@ CLIENT_FORMATTERS = {SCH_CLIENT_MSG_TYPE.SYS_MSG_TYPE: _sc.ClientSysMessageForma
  SCH_CLIENT_MSG_TYPE.BATTLE_TUTORIAL_RESULTS_TYPE: _sc.BattleTutorialResultsFormatter()}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\formatters\collections_by_type.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:31 Støední Evropa (bìžný èas)

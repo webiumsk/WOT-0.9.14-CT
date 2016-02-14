@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:44 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clans/formatters.py
 import BigWorld
 from client_request_lib.exceptions import ResponseCodes
@@ -223,4 +223,4 @@ class ClanAppActionHtmlTextFormatter(object):
         return ''.join(result)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clans\formatters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:44 Støední Evropa (bìžný èas)

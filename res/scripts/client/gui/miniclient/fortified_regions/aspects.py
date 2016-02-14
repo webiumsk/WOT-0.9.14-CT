@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/fortified_regions/aspects.py
 from gui.shared.formatters import text_styles
 from helpers import aop
@@ -18,4 +18,4 @@ class OnFortifiedRegionsOpen(aop.Aspect):
         cd.self.as_loadViewS(FORTIFICATION_ALIASES.WELCOME_VIEW_LINKAGE, '')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\fortified_regions\aspects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:05 Støední Evropa (bìžný èas)

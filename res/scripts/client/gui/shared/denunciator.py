@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/denunciator.py
 import BigWorld
 import constants
@@ -86,4 +86,4 @@ class BattleDenunciator(Denunciator):
         MessengerEntry.g_instance.gui.addClientMessage(g_settings.htmlTemplates.format('battleErrorMessage', ctx={'error': message}))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\denunciator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:22 Støední Evropa (bìžný èas)

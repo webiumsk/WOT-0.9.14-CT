@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:07 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/lobby/header/battle_type_selector/__init__.py
 import pointcuts as _pointcuts
 
@@ -12,4 +12,4 @@ def configure_pointcuts():
     _pointcuts.OnBattleTypeSelectorPopulate()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\lobby\header\battle_type_selector\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:07 Støední Evropa (bìžný èas)

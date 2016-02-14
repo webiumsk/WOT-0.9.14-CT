@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:07 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_funcattrs.py
 """Fix function attribute names (f.func_x -> f.__x__)."""
 from .. import fixer_base
@@ -13,4 +13,4 @@ class FixFuncattrs(fixer_base.BaseFix):
         attr.replace(Name(u'__%s__' % attr.value[5:], prefix=attr.prefix))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_funcattrs.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:07 Støední Evropa (bìžný èas)

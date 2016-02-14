@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/FortBattleRoomWindow.py
 import BigWorld
 from UnitBase import UNIT_BROWSER_ERROR
@@ -327,4 +327,4 @@ class FortBattleRoomWindow(FortBattleRoomWindowMeta, FortListener):
             self._requestViewLoad(FORTIFICATION_ALIASES.FORT_BATTLE_ROOM_VIEW_UI, self.unitFunctional.getID())
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fortbattleroomwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:23 Støední Evropa (bìžný èas)

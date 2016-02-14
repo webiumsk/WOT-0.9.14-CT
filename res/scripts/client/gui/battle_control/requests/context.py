@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/requests/context.py
 from constants import REQUEST_COOLDOWN
 from external_strings_utils import truncate_utf8
@@ -35,4 +35,4 @@ class SendInvitesCtx(RequestCtx):
         return REQUEST_COOLDOWN.SEND_INVITATION_COOLDOWN
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\requests\context.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:39 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/SearchDialog.py
 from Tkinter import *
 from idlelib import SearchEngine
@@ -73,4 +73,4 @@ class SearchDialog(SearchDialogBase):
         return self.find_again(text)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\searchdialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:35 Støední Evropa (bìžný èas)

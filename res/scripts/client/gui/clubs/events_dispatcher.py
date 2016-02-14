@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clubs/events_dispatcher.py
 from gui.shared import g_eventBus, events, EVENT_BUS_SCOPE
 from gui.shared.utils.functions import getViewName
@@ -24,4 +24,4 @@ def showClubInvitesWindow(clubDbID):
      'ctrlType': CTRL_ENTITY_TYPE.UNIT}), scope=EVENT_BUS_SCOPE.LOBBY)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clubs\events_dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:48 Støední Evropa (bìžný èas)

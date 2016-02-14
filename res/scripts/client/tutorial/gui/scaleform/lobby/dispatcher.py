@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/lobby/dispatcher.py
 from gui.Scaleform.Waiting import Waiting
 from gui.shared import g_eventBus, EVENT_BUS_SCOPE
@@ -65,4 +65,4 @@ class SfLobbyDispatcher(GUIDispatcher):
         Waiting.hide('tutorial-chapter-loading')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\lobby\dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:32 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-unixware7/STROPTS.py
 
 
@@ -319,4 +319,4 @@ I_GETTP = STR | 38
 INFTIM = -1
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-unixware7\stropts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:28 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/abstract/RareAchievement.py
 import uuid
 import imghdr
@@ -82,4 +82,4 @@ class RareAchievement(RegularAchievement):
         return '%s<rareID=%s; value=%s>' % (self.__class__.__name__, str(self._rareID), str(self._value))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\abstract\rareachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:44 Støední Evropa (bìžný èas)

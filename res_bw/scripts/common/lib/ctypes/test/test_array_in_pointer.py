@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/ctypes/test/test_array_in_pointer.py
 import unittest
 from ctypes import *
@@ -52,4 +52,4 @@ if __name__ == '__main__':
     unittest.main()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\ctypes\test\test_array_in_pointer.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:14 Støední Evropa (bìžný èas)

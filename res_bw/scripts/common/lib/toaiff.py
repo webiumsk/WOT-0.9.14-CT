@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/toaiff.py
 """Convert "arbitrary" sound files to AIFF (Apple and SGI's audio format).
 
@@ -99,4 +99,4 @@ def _toaiff(filename, temps):
         return temp
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\toaiff.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:32 Støední Evropa (bìžný èas)

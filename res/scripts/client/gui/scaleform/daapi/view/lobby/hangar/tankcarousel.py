@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/hangar/TankCarousel.py
 from operator import attrgetter
 import BigWorld
@@ -401,4 +401,4 @@ class TankCarousel(TankCarouselMeta, GlobalListener):
         return value
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\hangar\tankcarousel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:40 Støední Evropa (bìžný èas)

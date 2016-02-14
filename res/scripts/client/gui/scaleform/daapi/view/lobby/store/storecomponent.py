@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/store/StoreComponent.py
 from CurrentVehicle import g_currentVehicle
 from account_helpers.AccountSettings import AccountSettings
@@ -173,4 +173,4 @@ class StoreComponent(LobbySubView, StoreComponentMeta):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\store\storecomponent.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:02 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/Keys.py
 """
 This module contains definitions of all keycodes known to the client.
@@ -253,4 +253,4 @@ AXIS_RX = 2
 AXIS_RY = 3
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\keys.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:41 Støední Evropa (bìžný èas)

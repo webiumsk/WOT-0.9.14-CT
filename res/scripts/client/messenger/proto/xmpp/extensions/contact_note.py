@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/xmpp/extensions/contact_note.py
 import types
 from helpers import html
@@ -169,4 +169,4 @@ class RemoveNotesQuery(PyQuery):
         super(RemoveNotesQuery, self).__init__(IQ_TYPE.SET, NoteQuery(items=converted))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\xmpp\extensions\contact_note.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:04 Støední Evropa (bìžný èas)

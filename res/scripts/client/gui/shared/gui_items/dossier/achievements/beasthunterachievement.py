@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/BeasthunterAchievement.py
 from dossiers2.ui.achievements import ACHIEVEMENT_BLOCK as _AB
 from abstract import SimpleProgressAchievement
@@ -15,4 +15,4 @@ class BeasthunterAchievement(SimpleProgressAchievement):
         return dossier.getRecordValue(_AB.TOTAL, 'fragsBeast')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\beasthunterachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:37 Støední Evropa (bìžný èas)

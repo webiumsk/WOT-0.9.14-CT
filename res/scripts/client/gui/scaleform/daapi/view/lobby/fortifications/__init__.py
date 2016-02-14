@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/__init__.py
 from adisp import process
 from gui.LobbyContext import g_lobbyContext
@@ -697,4 +697,4 @@ class _FortsDialogsHandler(PackageBusinessHandler):
         self.loadViewWithGenName(FORTIFICATION_ALIASES.FORT_ORDER_CONFIRMATION_WINDOW_ALIAS, event.meta, event.handler)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:32 Støední Evropa (bìžný èas)

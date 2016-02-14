@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/data/hints.py
 from collections import namedtuple
 HintProps = namedtuple('HintProps', ('uniqueID', 'hintID', 'itemID', 'text', 'hasBox', 'arrow', 'padding'))
@@ -36,4 +36,4 @@ class HintsData(object):
         return len(self.__hints)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\data\hints.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:27 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/battle_team_bases_ctrl.py
 from collections import defaultdict
 import weakref
@@ -230,4 +230,4 @@ def createTeamsBasesCtrl(isReplayPlaying):
     return ctrl
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\battle_team_bases_ctrl.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:31 Støední Evropa (bìžný èas)

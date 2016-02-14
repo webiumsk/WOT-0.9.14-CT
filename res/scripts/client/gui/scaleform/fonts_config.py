@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/fonts_config.py
 from debug_utils import LOG_NOTE
 from gui.Scaleform import SCALEFORM_FONT_CONFIG_PATH, SCALEFORM_FONT_LIB_PATH, SCALEFORM_DEFAULT_CONFIG_NAME
@@ -106,4 +106,4 @@ class FontConfigMap(object):
 g_fontConfigMap = FontConfigMap()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\fonts_config.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:30 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/view/__init__.py
 from gui.Scaleform.framework import GroupedViewSettings, ViewTypes, ViewSettings
 from gui.Scaleform.framework import ScopeTemplates
@@ -79,4 +79,4 @@ class _MessengerPackageBusinessHandler(PackageBusinessHandler):
         self.loadViewWithDefName(alias, getViewName(MESSENGER_VIEW_ALIAS.LOBBY_CHANNEL_WINDOW, event.ctx['clientID']), event.ctx)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\view\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:46 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_tests/Fonts.py
 import BigWorld
 import ResMgr
@@ -108,4 +108,4 @@ def testResize():
     BigWorld.callback(1, testResize2)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_tests\fonts.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:52 Støední Evropa (bìžný èas)

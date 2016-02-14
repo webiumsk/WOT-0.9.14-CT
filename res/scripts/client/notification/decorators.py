@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/decorators.py
 import BigWorld
 from debug_utils import LOG_ERROR, LOG_DEBUG
@@ -720,4 +720,4 @@ class ClanInvitesActionDecorator(_ClassBaseActionDecorator):
         return entity
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\decorators.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:11 Støední Evropa (bìžný èas)

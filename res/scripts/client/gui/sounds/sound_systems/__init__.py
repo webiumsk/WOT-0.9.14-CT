@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/sounds/sound_systems/__init__.py
 import WWISE
 from gui.sounds.sound_systems import wwise_system, no_system
@@ -10,4 +10,4 @@ def getCurrentSoundSystem():
     return no_system.NoSoundSystem()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\sounds\sound_systems\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)

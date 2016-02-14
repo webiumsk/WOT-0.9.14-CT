@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:02 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/cp424.py
 """ Python Character Mapping Codec cp424 generated from 'MAPPINGS/VENDORS/MISC/CP424.TXT' with gencodec.py.
 
@@ -42,4 +42,4 @@ decoding_table = u'\x00\x01\x02\x03\x9c\t\x86\x7f\x97\x8d\x8e\x0b\x0c\r\x0e\x0f\
 encoding_table = codecs.charmap_build(decoding_table)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\cp424.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:02 Støední Evropa (bìžný èas)

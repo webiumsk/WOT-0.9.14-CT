@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/formatters/invites.py
 from UnitBase import UNIT_MGR_FLAGS
 from constants import PREBATTLE_TYPE_NAMES, PREBATTLE_TYPE, QUEUE_TYPE
@@ -283,4 +283,4 @@ class PrbAutoInviteInfo(_PrbInviteInfo):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\formatters\invites.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:14 Støední Evropa (bìžný èas)

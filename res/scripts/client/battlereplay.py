@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:10 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/BattleReplay.py
 import base64
 import os
@@ -977,4 +977,4 @@ def isPlaying():
     return g_replayCtrl.isPlaying or g_replayCtrl.isTimeWarpInProgress
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\battlereplay.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:34 Støední Evropa (bìžný èas)

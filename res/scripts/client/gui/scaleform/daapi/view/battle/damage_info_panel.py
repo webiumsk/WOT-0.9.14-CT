@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/battle/damage_info_panel.py
 from gui.battle_control import g_sessionProvider
 from gui.battle_control.battle_constants import FEEDBACK_EVENT_ID as _EVENT_ID
@@ -43,4 +43,4 @@ class VehicleDamageInfoPanel(object):
             self.__hide()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\battle\damage_info_panel.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:41 Støední Evropa (bìžný èas)

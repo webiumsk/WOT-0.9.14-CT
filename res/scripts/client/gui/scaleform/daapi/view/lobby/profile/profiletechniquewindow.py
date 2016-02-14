@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/ProfileTechniqueWindow.py
 from gui.Scaleform.daapi.view.lobby.profile.QueuedVehicleDossierReceiver import QueuedVehicleDossierReceiver
 from gui.Scaleform.daapi.view.lobby.profile.ProfileTechnique import ProfileTechnique
@@ -30,4 +30,4 @@ class ProfileTechniqueWindow(ProfileTechnique):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\profiletechniquewindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:50 Støední Evropa (bìžný èas)

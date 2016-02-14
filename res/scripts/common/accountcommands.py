@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/AccountCommands.py
 from streamIDs import STREAM_ID_ACCOUNT_CMDS_MIN, STREAM_ID_ACCOUNT_CMDS_MAX
 RES_FAILURE = -1
@@ -166,4 +166,4 @@ REQUEST_ID_UNRESERVED_MIN = STREAM_ID_ACCOUNT_CMDS_MIN + 20
 REQUEST_ID_UNRESERVED_MAX = STREAM_ID_ACCOUNT_CMDS_MAX
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\accountcommands.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:46 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/gui/Scaleform/view/contact_manage_note_views.py
 from gui.Scaleform.locale.MESSENGER import MESSENGER
 from messenger.gui.Scaleform.data.contacts_vo_converter import ContactConverter
@@ -92,4 +92,4 @@ class ContactCreateNoteView(ContactManageNoteView):
         return defData
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\gui\scaleform\view\contact_manage_note_views.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:45 Støední Evropa (bìžný èas)

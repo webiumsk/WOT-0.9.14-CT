@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/quests/aspects.py
 import weakref
 from helpers import aop
@@ -28,4 +28,4 @@ class XpExchangePointcut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.shared.gui_items.processors.common', 'FreeXPExchanger', '_successHandler')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\quests\aspects.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:24 Støední Evropa (bìžný èas)

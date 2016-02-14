@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/ssl.py
 """This module provides some more Pythonic support for SSL.
 
@@ -384,4 +384,4 @@ def sslwrap_simple(sock, keyfile = None, certfile = None):
     return ssl_sock
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\ssl.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:22 Støední Evropa (bìžný èas)

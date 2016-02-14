@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_raise.py
 """Fixer for 'raise E, V, T'
 
@@ -67,4 +67,4 @@ class FixRaise(fixer_base.BaseFix):
             return pytree.Node(syms.raise_stmt, [Name(u'raise'), Call(exc, args)], prefix=node.prefix)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_raise.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:10 Støední Evropa (bìžný èas)

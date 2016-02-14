@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/notifications.py
 from constants import NC_MESSAGE_PRIORITY
 
@@ -44,4 +44,4 @@ class NotificationGuiSettings(object):
         return self.__customEvent
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\notifications.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:59 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:24 Støední Evropa (bìžný èas)

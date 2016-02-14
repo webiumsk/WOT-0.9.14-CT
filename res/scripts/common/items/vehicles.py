@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/items/vehicles.py
 import BigWorld
 import ResMgr
@@ -4424,4 +4424,4 @@ _SHELL = items.ITEM_TYPES['shell']
 _EQUIPMENT = items.ITEM_TYPES['equipment']
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\items\vehicles.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:38 Støední Evropa (bìžný èas)

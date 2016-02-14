@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:25 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/actions/chains.py
 import BigWorld
 import Event
@@ -75,4 +75,4 @@ class ActionsChain(object):
         return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\actions\chains.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:25 Støední Evropa (bìžný èas)

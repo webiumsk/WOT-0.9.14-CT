@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AreaTrigger.py
 import BigWorld
 import TriggersManager
@@ -13,4 +13,4 @@ class AreaTrigger(BigWorld.UserDataObject):
         TriggersManager.g_manager.delTrigger(self.__id)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\areatrigger.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:30 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_itertools.py
 """ Fixer for itertools.(imap|ifilter|izip) --> (map|filter|zip) and
 itertools.ifilterfalse --> itertools.filterfalse (bugs 2360-2363)
@@ -31,4 +31,4 @@ class FixItertools(fixer_base.BaseFix):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_itertools.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:09 Støední Evropa (bìžný èas)

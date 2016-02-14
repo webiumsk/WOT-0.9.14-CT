@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:21 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/companies_dps.py
 from constants import PREBATTLE_COMPANY_DIVISION, PREBATTLE_COMPANY_DIVISION_NAMES
 from gui.LobbyContext import g_lobbyContext
@@ -87,4 +87,4 @@ class CompaniesDataProvider(DAAPIDataProvider):
         return foundIdx
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\companies_dps.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:45 Støední Evropa (bìžný èas)

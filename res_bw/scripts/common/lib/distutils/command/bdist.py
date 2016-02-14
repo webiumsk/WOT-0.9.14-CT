@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/command/bdist.py
 """distutils.command.bdist
 
@@ -109,4 +109,4 @@ class bdist(Command):
             self.run_command(cmd_name)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\command\bdist.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:00 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:35 Støední Evropa (bìžný èas)

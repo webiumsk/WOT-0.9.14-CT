@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/managers/event_logging.py
 from constants import REQUEST_COOLDOWN
 from debug_utils import LOG_DEBUG, LOG_WARNING
@@ -76,4 +76,4 @@ class EventLogManager(EventLogManagerMeta):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\managers\event_logging.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:39 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/helpers/drr_scale.py
 import BigWorld
 DRR_MIN_SCALE_VALUE = 0.6
@@ -37,4 +37,4 @@ def stepDown():
     return changeScaleByStep(-DRR_MAX_STEP_VALUE)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\helpers\drr_scale.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:15 Støední Evropa (bìžný èas)

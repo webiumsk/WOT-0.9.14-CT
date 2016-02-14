@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/os2emxpath.py
 """Common pathname manipulations, OS/2 EMX version.
 
@@ -159,4 +159,4 @@ realpath = abspath
 supports_unicode_filenames = False
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\os2emxpath.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:56 Støední Evropa (bìžný èas)

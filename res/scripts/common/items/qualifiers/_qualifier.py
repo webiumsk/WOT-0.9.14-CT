@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/items/qualifiers/_qualifier.py
 from _xml import *
 
@@ -98,4 +98,4 @@ class MainSkillQualifier(Qualifier):
         return 'Main skill qualifier id="{0}" for crewRole="{1}" '.format(self.id, self.crewRole)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\items\qualifiers\_qualifier.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:39 Støední Evropa (bìžný èas)

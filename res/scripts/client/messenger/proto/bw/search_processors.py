@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw/search_processors.py
 import chat_shared
 from constants import CHANNEL_SEARCH_RESULTS_LIMIT
@@ -63,4 +63,4 @@ class SearchChannelsProcessor(SearchProcessor):
         self._onExcludeFromSearch(channel)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw\search_processors.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:50 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/offbattle/settings.py
 from gui.Scaleform.framework import GroupedViewSettings, ViewTypes, ScopeTemplates
 from tutorial.gui.Scaleform.pop_ups import TutorialGreetingDialog, TutorialQueueDialog
@@ -24,4 +24,4 @@ WINDOW_ALIAS_MAP = {'final': OFFBATTLE_VIEW_ALIAS.FINAL_RESULTS_WINDOW,
  'noResults': OFFBATTLE_VIEW_ALIAS.NO_FINAL_RESULTS_WINDOW}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\offbattle\settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:08 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:34 Støední Evropa (bìžný èas)

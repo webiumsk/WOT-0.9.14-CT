@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/proto/bw_chat2/__init__.py
 from messenger import g_settings
 from messenger.m_constants import MESSENGER_SCOPE, PROTO_TYPE
@@ -147,4 +147,4 @@ class BWProtoPlugin(IProtoPlugin):
             self.__provider.onActionReceived(actionID, reqID, args)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\proto\bw_chat2\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:30 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:55 Støední Evropa (bìžný èas)

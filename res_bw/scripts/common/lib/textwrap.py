@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/textwrap.py
 """Text wrapping and filling.
 """
@@ -304,4 +304,4 @@ if __name__ == '__main__':
     print dedent('Hello there.\n  This is indented.')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\textwrap.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:31 Støední Evropa (bìžný èas)

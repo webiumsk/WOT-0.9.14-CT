@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:45 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_helpers/PyGUI/Console.py
 import BigWorld, GUI
 import Keys
@@ -168,4 +168,4 @@ class Console(PyGUIBase):
         return self.alphaShader.value > 0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_helpers\pygui\console.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:45 Støední Evropa (bìžný èas)

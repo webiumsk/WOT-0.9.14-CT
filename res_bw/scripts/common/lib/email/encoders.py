@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/email/encoders.py
 """Encodings and related functions."""
 __all__ = ['encode_7or8bit',
@@ -67,4 +67,4 @@ def encode_noop(msg):
     pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\email\encoders.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:50 Støední Evropa (bìžný èas)

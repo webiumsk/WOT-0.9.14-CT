@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/techtree/dumpers.py
 from debug_utils import LOG_ERROR
 import gui
@@ -307,4 +307,4 @@ class NationXMLDumper(NationObjDumper):
         return self.__displayInfoFormat.format(**info)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\techtree\dumpers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:04 Støední Evropa (bìžný èas)

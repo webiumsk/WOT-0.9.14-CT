@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/inspect.py
 """Get useful information from live Python objects.
 
@@ -1073,4 +1073,4 @@ def trace(context = 1):
     return getinnerframes(sys.exc_info()[2], context)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\inspect.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:43 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/stats.py
 import itertools
 from abc import ABCMeta, abstractmethod
@@ -1563,4 +1563,4 @@ class AccountFalloutStatsBlock(FalloutStatsBlock, _VehiclesStatsBlock, _MaxAvata
         return self.FalloutVehiclesDossiersCut(battlesCount, wins, winPoints, xp)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\stats.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:36 Støední Evropa (bìžný èas)

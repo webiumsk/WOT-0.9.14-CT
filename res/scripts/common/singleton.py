@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Singleton.py
 
 
@@ -31,4 +31,4 @@ if __name__ == '__main__':
     print id(ins2), ins2.instanceName
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\singleton.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:08 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:26 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-sunos5/CDIO.py
 CDROM_LBA = 1
 CDROM_MSF = 2
@@ -74,4 +74,4 @@ SCMD_READ_ALL_SUBCODES = 223
 CDROM_MODE2_SIZE = 2336
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-sunos5\cdio.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:26 Støední Evropa (bìžný èas)

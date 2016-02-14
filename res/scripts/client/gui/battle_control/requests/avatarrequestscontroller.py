@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_control/requests/AvatarRequestsController.py
 from collections import namedtuple
 import BigWorld
@@ -78,4 +78,4 @@ class AvatarRequestsController(RequestsController):
         return 30.0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_control\requests\avatarrequestscontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:16 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:39 Støední Evropa (bìžný èas)

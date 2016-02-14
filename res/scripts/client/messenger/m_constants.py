@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/m_constants.py
 from collections import namedtuple
 from helpers import i18n
@@ -188,4 +188,4 @@ class SCH_CLIENT_MSG_TYPE(object):
     SYS_MSG_TYPE, PREMIUM_ACCOUNT_EXPIRY_MSG, AOGAS_NOTIFY_TYPE, ACTION_NOTIFY_TYPE, BATTLE_TUTORIAL_RESULTS_TYPE = range(5)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\m_constants.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:28 Støední Evropa (bìžný èas)

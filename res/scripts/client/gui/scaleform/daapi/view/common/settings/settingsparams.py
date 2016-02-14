@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/common/settings/SettingsParams.py
 import BigWorld
 from account_helpers.settings_core import settings_constants, options
@@ -89,4 +89,4 @@ class SettingsParams(object):
             return g_settingsCore.getApplyMethod(diff)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\common\settings\settingsparams.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:47 Støední Evropa (bìžný èas)

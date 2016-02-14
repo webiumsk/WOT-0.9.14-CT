@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/login/social_networks/Manager.py
 import BigWorld
 from gui import GUI_SETTINGS
@@ -67,4 +67,4 @@ class Manager(CredentialsLoginManager):
         return socialNetworks
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\login\social_networks\manager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:04 Støední Evropa (bìžný èas)

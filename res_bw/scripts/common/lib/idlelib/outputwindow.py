@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:29 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/OutputWindow.py
 from Tkinter import *
 from idlelib.EditorWindow import EditorWindow
@@ -127,4 +127,4 @@ class OnDemandOutputWindow:
         self.write = self.owin.write
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\outputwindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:30 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/ClientSelectableObject.py
 import BigWorld
 import Math
@@ -82,4 +82,4 @@ class ClientSelectableObject(BigWorld.Entity):
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\clientselectableobject.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:38 Støední Evropa (bìžný èas)

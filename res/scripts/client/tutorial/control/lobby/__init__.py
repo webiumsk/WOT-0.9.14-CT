@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/control/lobby/__init__.py
 from tutorial.control import ControlsFactory, functional as core_func
 from tutorial.control import context as core_ctx
@@ -40,4 +40,4 @@ class LobbyControlsFactory(ControlsFactory):
         return functional.FunctionalLobbyChapterInfo()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\control\lobby\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:22 Støední Evropa (bìžný èas)

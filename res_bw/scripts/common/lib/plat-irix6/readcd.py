@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-irix6/readcd.py
 from warnings import warnpy3k
 warnpy3k('the readcd module has been removed in Python 3.0', stacklevel=2)
@@ -251,4 +251,4 @@ class Readcd:
             self.playing = 0
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-irix6\readcd.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:51 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clubs/restrictions.py
 import operator
 from itertools import chain
@@ -368,4 +368,4 @@ class AccountClubLimits(RestrictionsCollection, interfaces.IAccountClubLimits):
         return 'AccountClubLimits'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clubs\restrictions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:50 Støední Evropa (bìžný èas)

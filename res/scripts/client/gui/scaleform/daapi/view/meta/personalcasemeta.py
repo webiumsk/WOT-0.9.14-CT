@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:24 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/meta/PersonalCaseMeta.py
 from gui.Scaleform.framework.entities.abstract.AbstractWindowView import AbstractWindowView
 
@@ -64,4 +64,4 @@ class PersonalCaseMeta(AbstractWindowView):
             return self.flashObject.as_setDocumentsData(data)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\meta\personalcasemeta.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:24 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/prb_control/dispatcher.py
 import types
 import weakref
@@ -845,4 +845,4 @@ class _PrbControlLoader(object):
 g_prbLoader = _PrbControlLoader()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\prb_control\dispatcher.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:09 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/MarkOfMasteryAchievement.py
 from helpers import i18n
 from abstract import ClassProgressAchievement
@@ -44,4 +44,4 @@ class MarkOfMasteryAchievement(ClassProgressAchievement):
         return 'markOfMastery%d' % (self._value or self.MIN_LVL)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\markofmasteryachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)

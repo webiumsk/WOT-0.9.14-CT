@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:58 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/events_notifications.py
 from collections import namedtuple
 import BigWorld
@@ -55,4 +55,4 @@ class EventNotification(namedtuple('EventNotification', 'eventType data text')):
         return cls.__new__(cls, data['type'], data.get('data'), text)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\events_notifications.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:35 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:58 Støední Evropa (bìžný èas)

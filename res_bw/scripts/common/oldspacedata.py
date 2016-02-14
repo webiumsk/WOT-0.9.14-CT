@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/OldSpaceData.py
 import BigWorld
 import logging
@@ -119,4 +119,4 @@ BigWorld.getSpaceGeometryMappings = getSpaceGeometryMappings
 BigWorld.setSpaceArtificialMinLoad = setSpaceArtificialMinLoad
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\oldspacedata.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:04 Støední Evropa (bìžný èas)

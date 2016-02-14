@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/fortifications/FortOrder.py
 from FortifiedRegionBase import FORT_EVENT_TYPE
 from constants import FORT_ORDER_TYPE, FORT_ORDER_TYPE_NAMES
@@ -171,4 +171,4 @@ class FortOrder(object):
         return []
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\fortifications\fortorder.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:28 Støední Evropa (bìžný èas)

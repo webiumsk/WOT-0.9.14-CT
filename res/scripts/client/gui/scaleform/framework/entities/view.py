@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:35 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/entities/View.py
 from debug_utils import LOG_DEBUG, LOG_ERROR
 from gui.Scaleform.framework.entities.abstract.AbstractViewMeta import AbstractViewMeta
@@ -94,4 +94,4 @@ class View(AbstractViewMeta):
         super(View, self)._dispose()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\entities\view.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:35 Støední Evropa (bìžný èas)

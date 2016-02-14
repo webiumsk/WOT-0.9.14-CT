@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:42 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/distutils/tests/setuptools_build_ext.py
 from distutils.command.build_ext import build_ext as _du_build_ext
 try:
@@ -235,4 +235,4 @@ else:
         return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\distutils\tests\setuptools_build_ext.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:07 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:42 Støední Evropa (bìžný èas)

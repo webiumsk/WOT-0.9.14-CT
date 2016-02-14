@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/goodies/GoodieValue.py
 from math import floor, ceil
 
@@ -59,4 +59,4 @@ class GoodieValue(object):
             return int(float(x) * self.value + 0.99)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\goodies\goodievalue.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:03 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:30 Støední Evropa (bìžný èas)

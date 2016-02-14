@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/mac_latin2.py
 """ Python Character Mapping Codec generated from 'LATIN2.TXT' with gencodec.py.
 
@@ -173,4 +173,4 @@ decoding_map.update({128: 196,
 encoding_map = codecs.make_encoding_map(decoding_map)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\mac_latin2.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:36 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:12 Støední Evropa (bìžný èas)

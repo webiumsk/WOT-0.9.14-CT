@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:45 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:09 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/data_providers.py
 import cPickle
 import constants
@@ -1044,4 +1044,4 @@ class ITEM_REMOVE_TYPE():
     STORED = 2
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\data_providers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:46 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:10 Støední Evropa (bìžný èas)

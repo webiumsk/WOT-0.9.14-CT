@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:52 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/bwobsolete_tests/GUITest.py
 """Some tests for the ashes GUI system. 
 
@@ -651,4 +651,4 @@ def mouseEvents():
     _MouseEventTester2.create(r, (0.0, 0.75, 0.0), (0, 1, 0), True)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\bwobsolete_tests\guitest.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:52 Støední Evropa (bìžný èas)

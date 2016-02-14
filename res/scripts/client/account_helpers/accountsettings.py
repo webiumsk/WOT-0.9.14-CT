@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/AccountSettings.py
 import base64
 import copy
@@ -566,4 +566,4 @@ class AccountSettings(object):
             AccountSettings.onSettingsChanging(name, value)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\accountsettings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:36:57 Støední Evropa (bìžný èas)

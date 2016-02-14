@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:23 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/decimal.py
 """
 This is a Py2.3 implementation of decimal floating point arithmetic based on
@@ -5153,4 +5153,4 @@ if __name__ == '__main__':
     doctest.testmod(sys.modules[__name__])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\decimal.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:26 Støední Evropa (bìžný èas)

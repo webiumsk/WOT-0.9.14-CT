@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:04 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/miniclient/dynamic_squads.py
 from account_helpers.settings_core.settings_constants import GAME
 from helpers import aop
@@ -36,4 +36,4 @@ class InviteReceivedMessagePointcut(aop.Pointcut):
         aop.Pointcut.__init__(self, 'gui.battle_control.dyn_squad_functional', 'DynSquadMessagesController', '_inviteReceived', aspects=(aop.DummyAspect,))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\miniclient\dynamic_squads.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:04 Støední Evropa (bìžný èas)

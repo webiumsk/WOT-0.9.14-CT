@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/genConsts/QUESTS_ALIASES.py
 
 
@@ -40,4 +40,4 @@ class QUESTS_ALIASES(object):
     BEGINNER_DETAILS_PY_ALIASES = [TUTORIAL_HANGAR_QUEST_DETAILS_PY_ALIAS, TUTORIAL_HANGAR_MOTIVE_QUEST_DETAILS_PY_ALIAS]
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\genconsts\quests_aliases.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:42 Støední Evropa (bìžný èas)

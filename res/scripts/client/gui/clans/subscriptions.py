@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/clans/subscriptions.py
 from gui.clans.interfaces import IClanListener
 from gui.shared.utils.listeners_collection import ListenersCollection
@@ -17,4 +17,4 @@ class ClansListeners(ListenersCollection):
             super(ClansListeners, self).addListener(listener)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\clans\subscriptions.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:46 Støední Evropa (bìžný èas)

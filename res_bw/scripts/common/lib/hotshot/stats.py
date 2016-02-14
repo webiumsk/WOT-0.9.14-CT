@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/hotshot/stats.py
 """Statistics analyzer for HotShot."""
 import profile
@@ -80,4 +80,4 @@ def _brokentimer():
     raise RuntimeError, 'this timer should not be called'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\hotshot\stats.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:17 Støední Evropa (bìžný èas)

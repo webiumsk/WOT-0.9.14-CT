@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:14 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/raw_unicode_escape.py
 """ Python 'raw-unicode-escape' Codec
 
@@ -39,4 +39,4 @@ def getregentry():
     return codecs.CodecInfo(name='raw-unicode-escape', encode=Codec.encode, decode=Codec.decode, incrementalencoder=IncrementalEncoder, incrementaldecoder=IncrementalDecoder, streamwriter=StreamWriter, streamreader=StreamReader)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\raw_unicode_escape.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:14 Støední Evropa (bìžný èas)

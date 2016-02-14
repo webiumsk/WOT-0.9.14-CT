@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-freebsd8/IN.py
 __GNUCLIKE_ASM = 3
 __GNUCLIKE_ASM = 2
@@ -709,4 +709,4 @@ IPV6CTL_STEALTH = 45
 IPV6CTL_MAXID = 46
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-freebsd8\in.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:43 Støední Evropa (bìžný èas)

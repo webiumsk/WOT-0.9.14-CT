@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:18 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/cyberSport/CyberSportSendInvitesWindow.py
 from adisp import process
 from gui import SystemMessages
@@ -42,4 +42,4 @@ class CyberSportSendInvitesWindow(SendInvitesWindow, ClubListener):
         self.__foundUsersCache.update(dict(((user.getID(), user) for user in users)))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport\cybersportsendinviteswindow.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:18 Støední Evropa (bìžný èas)

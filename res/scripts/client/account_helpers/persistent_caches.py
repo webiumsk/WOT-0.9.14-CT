@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/persistent_caches.py
 import BigWorld
 import cPickle
@@ -103,4 +103,4 @@ def writeFile(filename, data):
     return True
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\persistent_caches.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:38 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:01 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/CUSTOMIZATION.py
 
 
@@ -89,4 +89,4 @@ class CUSTOMIZATION(object):
     BUYWINDOW_BUYTIME_COPY = '#customization:buyWindow/buyTime/copy'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\customization.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:23 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:46 Støední Evropa (bìžný èas)

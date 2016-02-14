@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/clans/profile/ClanProfileFortificationView.py
 import weakref
 from adisp import process
@@ -56,4 +56,4 @@ class ClanProfileFortificationView(ClanProfileBaseView):
             viewPy.setProxy(self, weakref.proxy(self._fortDP), self._clanDossier)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\clans\profile\clanprofilefortificationview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:39 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:03 Støední Evropa (bìžný èas)

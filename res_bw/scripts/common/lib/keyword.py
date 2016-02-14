@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:43 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/keyword.py
 """Keywords (from "graminit.c")
 
@@ -82,4 +82,4 @@ if __name__ == '__main__':
     main()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\keyword.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:43 Støední Evropa (bìžný èas)

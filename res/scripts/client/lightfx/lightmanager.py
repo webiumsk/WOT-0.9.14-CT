@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/LightFx/LightManager.py
 import time
 from debug_utils import *
@@ -218,4 +218,4 @@ class _ChatActionsHandler:
                 g_instance.startLightEffect(GameLights.CHAT_CHANNEL_OPENED_EFFECT)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\lightfx\lightmanager.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:27 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:49 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/stat.py
 """Constants/functions for interpreting results of os.stat() and os.lstat().
 
@@ -92,4 +92,4 @@ SF_NOUNLINK = 1048576
 SF_SNAPSHOT = 2097152
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\stat.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:22 Støední Evropa (bìžný èas)

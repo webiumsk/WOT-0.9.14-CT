@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/Crypto/Util/_number_new.py
 __revision__ = '$Id$'
 __all__ = ['ceil_shift',
@@ -90,4 +90,4 @@ def exact_div(p, d, allow_divzero = False):
     return n
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\crypto\util\_number_new.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:12 Støední Evropa (bìžný èas)

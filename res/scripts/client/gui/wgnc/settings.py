@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/wgnc/settings.py
 
 
@@ -46,4 +46,4 @@ def convertToLocalBG(icon):
     return result
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\wgnc\settings.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:50 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:12 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Effects/Buffered.py
 import BigWorld
 import ResMgr
@@ -122,4 +122,4 @@ def bufferedOneShotEffect(fileName, source, target = None, callbackFn = None, ma
 queue = Queue()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\effects\buffered.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:54 Støední Evropa (bìžný èas)

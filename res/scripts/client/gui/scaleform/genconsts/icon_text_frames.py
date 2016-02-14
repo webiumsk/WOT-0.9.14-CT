@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:41 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/genConsts/ICON_TEXT_FRAMES.py
 
 
@@ -32,4 +32,4 @@ class ICON_TEXT_FRAMES(object):
     REWARD_SHEET = 'sheets'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\genconsts\icon_text_frames.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:18 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:41 Støední Evropa (bìžný èas)

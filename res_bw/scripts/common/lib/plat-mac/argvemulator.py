@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-mac/argvemulator.py
 """argvemulator - create sys.argv from OSA events. Used by applets that
 want unix-style arguments.
@@ -87,4 +87,4 @@ if __name__ == '__main__':
     print 'sys.argv=', sys.argv
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-mac\argvemulator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:15 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:54 Støední Evropa (bìžný èas)

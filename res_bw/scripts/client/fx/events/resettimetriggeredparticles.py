@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Events/ResetTimeTriggeredParticles.py
 from FX import s_sectionProcessors
 from ParticleSubSystem import *
@@ -34,4 +34,4 @@ class ResetTimeTriggeredParticles(ParticleSubSystem):
 s_sectionProcessors['ResetTimeTriggeredParticles'] = ResetTimeTriggeredParticles
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\events\resettimetriggeredparticles.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:29 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:57 Støední Evropa (bìžný èas)

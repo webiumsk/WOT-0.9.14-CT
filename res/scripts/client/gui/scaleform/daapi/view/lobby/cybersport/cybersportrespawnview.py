@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/cyberSport/CyberSportRespawnView.py
 from debug_utils import LOG_ERROR
 from gui.Scaleform.daapi import LobbySubView
@@ -105,4 +105,4 @@ class CyberSportRespawnView(CyberSportRespawnViewMeta, LobbySubView, UnitListene
             self.components[VIEW_ALIAS.MINIMAP_LOBBY].swapTeams(1 if isDefence else 2)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport\cybersportrespawnview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:17 Støední Evropa (bìžný èas)

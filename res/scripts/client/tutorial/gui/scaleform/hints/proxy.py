@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:32 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/gui/Scaleform/hints/proxy.py
 import Event
 from gui.Scaleform.genConsts.TUTORIAL_TRIGGER_TYPES import TUTORIAL_TRIGGER_TYPES
@@ -54,4 +54,4 @@ class HintsProxy(SfLobbyProxy):
             self.onHintClicked(ClickEvent(event.targetID))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\gui\scaleform\hints\proxy.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:32 Støední Evropa (bìžný èas)

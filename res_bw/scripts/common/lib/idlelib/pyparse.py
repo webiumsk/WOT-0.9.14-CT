@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:30 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/PyParse.py
 import re
 import sys
@@ -742,4 +742,4 @@ Syntax error at or near `COME_FROM' token at offset 752_0
     def get_last_stmt_bracketing(self):
         self._study2()
         return self.stmt_bracketing# decompiled 0 files: 0 okay, 1 failed, 0 verify failed
-# 2016.02.13 15:10:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:31 Støední Evropa (bìžný èas)

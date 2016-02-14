@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/opcode.py
 """
 opcode module - potentially shared between dis and other modules which
@@ -186,4 +186,4 @@ del jrel_op
 del jabs_op
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\opcode.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:22 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:54 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/WindowList.py
 from Tkinter import *
 
@@ -88,4 +88,4 @@ class ListedToplevel(Toplevel):
             pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\windowlist.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:38 Støední Evropa (bìžný èas)

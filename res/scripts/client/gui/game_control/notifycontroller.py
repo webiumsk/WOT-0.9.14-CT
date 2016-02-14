@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/game_control/NotifyController.py
 import cPickle
 import base64
@@ -174,4 +174,4 @@ class NotifyController(Controller):
         Settings.g_instance.userPrefs.write(Settings.KEY_GUI_NOTIFY_INFO, base64.b64encode(cPickle.dumps(self.__settings._asdict())))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\game_control\notifycontroller.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:38:00 Støední Evropa (bìžný èas)

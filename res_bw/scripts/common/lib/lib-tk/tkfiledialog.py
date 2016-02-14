@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:49 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib-tk/tkFileDialog.py
 from tkCommonDialog import Dialog
 
@@ -146,4 +146,4 @@ if __name__ == '__main__':
     print 'saveas', saveasfilename.encode(enc)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib-tk\tkfiledialog.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:49 Støední Evropa (bìžný èas)

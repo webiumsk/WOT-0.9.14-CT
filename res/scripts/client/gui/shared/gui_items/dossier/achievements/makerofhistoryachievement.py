@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/gui_items/dossier/achievements/MakerOfHistoryAchievement.py
 from abstract import ClassProgressAchievement
 from dossiers2.ui.achievements import ACHIEVEMENT_BLOCK as _AB
@@ -19,4 +19,4 @@ class MakerOfHistoryAchievement(Deprecated, NoProgressBar, ClassProgressAchievem
         return dossier.getRecordValue(_AB.HISTORICAL, 'bothSidesWins')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\gui_items\dossier\achievements\makerofhistoryachievement.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:39 Støední Evropa (bìžný èas)

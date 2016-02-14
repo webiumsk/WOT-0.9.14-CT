@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:27 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/tutorial/doc_loader/parsers/quests.py
 import ResMgr
 from tutorial.data.quest import QuestChapter, ProgressCondition
@@ -77,4 +77,4 @@ class QuestsChapterParser(ChapterParser):
             return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\tutorial\doc_loader\parsers\quests.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:01 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:27 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:22 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/copy_reg.py
 """Helper to provide extensibility for pickle/cPickle.
 
@@ -166,4 +166,4 @@ def clear_extension_cache():
     _extension_cache.clear()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\copy_reg.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:52 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:22 Støední Evropa (bìžný èas)

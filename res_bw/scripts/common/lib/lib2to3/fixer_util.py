@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixer_util.py
 """Utility functions, node construction macros, etc."""
 from itertools import islice
@@ -408,4 +408,4 @@ def _is_import_binding(node, name, package = None):
     return None
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixer_util.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:03 Støední Evropa (bìžný èas)

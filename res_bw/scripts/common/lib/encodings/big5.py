@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/big5.py
 import _codecs_tw, codecs
 import _multibytecodec as mbc
@@ -29,4 +29,4 @@ def getregentry():
     return codecs.CodecInfo(name='big5', encode=Codec().encode, decode=Codec().decode, incrementalencoder=IncrementalEncoder, incrementaldecoder=IncrementalDecoder, streamreader=StreamReader, streamwriter=StreamWriter)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\big5.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:00 Støední Evropa (bìžný èas)

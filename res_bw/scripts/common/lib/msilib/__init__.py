@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/msilib/__init__.py
 from _msi import *
 import os, string, re, sys
@@ -558,4 +558,4 @@ class Dialog:
         return self.control(name, 'CheckBox', x, y, w, h, attr, prop, text, next, None)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\msilib\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:56 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:34 Støední Evropa (bìžný èas)

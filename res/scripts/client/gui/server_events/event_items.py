@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:53 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:17 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/server_events/event_items.py
 import operator
 import time
@@ -874,4 +874,4 @@ def createAction(eventType, aID, data):
     return Action(aID, data)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\server_events\event_items.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:54 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:18 Støední Evropa (bìžný èas)

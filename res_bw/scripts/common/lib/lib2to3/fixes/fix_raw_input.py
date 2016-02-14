@@ -1,4 +1,4 @@
-# 2016.02.13 15:11:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/lib2to3/fixes/fix_raw_input.py
 """Fixer that changes raw_input(...) into input(...)."""
 from .. import fixer_base
@@ -13,4 +13,4 @@ class FixRawInput(fixer_base.BaseFix):
         name.replace(Name(u'input', prefix=name.prefix))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\lib2to3\fixes\fix_raw_input.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:11:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:10 Støední Evropa (bìžný èas)

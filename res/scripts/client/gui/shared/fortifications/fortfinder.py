@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/fortifications/FortFinder.py
 import BigWorld
 from gui.shared.utils.requesters import DataRequestsByIDProcessor, DataRequestCtx
@@ -15,4 +15,4 @@ class FortFinder(DataRequestsByIDProcessor):
         self._onResponseReceived(requestID, result, data)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\fortifications\fortfinder.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:41:28 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:59 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Joints/PPScreen.py
 from FX import s_sectionProcessors
 from FX import typeCheck
@@ -37,4 +37,4 @@ class PPScreen(Joint):
 s_sectionProcessors['PPScreen'] = PPScreen
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\joints\ppscreen.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:31 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:59 Støední Evropa (bìžný èas)

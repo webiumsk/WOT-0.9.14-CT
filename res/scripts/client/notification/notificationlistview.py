@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/notification/NotificationListView.py
 from debug_utils import LOG_ERROR
 from gui.Scaleform.daapi.view.meta.NotificationsListMeta import NotificationsListMeta
@@ -65,4 +65,4 @@ class NotificationListView(NotificationsListMeta, NotificationLayoutView):
         self.__setNotificationList()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\notification\notificationlistview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:12 Støední Evropa (bìžný èas)

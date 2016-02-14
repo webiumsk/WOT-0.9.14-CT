@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:04 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:31 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/items/tankmen.py
 from functools import partial
 import math
@@ -957,4 +957,4 @@ def _makeLevelXpCosts():
 _g_levelXpCosts = _makeLevelXpCosts()
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\common\items\tankmen.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:33 Støední Evropa (bìžný èas)

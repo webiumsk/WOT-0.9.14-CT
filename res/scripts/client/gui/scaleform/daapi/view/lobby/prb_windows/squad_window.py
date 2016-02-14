@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:48 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/prb_windows/squad_window.py
 from constants import PREBATTLE_TYPE
 from gui.prb_control.settings import FUNCTIONAL_FLAG
@@ -90,4 +90,4 @@ class FalloutSquadWindow(SquadWindow):
         return PREBATTLE_ALIASES.FALLOUT_SQUAD_VIEW_PY
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\prb_windows\squad_window.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:25 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:48 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:03 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/account_helpers/captcha/Kong.py
 from account_helpers.captcha import _BASE_CAPTCHA_API
 from debug_utils import LOG_ERROR, LOG_CURRENT_EXCEPTION, LOG_DEBUG
@@ -40,4 +40,4 @@ class Kong(_BASE_CAPTCHA_API):
         return (pic, challenge)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\account_helpers\captcha\kong.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:40 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:03 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:00:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:40 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/battle_results/stats.py
 from collections import namedtuple
 from constants import FINISH_REASON, ARENA_GUI_TYPE, ARENA_BONUS_TYPE
@@ -31,4 +31,4 @@ class PersonalInfo(_PersonalInfo):
     pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\battle_results\stats.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:00:17 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:40 Støední Evropa (bìžný èas)

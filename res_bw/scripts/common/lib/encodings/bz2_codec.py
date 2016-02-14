@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:00 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/encodings/bz2_codec.py
 """ Python 'bz2_codec' Codec - bz2 compression encoding
 
@@ -100,4 +100,4 @@ def getregentry():
     return codecs.CodecInfo(name='bz2', encode=bz2_encode, decode=bz2_decode, incrementalencoder=IncrementalEncoder, incrementaldecoder=IncrementalDecoder, streamwriter=StreamWriter, streamreader=StreamReader)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\encodings\bz2_codec.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:24 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:00 Støední Evropa (bìžný èas)

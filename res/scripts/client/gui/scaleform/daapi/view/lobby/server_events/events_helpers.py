@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:57 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/server_events/events_helpers.py
 from functools import partial
 import time
@@ -763,4 +763,4 @@ def getTabAliasByQuestBranchName(branchName):
     return getTabAliasByQuestBranchID(PQ_BRANCH.NAME_TO_TYPE[branchName])
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\server_events\events_helpers.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:34 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:58 Støední Evropa (bìžný èas)

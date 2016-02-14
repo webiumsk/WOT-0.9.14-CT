@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:37 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/fort_utils/fort_formatters.py
 import BigWorld
 from helpers import i18n
@@ -68,4 +68,4 @@ def getDivisionIcon(defenderFortLevel, attackerFortLevel, determineAlert = True)
      'divisionID': divisionID}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\fort_utils\fort_formatters.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:13 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:37 Støední Evropa (bìžný èas)

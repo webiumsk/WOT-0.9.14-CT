@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:12 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/Crypto/Util/py3compat.py
 """Compatibility code for handling string/bytes changes from Python 2.x to Py3k
 
@@ -105,4 +105,4 @@ else:
     from io import BytesIO
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\crypto\util\py3compat.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:37 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:12 Støední Evropa (bìžný èas)

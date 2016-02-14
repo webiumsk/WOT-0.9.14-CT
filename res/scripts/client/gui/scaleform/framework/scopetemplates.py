@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/framework/ScopeTemplates.py
 from gui.Scaleform.framework import ViewTypes
 
@@ -112,4 +112,4 @@ VIEW_TYPES_TO_SCOPES = {ViewTypes.VIEW: VIEW_SCOPE,
  ViewTypes.LOBBY_SUB: LOBBY_SUB_SCOPE}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\framework\scopetemplates.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:11 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:34 Støední Evropa (bìžný èas)

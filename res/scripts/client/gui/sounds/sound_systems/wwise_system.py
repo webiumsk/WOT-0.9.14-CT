@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/sounds/sound_systems/wwise_system.py
 import WWISE
 import SoundGroups
@@ -32,4 +32,4 @@ class WWISESoundSystem(SoundSystemAbstract):
         WWISE.WW_eventGlobalSync('ue_set_preset_low_dynamic_range')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\sounds\sound_systems\wwise_system.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:48 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:11 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/atexit.py
 """
 atexit.py - allow programmer to define multiple exit functions to be executed
@@ -70,4 +70,4 @@ if __name__ == '__main__':
     register(x3, 'no kwd args')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\atexit.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:41 Støední Evropa (bìžný èas)
+# 2016.02.14 12:45:10 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:04:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/shared/utils/requesters/TokenResponse.py
 import BigWorld
 TOKEN_EXPIRED_TIME = 3000
@@ -39,4 +39,4 @@ class TokenResponse(object):
         return self._error
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\shared\utils\requesters\tokenresponse.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:04:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:08 Støední Evropa (bìžný èas)

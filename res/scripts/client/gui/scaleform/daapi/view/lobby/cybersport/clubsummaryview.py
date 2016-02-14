@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/cyberSport/ClubSummaryView.py
 import BigWorld
 from gui.Scaleform.daapi.view.lobby.cyberSport.ClubProfileWindow import ClubPage
@@ -202,4 +202,4 @@ def _makeMapVO(idx, mapID, mapInfo):
      'value': text_styles.stats(winsEfficiencyStr)}
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport\clubsummaryview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:51 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:15 Støední Evropa (bìžný èas)

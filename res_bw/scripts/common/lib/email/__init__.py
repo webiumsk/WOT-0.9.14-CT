@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/email/__init__.py
 """A package for parsing, handling, and generating email messages."""
 __version__ = '4.0.3'
@@ -99,4 +99,4 @@ for _name in _MIMENAMES:
     setattr(sys.modules['email.mime'], _name, importer)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\email\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:19 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:54 Støední Evropa (bìžný èas)

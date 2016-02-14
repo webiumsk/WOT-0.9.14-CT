@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:19 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/cyberSport/StaticFormationUnitView.py
 import BigWorld
 from UnitBase import UNIT_OP
@@ -305,4 +305,4 @@ class StaticFormationUnitView(StaticFormationUnitMeta, ClubListener, ClubEmblems
         self.as_setTotalLabelS(canDoAction, vo_converters.makeTotalLevelLabel(unitStats, restriction), unitStats.curTotalLevel)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\cybersport\staticformationunitview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:55 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:19 Støední Evropa (bìžný èas)

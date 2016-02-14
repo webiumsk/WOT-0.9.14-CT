@@ -1,4 +1,4 @@
-# 2016.02.13 15:07:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:54 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/FX/Effects/_Effect.py
 import ResMgr
 from FX import s_sectionProcessors
@@ -104,4 +104,4 @@ class Effect:
         pass
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\client\fx\effects\_effect.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:07:27 Støední Evropa (bìžný èas)
+# 2016.02.14 12:44:55 Støední Evropa (bìžný èas)

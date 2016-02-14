@@ -1,4 +1,4 @@
-# 2016.02.13 15:06:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:38 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/VOIP/VOIPCommon.py
 CODE_SUCCESS = 0
 CODE_ERROR = 1
@@ -35,4 +35,4 @@ KEY_VOIP_MIC = 'micVivox'
 CMD_SET_PARTICIPANT_MUTE = 'set_participant_mute'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\voip\voipcommon.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:06:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:43:38 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:56 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/locale/RES_FORT.py
 
 
@@ -136,4 +136,4 @@ class RES_FORT(object):
     MAPS_FORT_PERIODDEFENCEWINDOW = '../maps/fort/periodDefenceWindow.png'
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\locale\res_fort.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:03:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:56 Støední Evropa (bìžný èas)

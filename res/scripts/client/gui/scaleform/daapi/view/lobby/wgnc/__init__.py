@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:08 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/wgnc/__init__.py
 from debug_utils import LOG_WARNING
 from gui.Scaleform.framework import ScopeTemplates, ViewSettings, ViewTypes, GroupedViewSettings
@@ -55,4 +55,4 @@ class _WGNCPackageBusinessHandler(PackageBusinessHandler):
          'target': target})
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\wgnc\__init__.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:40:08 Støední Evropa (bìžný èas)

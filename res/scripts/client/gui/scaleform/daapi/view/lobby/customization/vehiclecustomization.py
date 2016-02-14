@@ -1,4 +1,4 @@
-# 2016.02.13 15:01:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:11 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/customization/VehicleCustomization.py
 import BigWorld
 from collections import defaultdict
@@ -475,4 +475,4 @@ class VehicleCustomization(VehicleCustomizationMeta, View):
             return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\customization\vehiclecustomization.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:01:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:12 Støední Evropa (bìžný èas)

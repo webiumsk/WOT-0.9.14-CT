@@ -1,4 +1,4 @@
-# 2016.02.13 15:10:57 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:34 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/idlelib/run.py
 import sys
 import io
@@ -372,4 +372,4 @@ class Executive(object):
 capture_warnings(False)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\idlelib\run.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:10:58 Støední Evropa (bìžný èas)
+# 2016.02.14 12:48:34 Støední Evropa (bìžný èas)

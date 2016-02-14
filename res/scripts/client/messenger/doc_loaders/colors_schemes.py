@@ -1,4 +1,4 @@
-# 2016.02.13 15:05:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:28 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/messenger/doc_loaders/colors_schemes.py
 from messenger.doc_loaders import _xml_helpers
 
@@ -54,4 +54,4 @@ def load(xmlCtx, section, messengerSettings):
     return
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\messenger\doc_loaders\colors_schemes.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:05:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:42:28 Støední Evropa (bìžný èas)

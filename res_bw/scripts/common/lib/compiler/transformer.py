@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:32 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:06 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/compiler/transformer.py
 """Parse tree transformation module.
 
@@ -1328,4 +1328,4 @@ def debug_tree(tree):
     return l
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\compiler\transformer.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:33 Støední Evropa (bìžný èas)
+# 2016.02.14 12:47:08 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:13:05 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:46 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/xml/sax/expatreader.py
 """
 SAX driver for the pyexpat C module.  This driver works with
@@ -370,4 +370,4 @@ if __name__ == '__main__':
     p.parse('http://www.ibiblio.org/xml/examples/shakespeare/hamlet.xml')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\xml\sax\expatreader.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:13:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:50:47 Støední Evropa (bìžný èas)

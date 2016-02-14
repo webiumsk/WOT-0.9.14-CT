@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:39 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/uuid.py
 r"""UUID objects (universally unique identifiers) according to RFC 4122.
 
@@ -551,4 +551,4 @@ NAMESPACE_OID = UUID('6ba7b812-9dad-11d1-80b4-00c04fd430c8')
 NAMESPACE_X500 = UUID('6ba7b814-9dad-11d1-80b4-00c04fd430c8')
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\uuid.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:06 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:40 Støední Evropa (bìžný èas)

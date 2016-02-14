@@ -1,4 +1,4 @@
-# 2016.02.13 15:12:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:51 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/plat-linux2/DLFCN.py
 _DLFCN_H = 1
 _FEATURES_H = 1
@@ -94,4 +94,4 @@ RTLD_LOCAL = 0
 RTLD_NODELETE = 4096
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\plat-linux2\dlfcn.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:12:12 Støední Evropa (bìžný èas)
+# 2016.02.14 12:49:52 Støední Evropa (bìžný èas)

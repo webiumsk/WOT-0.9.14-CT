@@ -1,4 +1,4 @@
-# 2016.02.13 15:09:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:47 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/_osx_support.py
 """Shared OS X support functions."""
 import os
@@ -321,4 +321,4 @@ def get_platform_osx(_config_vars, osname, release, machine):
     return (osname, release, machine)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\_osx_support.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:09:14 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:48 Støední Evropa (bìžný èas)

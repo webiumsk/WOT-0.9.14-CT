@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:33 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/fortifications/components/FortBattlesRoomView.py
 import BigWorld
 from debug_utils import LOG_DEBUG
@@ -218,4 +218,4 @@ class FortBattlesRoomView(FortRoomMeta, FortViewHelper, UnitListener):
         self.as_showOrdersBgS(bool(not unitPermissions.canChangeConsumables() and len(activeConsumes)))
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\fortifications\components\fortbattlesroomview.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:09 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:33 Støední Evropa (bìžný èas)

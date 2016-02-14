@@ -1,4 +1,4 @@
-# 2016.02.13 14:59:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:10 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/AvatarInputHandler/ArtyHitMarker.py
 from helpers.CallbackDelayer import CallbackDelayer
 from AvatarInputHandler.control_modes import _SuperGunMarker, _SPGFlashGunMarker
@@ -53,4 +53,4 @@ class ArtyHitMarker(_SPGFlashGunMarker, CallbackDelayer):
         return self.__updateInterval
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\avatarinputhandler\artyhitmarker.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 14:59:47 Støední Evropa (bìžný èas)
+# 2016.02.14 12:37:10 Støední Evropa (bìžný èas)

@@ -1,4 +1,4 @@
-# 2016.02.13 15:08:43 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:15 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/common/Lib/shutil.py
 """Utility functions for copying and archiving files and directory trees.
 
@@ -570,4 +570,4 @@ def make_archive(base_name, format, root_dir = None, base_dir = None, verbose = 
     return filename
 # okay decompyling c:\Users\PC\wotsources\files\originals\res_bw\scripts\common\lib\shutil.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:08:44 Støední Evropa (bìžný èas)
+# 2016.02.14 12:46:16 Støední Evropa (bìžný èas)

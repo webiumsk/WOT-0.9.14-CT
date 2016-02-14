@@ -1,4 +1,4 @@
-# 2016.02.13 15:02:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:50 Støední Evropa (bìžný èas)
 # Embedded file name: scripts/client/gui/Scaleform/daapi/view/lobby/profile/ProfileTabNavigator.py
 from gui.Scaleform.daapi.view.lobby.profile.ProfileSection import ProfileSection
 from gui.Scaleform.daapi.view.meta.ProfileTabNavigatorMeta import ProfileTabNavigatorMeta
@@ -29,4 +29,4 @@ class ProfileTabNavigator(ProfileTabNavigatorMeta):
         super(ProfileTabNavigator, self).registerFlashComponent(component, alias, self.__userName, self.__userID, self.__databaseID, self.__selectedData)
 # okay decompyling c:\Users\PC\wotsources\files\originals\res\scripts\client\gui\scaleform\daapi\view\lobby\profile\profiletabnavigator.pyc 
 # decompiled 1 files: 1 okay, 0 failed, 0 verify failed
-# 2016.02.13 15:02:26 Støední Evropa (bìžný èas)
+# 2016.02.14 12:39:50 Støední Evropa (bìžný èas)
